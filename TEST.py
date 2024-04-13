@@ -45,3 +45,6 @@ def timer0():
     if current_step == 9: go_forward()
     if current_step == 10: stop()
     current_step += 1
+    
+vecteur.append()
+
