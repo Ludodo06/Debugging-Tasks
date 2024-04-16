@@ -26,7 +26,7 @@ def stop():
     motor_left_target = 0
     motor_right_target = 0
 # DO NOT MODIFY THE CODE ABOVE
-
+-
 
 timer_period[0] = 100 #[ms] : Start the path immediatly
 current_step = 1
