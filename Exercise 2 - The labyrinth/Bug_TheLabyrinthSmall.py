@@ -10,8 +10,8 @@ def pivot_left():
     global motor_left_target, motor_right_target, timer_period
     timer_period[0] = 1480
     nf_leds_top(32,16,0)
-    motor_left_target = -150
     motor_right_target = 150
+    motor_left_target = -150
     
 def pivot_right():
     global motor_left_target, motor_right_target, timer_period
