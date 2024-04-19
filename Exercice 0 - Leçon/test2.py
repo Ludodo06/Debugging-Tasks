@@ -1,6 +1,6 @@
-vec = []
+vec = [0]
 
 for i in range(10):
-    vec += [i]
+    vec = vec + [i]
     
-print
+print(vec)

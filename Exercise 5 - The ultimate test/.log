@@ -13873,3 +13873,13 @@ OP66222d7b 20 9 24
 OP66222d7b 17 9 24
 WO66222e3e 
 WI66222e4a 
+WO66222e63 
+OP66222e6e Error: list variable 'vec' in augmented assignment
+OP66222e6e     
+OP66222e6e Line 4
+OP66222e81 Error: incompatible sizes for list assignment to 'vec'
+OP66222e81     
+OP66222e81 Line 4
+OP66222e94 Error: incompatible sizes for list assignment to 'vec'
+OP66222e94     
+OP66222e94 Line 4
