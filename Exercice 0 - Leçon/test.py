@@ -8,5 +8,8 @@ def acc():
     max = acc[2] if acc[2] > max else max
     print(acc[2], min, max)
     
-#motor_right_target = 200
-#motor_left_target = 200
+@onevent
+def timer0():
+    global        
+    motor_right_target = 200
+    motor_left_target = 200
