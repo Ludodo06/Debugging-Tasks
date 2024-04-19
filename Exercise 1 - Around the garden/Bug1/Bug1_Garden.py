@@ -35,9 +35,12 @@ def timer0():
   
   
         
+left_last = 0
+right_last = 0
 @onevent
 def acc():
-    left_last = 0
-    right_last = 0
+
     if left_last != motor_left_target & right_last != motor_right_target:
         left_last = motor_left_target
+        right_last = motor_right_target
+        print("Vitesse des roues:é
