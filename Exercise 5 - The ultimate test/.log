@@ -13889,3 +13889,16 @@ OP66222ebe Line 6
 OP66222edf Error: list variable 'vec' used in expression
 OP66222edf     
 OP66222edf Line 6
+OP66222ee6 0
+OP66222ee6 0
+OP66222ee6 0
+OP66222ee6 0
+OP66222ee6 0
+OP66222ee6 0
+OP66222ee6 0
+OP66222ee6 0
+OP66222ee6 0
+OP66222ee6 0
+OP66222efc Error: list not supported in expression
+OP66222efc     
+OP66222efc Line 1
