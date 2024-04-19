@@ -13883,3 +13883,9 @@ OP66222e81 Line 4
 OP66222e94 Error: incompatible sizes for list assignment to 'vec'
 OP66222e94     
 OP66222e94 Line 4
+OP66222ebe Error: list variable 'vec' used in expression
+OP66222ebe     
+OP66222ebe Line 6
+OP66222edf Error: list variable 'vec' used in expression
+OP66222edf     
+OP66222edf Line 6
