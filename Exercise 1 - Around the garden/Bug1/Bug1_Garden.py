@@ -44,7 +44,7 @@ def acc():
         right_last = motor_right_target
         print("Vitesse des roues:", left_last, right_last)
         
-    elif(acc[2] > 25 or acc[2] < 12) and (left_last !=0 or right_last !=0):
+    elif(acc[2] > 26 or acc[2] < 9) and (left_last !=0 or right_last !=0):
         print("Robot manipulé", acc[2])
         
     elif(acc[2] > 22 or acc[2] < 19) and (left_last ==0 or right_last ==0):
