@@ -7,3 +7,19 @@ WI662233fe
 CP66223468 
 PS66223469 
 PS66223469 
+OP662234ab Warning: in function 'acc', redefining variables 'left_last', 'right_last' from outer scope
+OP662234ab     
+OP662234ab Line 40
+OP662234ac Vitesse des roues:
+OP662234ac 200 200
+OP662234b0 Vitesse des roues:
+OP662234b0 -200 200
+OP662234b1 Vitesse des roues:
+OP662234b1 200 200
+OP662234d1 Warning: in function 'acc', redefining variables 'left_last', 'right_last' from outer scope
+OP662234d1     
+OP662234d1 Line 40
+OP662234d2 Vitesse des roues: 200 200
+OP662234d2 200 200
+OP662234d6 Vitesse des roues: -200 200
+OP662234d6 -200 200

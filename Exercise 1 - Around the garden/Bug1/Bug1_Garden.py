@@ -40,7 +40,8 @@ right_last = 0
 @onevent
 def acc():
 
-    if left_last != motor_left_target & right_last != motor_right_target:
+    if left_last != motor_left_target or right_last != motor_right_target:
         left_last = motor_left_target
         right_last = motor_right_target
-        print("Vitesse des roues:é
+        print("Vitesse des roues:", left_last, right_last)
+        print(left_last, right_last)
