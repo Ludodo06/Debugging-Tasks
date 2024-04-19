@@ -45,7 +45,7 @@ def acc():
         print("Vitesse des roues:", left_last, right_last)
         
     elif (acc[0] > 3 or acc[0] < -3 or acc[1] > 3 or acc[1] < -3) and (left_last !=0 or right_last !=0):
-        print("Robot manipulé", acc[0])
+        print("Robot manipulé", acc[0], acc[1])
         
     if (acc[0] > 3 or acc[0] < -3 or acc[1] > 3 or acc[1] < -3)  and (left_last ==0 or right_last ==0):
         print("Robot manipulé")
