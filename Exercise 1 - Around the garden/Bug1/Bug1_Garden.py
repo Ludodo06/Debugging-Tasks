@@ -31,8 +31,7 @@ def timer0():
   
   
   
-  
-  
+# ----------- DONT TOUCH -
 print(" --- Debut du programme --- ")
         
 left_last = 0
