@@ -50,4 +50,8 @@ def acc():
     if (acc[0] > 3 or acc[0] < -3 or acc[1] > 3 or acc[1] < -3)  and (left_last ==0 or right_last ==0):
         print("Robot manipulé")
         
+@onevent
+def button_center():
+    print("Button center pressed")
+        
     
