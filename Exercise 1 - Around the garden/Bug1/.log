@@ -23,3 +23,14 @@ OP662234d2 Vitesse des roues: 200 200
 OP662234d2 200 200
 OP662234d6 Vitesse des roues: -200 200
 OP662234d6 -200 200
+OP662234d7 Vitesse des roues: 200 200
+OP662234d7 200 200
+OP662234fa Warning: in function 'acc', redefining variables 'left_last', 'right_last' from outer scope
+OP662234fa     
+OP662234fa Line 40
+OP662234fa  --- Debut du programme --- 
+OP662234fa Vitesse des roues: 200 200
+OP662234fe Vitesse des roues: -200 200
+OP66223500 Vitesse des roues: 200 200
+OP66223504 Vitesse des roues: -200 200
+OP66223505 Vitesse des roues: 200 200

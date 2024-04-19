@@ -33,15 +33,14 @@ def timer0():
   
   
   
-  
+print(" --- Debut du programme --- ")
         
 left_last = 0
 right_last = 0
 @onevent
 def acc():
-
+    global left_last, right_last
     if left_last != motor_left_target or right_last != motor_right_target:
         left_last = motor_left_target
         right_last = motor_right_target
         print("Vitesse des roues:", left_last, right_last)
-        print(left_last, right_last)
