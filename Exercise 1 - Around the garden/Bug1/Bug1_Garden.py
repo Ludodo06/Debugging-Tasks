@@ -44,3 +44,6 @@ def acc():
         left_last = motor_left_target
         right_last = motor_right_target
         print("Vitesse des roues:", left_last, right_last)
+        
+    if(acc[2] > 25 or acc[2] < 8):
+        print("Robot manipulé")
