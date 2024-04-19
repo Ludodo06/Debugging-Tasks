@@ -13902,3 +13902,14 @@ OP66222ee6 0
 OP66222efc Error: list not supported in expression
 OP66222efc     
 OP66222efc Line 1
+OP66222fb7 Error: node Str(s='coucou') not implemented
+OP66222fb7     
+OP66222fb7 Line 1
+OP66222fc9 Error: node Str(s='coucou') not implemented
+OP66222fc9     
+OP66222fc9 Line 1
+OP66222fd2 Error: unknown function 'str'
+OP66222fd2     
+OP66222fd2 Line 1
+WO66222fdc 
+WI66222fde 
