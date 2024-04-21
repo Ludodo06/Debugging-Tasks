@@ -81,7 +81,7 @@ def acc():
         timer_period[1] = 1000
         
     # Check if he manipulates the wheels
-    if (motor_left_target == 0 and motor_left_speed*motor_left_speed > 16) or (motor_right_target == 0 and motor_right_speed != 0):
+    if (motor_left_target == 0 and motor_left_speed*motor_left_speed > 100) or (motor_right_target == 0 and motor_right_speed*motor_right_speed > 100):
         print("Wheels manualy manipulated", motor_left_speed, motor_right_speed)
         
 
