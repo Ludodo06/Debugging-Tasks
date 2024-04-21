@@ -3,12 +3,12 @@ def timer0():
     global current_step
     
     if current_step == 1: go_forward()
-    if current_step == 1: pivot_right()
-    if current_step == 2: go_forward()
-    if current_step == 3: pivot_right()
-    if current_step == 4: go_forward()
-    if current_step == 5: pivot_left()
-    if current_step == 6: go_forward()
+    if current_step == 2: pivot_right()
+    if current_step == 3: go_forward()
+    if current_step == 4: pivot_right()
+    if current_step == 5: go_forward()
+    if current_step == 6: pivot_left()
+    if current_step == 7: go_forward()
     if current_step == 8: pivot_left()
     if current_step == 9: go_forward()
     if current_step = 10: stop()
@@ -26,7 +26,7 @@ def timer0():
     current_step += 1
 
 timer_period[0] = 100
-current_step = 0
+current_step = 1
 
 def go_forward():
     global motor_left_target, motor_right_target, timer_period
@@ -100,7 +100,7 @@ def stop():
 
 
 
-print(" --- Start of the program Bug_TheLabyrinth.py --- ")
+print(" --- Start of the program Bug_TheLabyrinthSmall.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
