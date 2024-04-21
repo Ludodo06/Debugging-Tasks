@@ -64,7 +64,7 @@ def timer1():
     global can_print_acc, can_print_mot
     can_print_acc = True
     can_print_mot = True
-    timer_period[1]
+    timer_period[1] = 0
         
 left_last = 0
 right_last = 0
@@ -82,7 +82,7 @@ def acc():
         print("New target speed:\tleft", left_last, "\tright", right_last)
         can_print_mot = False
         can_print_acc = False
-        timer_period[1] = 1000
+        timer_period[1] = 400
         
     # Check the acc to see if Thymio is manipulated
     elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 36) and (left_last !=0 or right_last !=0) and can_print_acc:
