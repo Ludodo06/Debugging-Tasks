@@ -45,12 +45,14 @@
 print(" --- Start of the program Bug1_Garden.py --- ")
         
 # To avoid flood, can print once every second if manipulated
-can_print = True
+can_print_acc = True
+can_print_mot = True
 
 @onevent
 def timer1():
     global can_print
-    can_print = True
+    can_print_acc = True
+    can_print_mot = True
     timer_period[1]
         
 left_last = 0
@@ -69,20 +71,22 @@ def acc():
         print("New speed: left=", left_last, ", right=", right_last)
         
     # Check the acc to see if Thymio is manipulated
-    elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print:
+    elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print_acc:
         print("Thymio manipulated", acc[0], acc[1], acc[2])
-        can_print = False
+        can_print_acc = False
         timer_period[1] = 1000
         
     # Be less indulgent for the thresholds if Thymio is not supposed to move    
-    if (acc[2]-20)*(acc[2]-20) > 9  and (left_last == 0 or right_last == 0) and can_print:
+    if (acc[2]-20)*(acc[2]-20) > 9  and (left_last == 0 or right_last == 0) and can_print_acc:
         print("Thymio manipulated", acc[0], acc[1], acc[2])
-        can_print = False
+        can_print_acc = False
         timer_period[1] = 1000
         
     # Check if he manipulates the wheels
-    if (motor_left_target == 0 and motor_left_speed*motor_left_speed > 100) or (motor_right_target == 0 and motor_right_speed*motor_right_speed > 100):
+    if ((motor_left_target == 0 and motor_left_speed*motor_left_speed > 100) or (motor_right_target == 0 and motor_right_speed*motor_right_speed > 100)) and can_print_mot:
         print("Wheels manualy manipulated", motor_left_speed, motor_right_speed)
+        can_print_mot = False
+        
         
 
 # Button prints
