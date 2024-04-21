@@ -2232,3 +2232,21 @@ OP6625199b Button pressed: 	button_forward
 OP6625199b Button pressed: 	button_center
 OP6625199c Thymio manipulated: 	x -19 		y 2 		z 8
 OP6625199d Thymio manipulated: 	x 1 		y -2 		z 16
+OP662519a1 New target speed:		left 200 	right 200
+OP662519ab  --- Start of the program Bug1_Garden.py --- 
+OP662519ac Thymio manipulated: 	x 1 		y -1 		z 15
+OP662519ad Wheels manipulated: 	left 123 	right 61
+OP662519ad Thymio manipulated: 	x -1 		y -3 		z 16
+OP662519ae Thymio manipulated: 	x -16 		y 0 		z 11
+OP662519af Thymio manipulated: 	x 18 		y 3 		z 1
+OP662519b0 Button pressed: 	button_center
+OP662519b0 Button pressed: 	button_center
+OP662519b0 Button pressed: 	button_forward
+OP662519b1 Button pressed: 	button_forward
+OP662519b1 Button pressed: 	button_left
+OP662519b1 Button pressed: 	button_left
+OP662519b2 Wheels manipulated: 	left 49 	right 11
+OP662519b2 Thymio manipulated: 	x 0 		y -4 		z 14
+OP662519b5 New target speed:	left 200 	right 200
+OP662519b9 New target speed:	left -200 	right 200
+OP662519ba New target speed:	left 200 	right 200
