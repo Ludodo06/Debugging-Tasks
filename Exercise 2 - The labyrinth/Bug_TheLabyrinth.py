@@ -1,6 +1,3 @@
-timer_period[0] = 100 #[ms] : Start the path immediatly
-current_step = 0
-
 @onevent
 def timer0():
     global current_step
@@ -39,6 +36,10 @@ def timer0():
 # ---------------------------- #  
 # ---------------------------- #    
 # DO NOT MODIFY THE CODE BELOW #
+
+timer_period[0] = 100
+current_step = 0
+
 def go_forward():
     global motor_left_target, motor_right_target, timer_period
     timer_period[0] = 2500
@@ -65,6 +66,7 @@ def stop():
     nf_leds_top(0,0,0)
     motor_left_target = 0
     motor_right_target = 0
+    
 # DO NOT MODIFY THE CODE ABOVE #
 # ---------------------------- #  
 # ---------------------------- #  
@@ -110,7 +112,7 @@ def stop():
 
 
 
-print(" --- Start of the program Bug1_Garden.py --- ")
+print(" --- Start of the program Bug_TheLabyrinth.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
