@@ -2113,3 +2113,14 @@ OP66251858 Thymio manipulated: 	 x -21 	 y 5 	 z 5
 OP66251859 New speed:	 left -200 	 right 200
 OP6625185a Thymio manipulated: 	 x 0 	 y -5 	 z 14
 OP6625185a New speed:	 left 200 	 right 200
+OP6625185d Thymio manipulated: 	 x 0 	 y -5 	 z 19
+OP6625185e New speed:	 left -200 	 right 200
+OP66251860 New speed:	 left 200 	 right 200
+CP6625186e 
+PS6625186f 
+PS66251870 
+OP6625188b  --- Start of the program Bug1_Garden.py --- 
+OP6625188b New speed:	t left 200 	 right 200
+OP66251894  --- Start of the program Bug1_Garden.py --- 
+OP66251894 New speed:		left 200 	 right 200
+OP66251895 Thymio manipulated: 	 x -1 	 y -5 	 z 21
