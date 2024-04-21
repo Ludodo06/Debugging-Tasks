@@ -62,7 +62,7 @@ def prox():
 
 
 
-print(" --- Start of the program Bug_TheLabyrinthSmall.py --- ")
+print(" --- Start of the program Bug_TheTransporter.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
