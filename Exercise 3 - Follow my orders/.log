@@ -257,3 +257,67 @@ OP662520da Button pressed: 	button_left
 OP662520da Button pressed: 	button_center
 OP662520da New target speed:	left 0 	right 0
 OP662520da Button pressed: 	button_center
+OP662520e2  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP662520e4 Button pressed: 	button_right
+OP662520e4 New target speed:	left 100 	right -100
+OP662520e4 Button pressed: 	button_right
+OP662520e5 Button pressed: 	button_center
+OP662520e5 New target speed:	left 0 	right 0
+OP662520e5 Button pressed: 	button_center
+OP662520e5 Button pressed: 	button_left
+OP662520e5 New target speed:	left -100 	right 100
+OP662520e5 Button pressed: 	button_left
+OP662520e6 Button pressed: 	button_center
+OP662520e6 New target speed:	left 0 	right 0
+OP662520e6 Button pressed: 	button_center
+OP662520e6 Button pressed: 	button_forward
+OP662520e6 New target speed:	left 255 	right 255
+OP662520e7 Button pressed: 	button_forward
+OP662520e7 Button pressed: 	button_center
+OP662520e7 New target speed:	left 0 	right 0
+OP662520e7 Button pressed: 	button_center
+OP662520e8 Button pressed: 	button_right
+OP662520e8 New target speed:	left 100 	right -100
+OP662520e8 Button pressed: 	button_right
+OP662520e8 Button pressed: 	button_center
+OP662520e8 New target speed:	left 0 	right 0
+OP662520e8 Button pressed: 	button_center
+OP662520e9 Button pressed: 	button_left
+OP662520e9 Button pressed: 	button_left
+OP662520e9 New target speed:	left -100 	right 100
+OP662520e9 Button pressed: 	button_center
+OP662520e9 New target speed:	left 0 	right 0
+OP662520ea Button pressed: 	button_center
+OP662520ea Button pressed: 	button_backward
+OP662520ea New target speed:	left -255 	right -255
+OP662520ea Button pressed: 	button_backward
+OP662520eb Button pressed: 	button_center
+OP662520eb New target speed:	left 0 	right 0
+OP662520eb Button pressed: 	button_center
+CT662520f5 
+CT662520f5 
+PS662520f6 
+PS662520f6 
+OP662520f9 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP662520f9     
+OP662520f9 Line 1
+OP662520f9  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP662520fd Button pressed: 	button_right
+OP662520fd New target speed:	left 100 	right 0
+OP662520fd Button pressed: 	button_right
+OP662520fd Button pressed: 	button_center
+OP662520fd New target speed:	left 0 	right 0
+OP662520fd Button pressed: 	button_center
+OP662520fe Button pressed: 	button_left
+OP662520fe New target speed:	left -100 	right 0
+OP662520fe Button pressed: 	button_left
+OP662520fe Button pressed: 	button_center
+OP662520fe New target speed:	left 0 	right 0
+OP662520fe Button pressed: 	button_center
+UD662520ff 
+UD662520ff 
+UD662520ff 
+UD662520ff 
+WO66252107 
+WI66252111 
+CP66252119 
