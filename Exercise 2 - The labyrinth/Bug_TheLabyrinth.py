@@ -24,7 +24,6 @@ def timer0():
     if current_step == 20: pivot_left()
     if current_step == 21: go_forward()
     if current_step == 22: stop()
-    current_step += 1
     
     
     
