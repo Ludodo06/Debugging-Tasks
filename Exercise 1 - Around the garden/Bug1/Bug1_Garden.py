@@ -88,8 +88,6 @@ def acc():
         can_print_mot = False
         timer_period[1] = 1000
         
-        
-
 # Button prints
 @onevent
 def button_center():   print("Button center pressed")
