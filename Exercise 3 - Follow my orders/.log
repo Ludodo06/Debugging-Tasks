@@ -6,3 +6,38 @@ CT661e696f
 CT661e696f 
 PS661e6970 
 PS661e6970 
+PS6625203f 
+PS6625203f 
+OP66252042  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66252044 Button pressed: 	button_forward
+OP66252044 New target speed:	left 255 	right 255
+OP66252044 Button pressed: 	button_forward
+OP66252047 Button pressed: 	button_backward
+OP66252047 New target speed:	left -255 	right -255
+OP66252047 Button pressed: 	button_backward
+OP6625204a Button pressed: 	button_right
+OP6625204a New target speed:	left 100 	right -100
+OP6625204a Button pressed: 	button_right
+OP6625204d Button pressed: 	button_left
+OP6625204d New target speed:	left -100 	right 100
+OP6625204d Button pressed: 	button_left
+OP66252050 Button pressed: 	button_center
+OP66252050 New target speed:	left 0 	right 0
+OP66252050 Button pressed: 	button_center
+OP66252055 Thymio manipulated: 	x -1 		y -1 		z 24
+OP66252057 Thymio manipulated: 	x 0 		y -1 		z 15
+OP66252059 Button pressed: 	button_forward
+OP66252059 New target speed:	left 255 	right 255
+OP66252059 Button pressed: 	button_forward
+OP66252059 Button pressed: 	button_center
+OP66252059 New target speed:	left 0 	right 0
+OP66252059 Button pressed: 	button_center
+OP6625205c Button pressed: 	button_right
+OP6625205c New target speed:	left 100 	right -100
+OP6625205c Button pressed: 	button_right
+OP6625205d Button pressed: 	button_backward
+OP6625205d New target speed:	left -255 	right -255
+OP6625205d Button pressed: 	button_backward
+OP6625205d Button pressed: 	button_center
+OP6625205d New target speed:	left 0 	right 0
+OP6625205d Button pressed: 	button_center
