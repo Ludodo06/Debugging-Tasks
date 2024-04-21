@@ -347,3 +347,43 @@ OP66252557 Button pressed: 	button_center
 OP66252557 Button pressed: 	button_right
 OP66252557 New target speed:	left 100 	right -100
 OP66252557 Button pressed: 	button_right
+OP66252557 Button pressed: 	button_center
+OP66252558 New target speed:	left 0 	right 0
+OP66252558 Button pressed: 	button_center
+OP66252558 Button pressed: 	button_backward
+OP66252558 New target speed:	left -255 	right -255
+OP66252558 Button pressed: 	button_backward
+OP66252559 Button pressed: 	button_center
+OP66252559 New target speed:	left 0 	right 0
+OP66252559 Button pressed: 	button_center
+OP66252559 Button pressed: 	button_forward
+OP66252559 New target speed:	left 255 	right 255
+OP66252559 Button pressed: 	button_forward
+OP6625255a Button pressed: 	button_center
+OP6625255a New target speed:	left 0 	right 0
+OP6625255a Button pressed: 	button_center
+OP6625255a Button pressed: 	button_left
+OP6625255a New target speed:	left -100 	right 100
+OP6625255a Button pressed: 	button_left
+OP6625255b Button pressed: 	button_center
+OP6625255b New target speed:	left 0 	right 0
+OP6625255b Button pressed: 	button_center
+WO66252569 
+WI6625256c 
+OP6625256e  --- Start of the program Sol_MyOrders.py --- 
+OP6625256f Button pressed: 	button_forward
+OP6625256f New target speed:	left 255    	right 255
+OP6625256f Button pressed: 	button_forward
+OP6625256f Button pressed: 	button_center
+OP6625256f New target speed:	left 0    	right 0
+OP6625256f Button pressed: 	button_center
+UD66252580 
+UD66252580 
+OP66252583 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66252583     
+OP66252583 Line 1
+OP66252583  --- Start of the program Bug_MyOrders.py --- 
+OP66252588 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66252588     
+OP66252588 Line 1
+OP66252589  --- Start of the program Bug_MyOrders.py --- 
