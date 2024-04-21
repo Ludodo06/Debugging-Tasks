@@ -53,7 +53,7 @@ def prox():                                        # Triggers everytime there's 
 
 
 
-print(" --- Start of the program Bug1_Garden.py --- ")
+print(" --- Start of the program events.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True

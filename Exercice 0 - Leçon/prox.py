@@ -4,7 +4,6 @@ def prox():
     # Use print here to show the proximity sensors' values
     # print(...)
     
-    print(prox_horizontal[0])
     
     
     # You can also print the ground sensors here
@@ -50,7 +49,7 @@ def prox():
 
 
 
-print(" --- Start of the program Bug1_Garden.py --- ")
+print(" --- Start of the program prox.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
