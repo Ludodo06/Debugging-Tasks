@@ -14011,3 +14011,8 @@ OP6625228d Thymio manipulated: 	x 0 		y 9 		z 15
 OP66252292 Thymio manipulated: 	x 0 		y 7 		z 18
 OP66252293 Button pressed: 	button_center
 OP66252293 Button pressed: 	button_center
+CP662522b4 
+PS662522bf 
+PS662522bf 
+OP662522d3  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP662522d4 Thymio manipulated: 	x 0 		y -7 		z 17
