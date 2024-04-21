@@ -80,6 +80,9 @@ def acc():
         can_print = False
         timer_period[1] = 1000
         
+    # Check if he manipulates the wheels
+    if (motor
+        
 
 # Button prints
 @onevent
