@@ -14006,3 +14006,8 @@ OP6625223e Thymio manipulated: 	x 15 		y 2 		z 12
 OP66252241 Thymio manipulated: 	x 7 		y 5 		z 21
 OP66252244  --- Start of the program Bug_TheLabyrinthSmall.py --- 
 OP6625224a Thymio manipulated: 	x 6 		y -1 		z 17
+OP66252289  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6625228d Thymio manipulated: 	x 0 		y 9 		z 15
+OP66252292 Thymio manipulated: 	x 0 		y 7 		z 18
+OP66252293 Button pressed: 	button_center
+OP66252293 Button pressed: 	button_center
