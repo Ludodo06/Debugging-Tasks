@@ -43,7 +43,7 @@ def timer0():
 
 
 
-print(" --- Start of the program Bug1_Garden.py --- ")
+print(" --- Start of the program Bug2_Garden.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
