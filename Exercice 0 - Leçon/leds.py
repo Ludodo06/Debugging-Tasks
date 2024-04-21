@@ -85,7 +85,7 @@ def acc():
         timer_period[1] = 1000
         
     # Check if he manipulates the wheels
-    if ((motor_left_target == 0 and motor_left_speed*motor_left_speed > 100) or (motor_right_target == 0 and motor_right_speed*motor_right_speed > 100)) and can_print_mot:
+    if ((motor_left_target == 0 and motor_left_speed*motor_left_speed > 121) or (motor_right_target == 0 and motor_right_speed*motor_right_speed > 121)) and can_print_mot:
         print("Wheels manipulated: \tleft", motor_left_speed, "\tright", motor_right_speed)
         can_print_mot = False
         timer_period[1] = 1000
