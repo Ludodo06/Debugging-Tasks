@@ -599,3 +599,98 @@ OP66223d98 Robot manipulé
 OP66223d98 Robot manipulé
 WO66223eec 
 WI66223fba 
+WO66224012 
+WI66229b2f 
+WO66229b33 
+WI66250ec2 
+CP66250f57 
+PS66250f57 
+PS66250f57 
+PS66250f58 
+PS66250f58 
+CP66250f6d 
+PS66250f6d 
+PS66250f6d 
+PS66250f6d 
+PS66250f6d 
+CP66251006 
+PS66251007 
+PS66251007 
+CT66251023 
+CT66251023 
+PS66251027 
+PS66251027 
+CP66251094 
+PS66251095 
+PS66251095 
+CP6625109c 
+PS6625109d 
+PS6625109d 
+CP662510b9 
+PS662510bb 
+PS662510bb 
+PS662510bc 
+PS662510bc 
+PS662510bc 
+PS662510bc 
+PS662510bd 
+PS662510bd 
+WO6625116f 
+WI66251170 
+WO66251172 
+WI6625119b 
+OP6625119e Error: invalid syntax
+OP6625119e     
+OP6625119e Line 66
+OP662511a8 Warning: in function 'acc', redefining variable 'can_print' from outer scope
+OP662511a8     
+OP662511a8 Line 56
+WO662511cb 
+WI662511ce 
+OP662511d8 Python 3.7.9 (bundled)
+OP662511d8 >>> 
+OP662511dc  --- Debut du programme --- 
+OP662511df Thymio manipulated -6 5
+OP662511e0 Button forward pressed
+OP662511e0 Button forward pressed
+OP662511e6 New speed: left= 200 , right= 200
+OP662511ea New speed: left= -200 , right= 200
+OP662511eb New speed: left= 200 , right= 200
+OP662511ef New speed: left= -200 , right= 200
+OP662511f0 Button center pressed
+OP662511f0 Button center pressed
+OP662511f0 New speed: left= 200 , right= 200
+OP662511f3 Button forward pressed
+OP662511f3 Button forward pressed
+OP662511f3 Button center pressed
+OP662511f3 Button center pressed
+OP662511f3 Button left pressed
+OP662511f4 Button left pressed
+OP662511f4 Button right pressed
+OP662511f4 New speed: left= -200 , right= 200
+OP662511f5 Button right pressed
+OP662511f5 New speed: left= 200 , right= 200
+OP662511f6 Button right pressed
+OP662511f6 Button right pressed
+OP662511f7 Button forward pressed
+OP662511f7 Button forward pressed
+OP662511f8 Button left pressed
+OP662511f8 Button left pressed
+OP662511f8 Button backward pressed
+OP662511f9 Button backward pressed
+OP662511f9 Button backward pressed
+OP662511fa New speed: left= -200 , right= 200
+OP662511fa Button backward pressed
+OP662511fb New speed: left= 200 , right= 200
+OP662511fb Button right pressed
+OP662511fc Button right pressed
+OP662511fc Button forward pressed
+OP662511fc Button forward pressed
+OP662511fc Button forward pressed
+OP662511fd Button forward pressed
+OP662511fe Button forward pressed
+OP662511ff New speed: left= -200 , right= 200
+OP662511ff Button forward pressed
+OP66251200 New speed: left= 200 , right= 200
+OP66251204 New speed: left= -200 , right= 200
+OP66251205 New speed: left= 200 , right= 200
