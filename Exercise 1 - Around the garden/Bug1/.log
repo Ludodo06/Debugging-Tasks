@@ -2160,3 +2160,26 @@ OP6625190e Thymio manipulated: 	x 0 		y 0 		z 16
 CP66251919 
 PS6625191b 
 PS6625191b 
+OP66251924  --- Start of the program Bug1_Garden.py --- 
+OP66251925 Thymio manipulated: 	x 0 		y -6 		z 24
+OP66251925 Wheels manipulated: 	left 29 	right 14
+OP66251926 Thymio manipulated: 	x 0 		y -3 		z 14
+OP66251926 Wheels manipulated: 	left 244 	right 258
+OP6625192e New speed:		left 200 	right 200
+OP66251946  --- Start of the program Bug1_Garden.py --- 
+OP66251947 Button pressed: 	center
+OP66251947 Button pressed: 	center
+OP66251948 Wheels manipulated: 	left -5 	right -62
+OP66251948 Thymio manipulated: 	x 3 		y 6 		z 8
+OP66251949 Thymio manipulated: 	x 1 		y 2 		z 27
+OP66251950 New speed:		left 200 	right 200
+CP66251954 
+PS66251957 
+PS66251957 
+CP6625195a 
+PS6625195c 
+PS6625195c 
+PS6625195d 
+PS6625195d 
+PS6625195e 
+PS6625195e 
