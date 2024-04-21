@@ -41,3 +41,137 @@ OP6625205d Button pressed: 	button_backward
 OP6625205d Button pressed: 	button_center
 OP6625205d New target speed:	left 0 	right 0
 OP6625205d Button pressed: 	button_center
+OP66252062 Button pressed: 	button_forward
+OP66252062 New target speed:	left 255 	right 255
+OP66252062 Button pressed: 	button_forward
+OP66252062 Button pressed: 	button_center
+OP66252062 New target speed:	left 0 	right 0
+OP66252062 Button pressed: 	button_center
+OP66252062 Button pressed: 	button_backward
+OP66252062 Button pressed: 	button_backward
+OP66252062 New target speed:	left -255 	right -255
+OP66252063 Button pressed: 	button_center
+OP66252063 Button pressed: 	button_center
+OP66252063 New target speed:	left 0 	right 0
+OP66252063 Button pressed: 	button_right
+OP66252063 Button pressed: 	button_right
+OP66252063 New target speed:	left 100 	right -100
+OP66252064 Button pressed: 	button_right
+OP66252064 Button pressed: 	button_right
+OP66252064 Button pressed: 	button_forward
+OP66252064 New target speed:	left 255 	right 255
+OP66252065 Button pressed: 	button_forward
+OP66252065 Button pressed: 	button_backward
+OP66252065 Button pressed: 	button_backward
+OP66252065 New target speed:	left -255 	right -255
+OP66252065 Button pressed: 	button_forward
+OP66252065 New target speed:	left 255 	right 255
+OP66252065 Button pressed: 	button_forward
+OP66252065 Button pressed: 	button_forward
+OP66252065 Button pressed: 	button_forward
+OP66252066 Button pressed: 	button_right
+OP66252066 Button pressed: 	button_right
+OP66252066 New target speed:	left 100 	right -100
+OP66252066 Button pressed: 	button_right
+OP66252066 Button pressed: 	button_right
+OP66252066 Button pressed: 	button_left
+OP66252066 New target speed:	left -100 	right 100
+OP66252066 Button pressed: 	button_left
+OP66252066 Button pressed: 	button_center
+OP66252066 Button pressed: 	button_center
+OP66252066 New target speed:	left 0 	right 0
+OP66252067 Button pressed: 	button_left
+OP66252067 New target speed:	left -100 	right 100
+OP66252067 Button pressed: 	button_left
+OP66252067 Button pressed: 	button_left
+OP66252067 Button pressed: 	button_left
+OP66252068 Button pressed: 	button_center
+OP66252068 New target speed:	left 0 	right 0
+OP66252068 Button pressed: 	button_center
+OP66252068 Button pressed: 	button_left
+OP66252068 Button pressed: 	button_left
+OP66252068 New target speed:	left -100 	right 100
+OP66252068 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP66252069 Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206a Button pressed: 	button_left
+OP6625206b Button pressed: 	button_right
+OP6625206b New target speed:	left 100 	right -100
+OP6625206b Button pressed: 	button_right
+OP6625206b Button pressed: 	button_right
+OP6625206b Button pressed: 	button_right
+OP6625206b Button pressed: 	button_right
+OP6625206b Button pressed: 	button_right
+OP6625206b Button pressed: 	button_right
+OP6625206b Button pressed: 	button_right
+OP6625206c Button pressed: 	button_right
+OP6625206c Button pressed: 	button_right
+OP6625206c Button pressed: 	button_right
+OP6625206c Button pressed: 	button_right
+OP6625206c Button pressed: 	button_forward
+OP6625206c New target speed:	left 255 	right 255
+OP6625206c Button pressed: 	button_forward
+OP6625206c Button pressed: 	button_center
+OP6625206d New target speed:	left 0 	right 0
+OP6625206d Button pressed: 	button_center
+OP6625206d Button pressed: 	button_forward
+OP6625206d New target speed:	left 255 	right 255
+OP6625206d Button pressed: 	button_forward
+OP6625206d Button pressed: 	button_center
+OP6625206d New target speed:	left 0 	right 0
+OP6625206d Button pressed: 	button_center
+OP6625206d Wheels manipulated: 	left 31 	right 20
+OP6625206d Button pressed: 	button_forward
+OP6625206e New target speed:	left 255 	right 255
+OP6625206e Button pressed: 	button_forward
+OP6625206e Button pressed: 	button_center
+OP6625206e New target speed:	left 0 	right 0
+OP6625206e Button pressed: 	button_center
+OP6625206e Button pressed: 	button_forward
+OP6625206e New target speed:	left 255 	right 255
+OP6625206e Button pressed: 	button_forward
+OP6625206e Button pressed: 	button_backward
+OP6625206e New target speed:	left -255 	right -255
+OP6625206e Button pressed: 	button_backward
+OP6625206f Button pressed: 	button_left
+OP6625206f New target speed:	left -100 	right 100
+OP6625206f Button pressed: 	button_left
+OP66252070 Button pressed: 	button_left
+OP66252070 Button pressed: 	button_left
+OP66252070 Button pressed: 	button_center
+OP66252070 Button pressed: 	button_center
+OP66252070 New target speed:	left 0 	right 0
+CP66252086 
+PS6625208d 
+PS6625208d 
+OP66252091 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66252091     
+OP66252091 Line 1
+OP66252092  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66252099 Button pressed: 	button_backward
+OP66252099 Button pressed: 	button_backward
+OP6625209a Button pressed: 	button_center
+OP6625209a Button pressed: 	button_center
+OP6625209b Button pressed: 	button_forward
+OP6625209b New target speed:	left -255 	right 0
+OP6625209b Button pressed: 	button_forward
+OP6625209c Thymio manipulated: 	x 0 		y -1 		z 16
+OP6625209d Button pressed: 	button_center
+OP6625209d New target speed:	left 0 	right 0
+OP6625209d Button pressed: 	button_center
