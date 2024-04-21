@@ -2095,3 +2095,21 @@ OP66251814  --- Start of the program Bug1_Garden.py ---
 OP66251814 New speed:	 left 200 	 right 200
 OP66251818 New speed:	 left -200 	 right 200
 OP66251819 New speed:	 left 200 	 right 200
+OP6625181d New speed:	 left -200 	 right 200
+OP6625181e New speed:	 left 200 	 right 200
+OP66251822 New speed:	 left -200 	 right 200
+OP66251823 New speed:	 left 200 	 right 200
+OP66251826 Thymio manipulated 1 -5 20
+OP66251827 New speed:	 left -200 	 right 200
+OP66251828 New speed:	 left 200 	 right 200
+CP6625184f 
+PS66251850 
+PS66251850 
+OP66251855  --- Start of the program Bug1_Garden.py --- 
+OP66251855 New speed:	 left 200 	 right 200
+OP66251856 Thymio manipulated: 	 x 0 	 y -5 	 z 21
+OP66251857 Thymio manipulated: 	 x 14 	 y 6 	 z 7
+OP66251858 Thymio manipulated: 	 x -21 	 y 5 	 z 5
+OP66251859 New speed:	 left -200 	 right 200
+OP6625185a Thymio manipulated: 	 x 0 	 y -5 	 z 14
+OP6625185a New speed:	 left 200 	 right 200

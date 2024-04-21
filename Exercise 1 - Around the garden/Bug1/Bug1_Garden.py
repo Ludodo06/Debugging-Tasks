@@ -72,7 +72,7 @@ def acc():
         
     # Check the acc to see if Thymio is manipulated
     elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print_acc:
-        print("Thymio manipulated", acc[0], acc[1], acc[2])
+        print("Thymio manipulated: \t x", acc[0], "\t y", acc[1], "\t z", acc[2])
         can_print_acc = False
         timer_period[1] = 1000
         
