@@ -133,3 +133,17 @@ OP66252593 New target speed:	left -255 	right -255
 OP66252595 New target speed:	left 255 	right 255
 OP66252596 New target speed:	left -255 	right -255
 OP66252596 New target speed:	left 255 	right 255
+OP66252597 New target speed:	left -255 	right -255
+OP6625259a New target speed:	left 255 	right 255
+OP6625259b New target speed:	left -255 	right -255
+OP6625259d New target speed:	left 255 	right 255
+OP662525a0 New target speed:	left -255 	right -255
+OP662525ba  --- Start of the program Sol_TheTransporter.py --- 
+OP662525ba New target speed:	left 255 	right 255
+OP662525bb New target speed:	left -255 	right -255
+OP662525bc New target speed:	left 255 	right 255
+OP662525bc New target speed:	left -255 	right -255
+OP662525bd New target speed:	left 255 	right 255
+OP662525be New target speed:	left -255 	right -255
+OP662525bf Thymio manipulated: 	x 8 		y 4 		z 18
+OP662525cb Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
