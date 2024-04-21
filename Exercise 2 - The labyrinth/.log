@@ -67,3 +67,27 @@ OP66251cdc Thymio manipulated: 	x 0 		y 8 		z 20
 OP66251cdd New target speed:	left -150 	right 150
 OP66251cde New target speed:	left 300 	right 300
 OP66251cdf Thymio manipulated: 	x 1 		y -5 		z 17
+OP66251ce1 New target speed:	left -150 	right 150
+OP66251ce3 New target speed:	left 300 	right 300
+OP66251ce5 New target speed:	left 150 	right -150
+OP66251ce7 New target speed:	left 300 	right 300
+OP66251ce9 New target speed:	left -150 	right 150
+OP66251ce9 Thymio manipulated: 	x 4 		y -1 		z 19
+OP66251ceb New target speed:	left 300 	right 300
+OP66251ced New target speed:	left 150 	right -150
+OP66251cef New target speed:	left 300 	right 300
+OP66251cf1 New target speed:	left -150 	right 150
+OP66251cf3 New target speed:	left 300 	right 300
+OP66251cf4 Thymio manipulated: 	x 0 		y -6 		z 16
+OP66251cf5 New target speed:	left -150 	right 150
+OP66251cf5 Thymio manipulated: 	x 0 		y 9 		z 15
+OP66251cf7 New target speed:	left 300 	right 300
+OP66251cf8 Thymio manipulated: 	x 9 		y -8 		z 19
+OP66251cf9 New target speed:	left 0 	right 0
+OP66251cf9 Thymio manipulated: 	x 1 		y 0 		z 14
+OP66251cf9 Wheels manipulated: 	left 105 	right 150
+OP66251cfd  --- Start of the program Bug_TheLabyrinth.py --- 
+OP66251cfe New target speed:	left 300 	right 300
+OP66251d00 New target speed:	left 150 	right -150
+OP66251d00 Thymio manipulated: 	x 0 		y -5 		z 19
+OP66251d02 New target speed:	left 300 	right 300
