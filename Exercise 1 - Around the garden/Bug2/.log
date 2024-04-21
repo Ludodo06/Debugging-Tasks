@@ -22,3 +22,10 @@ PS66251e96
 PS66251e96 
 PS66251f7b 
 PS66251f7b 
+OP662524e5  --- Start of the program Bug2_Garden.py --- 
+OP662524e5 New target speed:	left 250 	right 250
+OP662524e6 Thymio manipulated: 	x 1 		y -8 		z 20
+OP662524e8 Button pressed: 	button_center
+OP662524e9 Button pressed: 	button_center
+OP662524e9 Button pressed: 	button_forward
+OP662524e9 Button pressed: 	button_forward
