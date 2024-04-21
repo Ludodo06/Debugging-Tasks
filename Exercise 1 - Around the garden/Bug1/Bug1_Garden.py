@@ -69,13 +69,13 @@ def acc():
         print("New speed: left=", left_last, ", right=", right_last)
         
     # Check the acc to see if Thymio is manipulated
-    elif (acc[0]*acc[0] > 9 or acc[1]* > 4 or acc[1] < -4) and (left_last !=0 or right_last !=0) and can_print:
+    elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print:
         print("Thymio manipulated", acc[0], acc[1])
         can_print = False
         timer_period[1] = 1000
         
     # Be less indulgent for the thresholds if Thymio is not supposed to move    
-    if (acc[0] > 3 or acc[0] < -3 or acc[1] > 3 or acc[1] < -3)  and (left_last ==0 or right_last ==0) and can_print:
+    if acc[2]+20)*acc[2]+20  and (left_last ==0 or right_last ==0) and can_print:
         print("Thymio manipulated", acc[0], acc[1])
         can_print = False
         timer_period[1] = 1000
