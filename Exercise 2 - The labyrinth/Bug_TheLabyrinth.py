@@ -1,6 +1,7 @@
 @onevent
 def timer0():
     global current_step
+    
     if current_step == 0: go_forward()
     if current_step == 1: pivot_right()
     if current_step == 2: go_forward()
@@ -35,6 +36,7 @@ def timer0():
 # ---------------------------- #  
 # ---------------------------- #    
 # DO NOT MODIFY THE CODE BELOW #
+    current_step += 1
 
 timer_period[0] = 100
 current_step = 0
