@@ -2183,3 +2183,52 @@ PS6625195d
 PS6625195d 
 PS6625195e 
 PS6625195e 
+CP66251978 
+PS66251979 
+PS66251979 
+PS6625197a 
+PS6625197a 
+PS6625197a 
+PS6625197a 
+PS6625197b 
+PS6625197b 
+OP6625197d  --- Start of the program Bug1_Garden.py --- 
+OP6625197d Button pressed: 	button_center
+OP6625197e Button pressed: 	button_center
+OP6625197e Button pressed: 	button_right
+OP6625197e Button pressed: 	button_right
+OP6625197e Button pressed: 	button_forward
+OP6625197f Button pressed: 	button_forward
+OP6625197f Button pressed: 	button_left
+OP6625197f Button pressed: 	button_left
+OP6625197f Button pressed: 	button_center
+OP6625197f Button pressed: 	button_center
+OP66251980 Button pressed: 	button_backward
+OP66251980 Button pressed: 	button_backward
+OP66251980 Button pressed: 	button_center
+OP66251980 Button pressed: 	button_center
+OP66251981 Thymio manipulated: 	x 1 		y 1 		z 26
+OP66251982 Thymio manipulated: 	x -21 		y 4 		z 8
+OP66251983 Wheels manipulated: 	left 19 	right 22
+OP66251983 Thymio manipulated: 	x 0 		y 0 		z 13
+OP66251986 Thymio manipulated: 	x 1 		y 0 		z 25
+OP66251987 New speed:		left 200 	right 200
+OP6625198b New speed:		left -200 	right 200
+OP6625198c New speed:		left 200 	right 200
+OP66251997  --- Start of the program Bug1_Garden.py --- 
+OP66251998 Thymio manipulated: 	x 1 		y -5 		z 16
+OP66251999 Wheels manipulated: 	left 53 	right 82
+OP66251999 Thymio manipulated: 	x -1 		y 1 		z 16
+OP66251999 Wheels manipulated: 	left 452 	right 373
+OP66251999 Button pressed: 	button_backward
+OP66251999 Button pressed: 	button_backward
+OP6625199b Button pressed: 	button_backward
+OP6625199b Button pressed: 	button_backward
+OP6625199b Button pressed: 	button_right
+OP6625199b Button pressed: 	button_right
+OP6625199b Button pressed: 	button_center
+OP6625199b Button pressed: 	button_forward
+OP6625199b Button pressed: 	button_forward
+OP6625199b Button pressed: 	button_center
+OP6625199c Thymio manipulated: 	x -19 		y 2 		z 8
+OP6625199d Thymio manipulated: 	x 1 		y -2 		z 16

@@ -68,7 +68,7 @@ def acc():
         # Update and print the new target
         left_last = motor_left_target
         right_last = motor_right_target
-        print("New speed:\t\tleft", left_last, "\tright", right_last)
+        print("New target speed:\t\tleft", left_last, "\tright", right_last)
         
     # Check the acc to see if Thymio is manipulated
     elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print_acc:
@@ -90,12 +90,12 @@ def acc():
         
 # Button prints
 @onevent
-def button_center():   print("Button pressed: \tcenter")
+def button_center():   print("Button pressed: \tbutton_center")
 @onevent
-def button_forward():  print("Button pressed: \tcenter")
+def button_forward():  print("Button pressed: \tbutton_forward")
 @onevent
-def button_left():     print("Button left pressed")
+def button_left():     print("Button pressed: \tbutton_left")
 @onevent
-def button_right():    print("Button right pressed")
+def button_right():    print("Button pressed: \tbutton_right")
 @onevent
-def button_backward(): print("Button backward pressed")
+def button_backward(): print("Button pressed: \tbutton_backward")
