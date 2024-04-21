@@ -1469,3 +1469,33 @@ OP662516d9 Warning: in function 'acc', redefining variables 'can_print_acc', 'ca
 OP662516d9     
 OP662516d9 Line 61
 OP662516d9  --- Start of the program Bug1_Garden.py --- 
+CP662516e9 
+PS662516ea 
+PS662516ea 
+OP662516ec Warning: in function 'timer1', redefining variables 'can_print_acc', 'can_print_mot' from outer scope
+OP662516ec     
+OP662516ec Line 51
+OP662516ed  --- Start of the program Bug1_Garden.py --- 
+OP662516fb  --- Start of the program Bug1_Garden.py --- 
+OP662516fd Thymio manipulated 0 0 24
+OP662516fe Thymio manipulated -12 12 -6
+OP662516ff Wheels manualy manipulated 0 54
+OP662516ff Wheels manualy manipulated 100 195
+OP66251700 Wheels manualy manipulated 44 46
+OP66251701 Wheels manualy manipulated -40 -44
+OP66251702 Wheels manualy manipulated -180 -146
+OP66251702 Thymio manipulated 2 0 26
+OP66251705 Wheels manualy manipulated 27 0
+OP66251708 Wheels manualy manipulated 22 0
+OP66251708 Wheels manualy manipulated 87 37
+OP66251709 Wheels manualy manipulated 80 81
+OP6625170a Wheels manualy manipulated 0 -56
+OP6625170b Wheels manualy manipulated -141 -145
+OP6625170c Thymio manipulated 0 -1 28
+OP6625170d Thymio manipulated 16 12 0
+OP6625170e Thymio manipulated 0 0 15
+OP6625170e Wheels manualy manipulated 14 13
+OP6625170f Wheels manualy manipulated 101 101
+OP66251710 Thymio manipulated 1 1 26
+OP66251711 Thymio manipulated -16 8 -5
+OP66251712 Thymio manipulated 0 0 9

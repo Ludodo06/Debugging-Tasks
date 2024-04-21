@@ -50,7 +50,7 @@ can_print_mot = True
 
 @onevent
 def timer1():
-    global can_print
+    global can_print_acc, can_print_mot
     can_print_acc = True
     can_print_mot = True
     timer_period[1]
@@ -60,7 +60,7 @@ right_last = 0
 
 @onevent
 def acc():
-    global left_last, right_last, can_print, timer_period
+    global left_last, right_last, can_print_acc, can_print_mot, timer_period
     
     # If the motors' speed changes
     if left_last != motor_left_target or right_last != motor_right_target:
@@ -86,6 +86,7 @@ def acc():
     if ((motor_left_target == 0 and motor_left_speed*motor_left_speed > 100) or (motor_right_target == 0 and motor_right_speed*motor_right_speed > 100)) and can_print_mot:
         print("Wheels manualy manipulated", motor_left_speed, motor_right_speed)
         can_print_mot = False
+        timer_period[1] = 1000
         
         
 
