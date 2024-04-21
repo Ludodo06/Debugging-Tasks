@@ -50,13 +50,14 @@ def timer1():
     global can_print
     print("OKKKK")
     can_print = True
+    timer_period[1] = 0
         
 left_last = 0
 right_last = 0
 
 @onevent
 def acc():
-    global left_last, right_last, can_print
+    global left_last, right_last, can_print, timer_period[1]
     
     # If the motors' speed changes
     if left_last != motor_left_target or right_last != motor_right_target:

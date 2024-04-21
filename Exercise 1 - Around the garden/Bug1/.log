@@ -719,3 +719,13 @@ OP662512e3 Button right pressed
 OP662512e4 Button right pressed
 WO662512ee 
 WI66251307 
+WO6625132f 
+WI66251330 
+WO66251331 
+WI66251332 
+OP66251335  --- Debut du programme --- 
+OP66251337 Thymio manipulated -2 -4
+OP66251337 Test
+OP66251352 Error: invalid syntax
+OP66251352     
+OP66251352 Line 60
