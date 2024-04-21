@@ -70,13 +70,14 @@ def acc():
     elif (acc[0] > 3 or acc[0] < -3 or acc[1] > 4 or acc[1] < -4) and (left_last !=0 or right_last !=0) and can_print:
         print("Thymio manipulated", acc[0], acc[1])
         can_print = False
-        timer_period[1] = 1000
+        timer_period[1] = 100
         
     # Be less indulgent for the thresholds if Thymio is not supposed to move    
     if (acc[0] > 3 or acc[0] < -3 or acc[1] > 3 or acc[1] < -3)  and (left_last ==0 or right_last ==0) and can_print:
         print("Thymio manipulated", acc[0], acc[1])
         can_print = False
-        timer_period[1] = 1000
+        timer_period[1] = 100
+        print("Test")
         
 
 # Button prints
