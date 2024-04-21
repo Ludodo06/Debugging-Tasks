@@ -46,6 +46,8 @@ print(" --- Debut du programme --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print = True
+
+@onevent
 def timer1():
     global can_print
     print("OKKKK")
@@ -57,7 +59,7 @@ right_last = 0
 
 @onevent
 def acc():
-    global left_last, right_last, can_print, timer_period[1]
+    global left_last, right_last, can_print, timer_period
     
     # If the motors' speed changes
     if left_last != motor_left_target or right_last != motor_right_target:
@@ -71,13 +73,13 @@ def acc():
     elif (acc[0] > 3 or acc[0] < -3 or acc[1] > 4 or acc[1] < -4) and (left_last !=0 or right_last !=0) and can_print:
         print("Thymio manipulated", acc[0], acc[1])
         can_print = False
-        timer_period[1] = 100
+        timer_period[1] = 1000
         
     # Be less indulgent for the thresholds if Thymio is not supposed to move    
     if (acc[0] > 3 or acc[0] < -3 or acc[1] > 3 or acc[1] < -3)  and (left_last ==0 or right_last ==0) and can_print:
         print("Thymio manipulated", acc[0], acc[1])
         can_print = False
-        timer_period[1] = 100
+        timer_period[1] = 1000
         print("Test")
         
 
