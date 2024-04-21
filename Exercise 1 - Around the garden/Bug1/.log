@@ -2081,3 +2081,17 @@ OP662517d4  --- Start of the program Bug1_Garden.py ---
 OP662517d4 New speed: left= 200 ,	 right= 200
 OP662517d8 New speed: left= -200 ,	 right= 200
 OP662517d9 New speed: left= 200 ,	 right= 200
+OP662517dd New speed: left= -200 ,	 right= 200
+OP662517df New speed: left= 200 ,	 right= 200
+OP662517e3 New speed: left= -200 ,	 right= 200
+OP662517e4 New speed: left= 200 ,	 right= 200
+OP66251803  --- Start of the program Bug1_Garden.py --- 
+OP66251803 New speed:	 left= 200 	 right= 200
+OP66251807 New speed:	 left= -200 	 right= 200
+OP66251808 New speed:	 left= 200 	 right= 200
+OP6625180d New speed:	 left= -200 	 right= 200
+OP6625180e New speed:	 left= 200 	 right= 200
+OP66251814  --- Start of the program Bug1_Garden.py --- 
+OP66251814 New speed:	 left 200 	 right 200
+OP66251818 New speed:	 left -200 	 right 200
+OP66251819 New speed:	 left 200 	 right 200

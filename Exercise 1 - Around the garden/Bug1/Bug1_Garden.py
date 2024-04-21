@@ -68,7 +68,7 @@ def acc():
         # Update and print the new target
         left_last = motor_left_target
         right_last = motor_right_target
-        print("New speed: left=", left_last, ",\t right=", right_last)
+        print("New speed:\t left", left_last, "\t right", right_last)
         
     # Check the acc to see if Thymio is manipulated
     elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print_acc:
