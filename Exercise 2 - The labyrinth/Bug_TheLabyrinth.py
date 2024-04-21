@@ -1,33 +1,3 @@
-# DO NOT MODIFY THE CODE BELOW, GO DIRECTLY TO LINE 24
-def go_forward():
-    global motor_left_target, motor_right_target, timer_period
-    timer_period[0] = 2500
-    nf_leds_top(0,32,0)
-    motor_left_target = 300
-    motor_right_target = 300
-    
-def pivot_left():
-    global motor_left_target, motor_right_target, timer_period
-    timer_period[0] = 1500
-    nf_leds_top(32,16,0)
-    motor_left_target = -150
-    motor_right_target = 150
-    
-def pivot_right():
-    global motor_left_target, motor_right_target, timer_period
-    timer_period[0] = 1500
-    nf_leds_top(32,16,0)
-    motor_left_target = 150
-    motor_right_target = -150
-    
-def stop():
-    global motor_left_target, motor_right_target
-    nf_leds_top(0,0,0)
-    motor_left_target = 0
-    motor_right_target = 0
-# DO NOT MODIFY THE CODE ABOVE
-
-
 timer_period[0] = 100 #[ms] : Start the path immediatly
 current_step = 0
 
@@ -64,8 +34,42 @@ def timer0():
     
     
     
+# ---------------------------- #  
+# ---------------------------- #  
+# ---------------------------- #  
+# ---------------------------- #    
+# DO NOT MODIFY THE CODE BELOW #
+def go_forward():
+    global motor_left_target, motor_right_target, timer_period
+    timer_period[0] = 2500
+    nf_leds_top(0,32,0)
+    motor_left_target = 300
+    motor_right_target = 300
     
+def pivot_left():
+    global motor_left_target, motor_right_target, timer_period
+    timer_period[0] = 1500
+    nf_leds_top(32,16,0)
+    motor_left_target = -150
+    motor_right_target = 150
     
+def pivot_right():
+    global motor_left_target, motor_right_target, timer_period
+    timer_period[0] = 1500
+    nf_leds_top(32,16,0)
+    motor_left_target = 150
+    motor_right_target = -150
+    
+def stop():
+    global motor_left_target, motor_right_target
+    nf_leds_top(0,0,0)
+    motor_left_target = 0
+    motor_right_target = 0
+# DO NOT MODIFY THE CODE ABOVE #
+# ---------------------------- #  
+# ---------------------------- #  
+# ---------------------------- #  
+# ---------------------------- #  
     
     
     
