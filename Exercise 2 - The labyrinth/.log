@@ -349,3 +349,19 @@ OP66252505 Line 15
 OP66252507 Error: invalid syntax
 OP66252507     
 OP66252507 Line 15
+OP66252520 Error: invalid syntax
+OP66252520     
+OP66252520 Line 14
+OP6625252b  --- Start of the program Sol_TheLabyrinth.py --- 
+OP6625252b New target speed:	left 300 	right 300
+OP6625252d Thymio manipulated: 	x -1 		y 9 		z 3
+OP6625252e New target speed:	left 150 	right -150
+OP6625252f New target speed:	left 300 	right 300
+OP66252530 Thymio manipulated: 	x -1 		y -7 		z 13
+OP66252532 New target speed:	left 150 	right -150
+OP66252533 New target speed:	left 300 	right 300
+OP66252540  --- Start of the program Sol_TheLabyrinthSmall.py --- 
+OP66252540 New target speed:	left 300 	right 300
+OP66252542 Thymio manipulated: 	x 2 		y 11 		z 12
+OP66252542 New target speed:	left 150 	right -150
+OP66252544 New target speed:	left 300 	right 300

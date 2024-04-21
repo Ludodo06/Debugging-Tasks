@@ -321,3 +321,29 @@ UD662520ff
 WO66252107 
 WI66252111 
 CP66252119 
+OP6625254d  --- Start of the program Sol_MyOrders.py --- 
+OP6625254f Button pressed: 	button_center
+OP6625254f Button pressed: 	button_center
+OP66252550 Button pressed: 	button_center
+OP66252550 Button pressed: 	button_center
+OP66252552 Button pressed: 	button_forward
+OP66252552 New target speed:	left 255 	right 255
+OP66252552 Button pressed: 	button_forward
+OP66252552 Button pressed: 	button_center
+OP66252552 New target speed:	left 0 	right 0
+OP66252552 Button pressed: 	button_center
+OP66252554 Button pressed: 	button_backward
+OP66252554 New target speed:	left -255 	right -255
+OP66252555 Button pressed: 	button_backward
+OP66252555 Button pressed: 	button_center
+OP66252555 New target speed:	left 0 	right 0
+OP66252555 Button pressed: 	button_center
+OP66252556 Button pressed: 	button_left
+OP66252556 New target speed:	left -100 	right 100
+OP66252556 Button pressed: 	button_left
+OP66252556 Button pressed: 	button_center
+OP66252556 New target speed:	left 0 	right 0
+OP66252557 Button pressed: 	button_center
+OP66252557 Button pressed: 	button_right
+OP66252557 New target speed:	left 100 	right -100
+OP66252557 Button pressed: 	button_right
