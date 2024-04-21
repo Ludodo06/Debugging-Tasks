@@ -13915,3 +13915,74 @@ WO66222fdc
 WI66222fde 
 WO66223017 
 WI66223020 
+PS662521e3 
+PS662521e3 
+OP662521ea  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP662521ea 1017
+OP662521ea New target speed:	left 200 	right 200
+OP662521ea 996
+OP662521ea 1006
+OP662521ea 1007
+OP662521ea 1000
+OP662521ea 999
+OP662521ea 999
+OP662521ea 1000
+OP662521ea 1000
+OP662521eb 1001
+OP662521eb 1002
+OP662521eb 1003
+OP662521eb 1001
+OP662521eb 1002
+OP662521eb New target speed:	left 138 	right 262
+OP662521eb 1004
+OP662521eb New target speed:	left 114 	right 286
+OP662521eb 1012
+OP662521eb New target speed:	left 113 	right 287
+OP662521eb 1012
+OP662521eb New target speed:	left 115 	right 285
+OP662521eb 1003
+OP662521eb New target speed:	left 117 	right 283
+OP662521ec 1004
+OP662521ec New target speed:	left 119 	right 281
+OP662521ec 1004
+OP662521ec New target speed:	left 125 	right 275
+OP662521ec 1005
+OP662521ec New target speed:	left 130 	right 270
+OP662521ec 1005
+OP662521ec New target speed:	left 144 	right 256
+OP662521ec 1012
+OP662521ec New target speed:	left 200 	right 200
+OP662521ec 1013
+OP662521ec 1005
+OP662521ec 1002
+OP662521ec 1003
+OP662521ec 1005
+OP662521ed 1006
+OP662521ed 1006
+OP662521ed 1007
+OP662521ed 1007
+OP662521ed 1002
+OP662521ed 1006
+OP662521ed 1007
+OP662521ed 1015
+OP662521ed 1015
+OP662521ed 1006
+OP662521ee 1006
+OP662521ee 1010
+OP662521ee 1009
+OP662521ee 1013
+OP662521ee 1010
+OP662521ee 1010
+OP66252200  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66252200 New target speed:	left 200 	right 200
+OP66252202 New target speed:	left 116 	right 284
+OP66252202 New target speed:	left 88 	right 312
+OP66252202 New target speed:	left 74 	right 326
+OP66252202 New target speed:	left 69 	right 331
+OP66252202 New target speed:	left 66 	right 334
+OP66252202 New target speed:	left 68 	right 332
+OP66252202 New target speed:	left 65 	right 335
+OP66252202 New target speed:	left 63 	right 337
+OP66252203 New target speed:	left 65 	right 335
+OP66252203 New target speed:	left 78 	right 322
+OP66252203 New target speed:	left 200 	right 200
