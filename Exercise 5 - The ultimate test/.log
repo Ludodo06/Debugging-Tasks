@@ -14220,3 +14220,29 @@ WI66252382
 CP6625238c 
 PS662523a2 
 PS662523aa 
+OP662525de  --- Start of the program Sol_FinalTestV2.py --- 
+OP662525e4  --- Start of the program Sol_FinalTestV2.py --- 
+OP662525e5 Thymio manipulated: 	x 0 		y 12 		z 16
+OP662525e7 Button pressed: 	button_center
+OP662525e7 Button pressed: 	button_center
+OP662525f5  --- Start of the program Bug_FinalTestV2.py --- 
+OP662525f5 1010 1009
+OP662525f5 1003 993
+OP662525f6 Button pressed: 	button_center
+OP662525f6 Button pressed: 	button_center
+OP662525f6 Wheels manipulated: 	left 32 	right 31
+OP662525f6 Button pressed: 	button_center
+OP662525f7 Wheels manipulated: 	left 43 	right 49
+OP662525f8 Wheels manipulated: 	left 11 	right 12
+OP662525f8 Button pressed: 	button_center
+OP662525f9 Button pressed: 	button_center
+OP662525f9 Button pressed: 	button_center
+OP662525f9 Button pressed: 	button_center
+OP662525fa Button pressed: 	button_center
+OP662525fa Wheels manipulated: 	left 24 	right 21
+OP662525fb Button pressed: 	button_center
+OP662525fb Button pressed: 	button_center
+OP662525fc Button pressed: 	button_center
+OP662525fd Wheels manipulated: 	left 11 	right 17
+OP662525fe Wheels manipulated: 	left 8 	right 12
+OP662525ff Wheels manipulated: 	left 27 	right 23
