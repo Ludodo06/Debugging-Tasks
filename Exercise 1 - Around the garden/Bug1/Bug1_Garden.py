@@ -42,7 +42,7 @@
 
 
 
-print(" --- Start of the program --- ")
+print(" --- Start of the program Bug1_Garden.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print = True

@@ -837,3 +837,26 @@ UD66251443
 UD66251443 
 UD66251443 
 UD66251443 
+OP66251460  --- Start of the program Bug1_Garden.py --- 
+OP66251467 Thymio manipulated 3 8
+OP66251468 Thymio manipulated 4 9
+OP6625146a Button right pressed
+OP6625146a Button right pressed
+OP6625146b Button forward pressed
+OP6625146b Button forward pressed
+OP6625146b Button left pressed
+OP6625146b Button left pressed
+OP6625146c Button center pressed
+OP6625146c Button center pressed
+OP6625146c Button backward pressed
+OP6625146c Button backward pressed
+OP6625146f Thymio manipulated -4 -2
+OP6625146f Thymio manipulated -18 1
+OP66251470 Thymio manipulated 8 7
+OP66251472 Thymio manipulated 0 -4
+OP66251473 Thymio manipulated -21 1
+OP66251475 Thymio manipulated -4 6
+OP66251476 Thymio manipulated 19 2
+OP66251477 Thymio manipulated -11 17
+WO6625147c 
+WI66251495 
