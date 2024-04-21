@@ -113,7 +113,7 @@ def stop():
 
 
 
-print(" --- Start of the program Bug_TheLabyrinth.py --- ")
+print(" --- Start of the program Sol_TheLabyrinth.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
