@@ -1,6 +1,6 @@
 forward_time = 4000
 turn_time = 1100
-timer_period[0] = 100
+timer_period[0] = 10000
 going_forward = False
 
 
@@ -78,7 +78,7 @@ def acc():
         
     # Be less indulgent for the thresholds if Thymio is not supposed to move    
     if (acc[2]-20)*(acc[2]-20) > 9  and (left_last == 0 or right_last == 0) and can_print_acc:
-        print("Thymio manipulated: \tx", acc[0], "\ty", acc[1], "\tz", acc[2])
+        print("Thymio manipulated: \tx", acc[0], "\t\ty", acc[1], "\t\tz", acc[2])
         can_print_acc = False
         timer_period[1] = 1000
         
