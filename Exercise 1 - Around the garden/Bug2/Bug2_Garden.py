@@ -59,7 +59,6 @@ def timer1():
 left_last = 0
 right_last = 0
 
-
 @onevent
 def acc():
     global left_last, right_last, can_print_acc, can_print_mot, timer_period
