@@ -82,7 +82,7 @@ def acc():
         print("New target speed:\tleft", left_last, "\tright", right_last)
         
     # Check the acc to see if Thymio is manipulated
-    elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print_acc:
+    elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 36) and (left_last !=0 or right_last !=0) and can_print_acc:
         print("Thymio manipulated: \tx", acc[0], "\t\ty", acc[1], "\t\tz", acc[2])
         can_print_acc = False
         timer_period[1] = 1000
