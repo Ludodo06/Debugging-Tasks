@@ -694,3 +694,6 @@ OP662511ff Button forward pressed
 OP66251200 New speed: left= 200 , right= 200
 OP66251204 New speed: left= -200 , right= 200
 OP66251205 New speed: left= 200 , right= 200
+OP66251229  --- Debut du programme --- 
+OP6625122a Thymio manipulated -2 12
+WO66251238 

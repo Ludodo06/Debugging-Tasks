@@ -48,6 +48,7 @@ print(" --- Debut du programme --- ")
 can_print = True
 def timer1():
     global can_print
+    print("OKKKK")
     can_print = True
         
 left_last = 0
