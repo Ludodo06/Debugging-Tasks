@@ -30,24 +30,25 @@ current_step = 1
 
 def go_forward():
     global motor_left_target, motor_right_target, timer_period
-    timer_period[0] = 2500
+    timer_period[0] = 2100
     nf_leds_top(0,32,0)
     motor_left_target = 300
     motor_right_target = 300
     
 def pivot_left():
     global motor_left_target, motor_right_target, timer_period
-    timer_period[0] = 1500
+    timer_period[0] = 1480
     nf_leds_top(32,16,0)
-    motor_left_target = -150
     motor_right_target = 150
+    motor_left_target = -150
     
 def pivot_right():
     global motor_left_target, motor_right_target, timer_period
-    timer_period[0] = 1500
+    timer_period[0] = 1480
     nf_leds_top(32,16,0)
-    motor_left_target = 150
     motor_right_target = -150
+    motor_left_target = 150
+    
     
 def stop():
     global motor_left_target, motor_right_target
@@ -129,7 +130,7 @@ def acc():
         print("New target speed:\tleft", left_last, "\tright", right_last)
         
     # Check the acc to see if Thymio is manipulated
-    elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print_acc:
+    elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 36) and (left_last !=0 or right_last !=0) and can_print_acc:
         print("Thymio manipulated: \tx", acc[0], "\t\ty", acc[1], "\t\tz", acc[2])
         can_print_acc = False
         timer_period[1] = 1000
