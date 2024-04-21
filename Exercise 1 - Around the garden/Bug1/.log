@@ -1499,3 +1499,29 @@ OP6625170f Wheels manualy manipulated 101 101
 OP66251710 Thymio manipulated 1 1 26
 OP66251711 Thymio manipulated -16 8 -5
 OP66251712 Thymio manipulated 0 0 9
+UD6625171e 
+UD6625171e 
+OP66251725  --- Start of the program Bug1_Garden.py --- 
+OP66251728 Thymio manipulated -12 9 15
+OP66251729 Wheels manualy manipulated 11 0
+OP66251729 Wheels manualy manipulated 155 114
+OP6625172a Thymio manipulated 0 2 26
+OP6625172f New speed: left= 200 , right= 200
+OP66251733 New speed: left= -200 , right= 200
+OP66251735 New speed: left= 200 , right= 200
+OP66251738 Thymio manipulated 0 -5 19
+OP66251739 New speed: left= -200 , right= 200
+OP6625173a New speed: left= 200 , right= 200
+OP6625173c Thymio manipulated 0 -8 19
+OP6625173c Thymio manipulated 6 -6 17
+OP6625173e New speed: left= -200 , right= 200
+OP6625173f New speed: left= 200 , right= 200
+OP66251743 New speed: left= -200 , right= 200
+OP66251744 New speed: left= 200 , right= 200
+OP66251745 Thymio manipulated -6 2 14
+OP66251745 Thymio manipulated -1 -5 22
+OP66251746 Thymio manipulated -3 12 18
+OP66251747 Thymio manipulated -1 6 17
+OP66251748 New speed: left= -200 , right= 200
+OP66251749 Thymio manipulated 0 -5 19
+OP66251749 New speed: left= 200 , right= 200
