@@ -175,3 +175,85 @@ OP6625209c Thymio manipulated: 	x 0 		y -1 		z 16
 OP6625209d Button pressed: 	button_center
 OP6625209d New target speed:	left 0 	right 0
 OP6625209d Button pressed: 	button_center
+OP6625209e Button pressed: 	button_center
+OP6625209e Button pressed: 	button_center
+OP6625209f Button pressed: 	button_center
+OP6625209f Button pressed: 	button_center
+OP662520a1 Button pressed: 	button_forward
+OP662520a1 New target speed:	left -255 	right 0
+OP662520a1 Button pressed: 	button_forward
+OP662520a1 Thymio manipulated: 	x 0 		y -2 		z 13
+OP662520a2 Thymio manipulated: 	x 0 		y 0 		z 13
+OP662520a3 Button pressed: 	button_center
+OP662520a3 New target speed:	left 0 	right 0
+OP662520a3 Button pressed: 	button_center
+OP662520a3 Button pressed: 	button_backward
+OP662520a3 Button pressed: 	button_backward
+OP662520a4 Button pressed: 	button_backward
+OP662520a4 Button pressed: 	button_backward
+OP662520a4 Button pressed: 	button_backward
+OP662520a4 Button pressed: 	button_backward
+OP662520a6 Button pressed: 	button_backward
+OP662520a6 Button pressed: 	button_backward
+OP662520a6 Button pressed: 	button_backward
+OP662520a6 Button pressed: 	button_backward
+OP662520a6 Button pressed: 	button_backward
+OP662520a6 Button pressed: 	button_backward
+OP662520a7 Button pressed: 	button_right
+OP662520a7 New target speed:	left 100 	right 0
+OP662520a7 Button pressed: 	button_right
+OP662520a8 Button pressed: 	button_center
+OP662520a8 New target speed:	left 0 	right 0
+OP662520a8 Button pressed: 	button_center
+OP662520a8 Button pressed: 	button_forward
+OP662520a8 New target speed:	left -255 	right 0
+OP662520a9 Button pressed: 	button_forward
+OP662520a9 Thymio manipulated: 	x 0 		y -2 		z 13
+OP662520a9 Button pressed: 	button_center
+OP662520a9 New target speed:	left 0 	right 0
+OP662520aa Button pressed: 	button_center
+OP662520ad Button pressed: 	button_forward
+OP662520ad New target speed:	left -255 	right 0
+OP662520ad Button pressed: 	button_forward
+OP662520ad Thymio manipulated: 	x 0 		y 0 		z 16
+OP662520ae Button pressed: 	button_center
+OP662520ae New target speed:	left 0 	right 0
+OP662520ae Button pressed: 	button_center
+OP662520bd Button pressed: 	button_forward
+OP662520bd New target speed:	left -255 	right 0
+OP662520bd Button pressed: 	button_forward
+OP662520bd Thymio manipulated: 	x 1 		y -1 		z 15
+OP662520bd Button pressed: 	button_center
+OP662520bd New target speed:	left 0 	right 0
+OP662520be Button pressed: 	button_center
+OP662520cb Button pressed: 	button_forward
+OP662520cb New target speed:	left -255 	right 0
+OP662520cb Button pressed: 	button_forward
+OP662520cb Thymio manipulated: 	x 0 		y -2 		z 16
+OP662520cc Button pressed: 	button_center
+OP662520cc New target speed:	left 0 	right 0
+OP662520cc Button pressed: 	button_center
+OP662520d2 Button pressed: 	button_right
+OP662520d3 New target speed:	left 100 	right 0
+OP662520d3 Button pressed: 	button_right
+OP662520d4 Button pressed: 	button_center
+OP662520d4 New target speed:	left 0 	right 0
+OP662520d4 Button pressed: 	button_center
+OP662520d5 Button pressed: 	button_left
+OP662520d5 New target speed:	left -100 	right 0
+OP662520d5 Button pressed: 	button_left
+OP662520d7 Button pressed: 	button_center
+OP662520d7 New target speed:	left 0 	right 0
+OP662520d8 Button pressed: 	button_center
+OP662520d8 Button pressed: 	button_right
+OP662520d9 New target speed:	left 100 	right 0
+OP662520d9 Button pressed: 	button_right
+OP662520d9 Button pressed: 	button_center
+OP662520d9 New target speed:	left 0 	right 0
+OP662520d9 Button pressed: 	button_center
+OP662520da Button pressed: 	button_left
+OP662520da New target speed:	left -100 	right 0
+OP662520da Button pressed: 	button_left
+OP662520da Button pressed: 	button_center
+OP662520da New target speed:	left 0 	right 0
+OP662520da Button pressed: 	button_center
