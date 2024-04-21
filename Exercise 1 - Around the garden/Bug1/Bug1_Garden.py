@@ -50,9 +50,8 @@ can_print = True
 @onevent
 def timer1():
     global can_print
-    print("OKKKK")
     can_print = True
-    timer_period[1] = 0
+    timer_period[1]
         
 left_last = 0
 right_last = 0
