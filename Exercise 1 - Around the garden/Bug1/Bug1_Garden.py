@@ -68,23 +68,23 @@ def acc():
         # Update and print the new target
         left_last = motor_left_target
         right_last = motor_right_target
-        print("New speed:\t\tleft", left_last, "\t right", right_last)
+        print("New speed:\t\tleft", left_last, "\tright", right_last)
         
     # Check the acc to see if Thymio is manipulated
     elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 16) and (left_last !=0 or right_last !=0) and can_print_acc:
-        print("Thymio manipulated: \t x", acc[0], "\t y", acc[1], "\t z", acc[2])
+        print("Thymio manipulated: \tx", acc[0], "\t\ty", acc[1], "\t\tz", acc[2])
         can_print_acc = False
         timer_period[1] = 1000
         
     # Be less indulgent for the thresholds if Thymio is not supposed to move    
     if (acc[2]-20)*(acc[2]-20) > 9  and (left_last == 0 or right_last == 0) and can_print_acc:
-        print("Thymio manipulated: \t x", acc[0], "\t y", acc[1], "\t z", acc[2])
+        print("Thymio manipulated: \tx", acc[0], "\ty", acc[1], "\tz", acc[2])
         can_print_acc = False
         timer_period[1] = 1000
         
     # Check if he manipulates the wheels
     if ((motor_left_target == 0 and motor_left_speed*motor_left_speed > 100) or (motor_right_target == 0 and motor_right_speed*motor_right_speed > 100)) and can_print_mot:
-        print("Wheels manualy manipulated", motor_left_speed, motor_right_speed)
+        print("Wheels manipulated: \tleft", motor_left_speed, motor_right_speed)
         can_print_mot = False
         timer_period[1] = 1000
         
