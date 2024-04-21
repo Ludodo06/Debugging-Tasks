@@ -2266,3 +2266,6 @@ PS66251d8f
 PS66251e8d 
 PS66251e8d 
 CP66251f90 
+OP662524c6  --- Start of the program Bug1_Garden.py --- 
+OP662524cc Wheels manipulated: 	left -12 	right 0
+OP662524d0 New target speed:	left 200 	right 200

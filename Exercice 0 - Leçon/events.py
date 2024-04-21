@@ -79,7 +79,7 @@ def acc():
         # Update and print the new target
         left_last = motor_left_target
         right_last = motor_right_target
-        print("New target speed:\tleft", left_last, "\tright", right_last)
+        print("New target speed:\tleft", left_last, "   \tright", right_last)
         can_print_mot = False
         can_print_acc = False
         timer_period[1] = 400
