@@ -90,13 +90,13 @@ print(" --- Start of the program Bug_TheLabyrinthSmall.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
-can_print_mot = False
+can_print_mot = True
 
 @onevent
 def timer1():
     global can_print_acc, can_print_mot
     can_print_acc = True
-    can_print_mot = False
+    can_print_mot = True
     timer_period[1] = 0
         
 left_last = 0
@@ -112,7 +112,7 @@ def acc():
         # Update and print the new target
         left_last = motor_left_target
         right_last = motor_right_target
-        print("New target speed:\tleft", left_last, "\tright", right_last)
+        # print("New target speed:\tleft", left_last, "\tright", right_last)
         can_print_mot = False
         can_print_acc = False
         timer_period[1] = 400
