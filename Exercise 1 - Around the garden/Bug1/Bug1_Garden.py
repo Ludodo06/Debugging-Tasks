@@ -75,13 +75,13 @@ def acc():
         timer_period[1] = 1000
         
     # Be less indulgent for the thresholds if Thymio is not supposed to move    
-    if acc[2]+20)*acc[2]+20  and (left_last ==0 or right_last ==0) and can_print:
+    if (acc[2]+20)*(acc[2]+20) > 9  and (left_last == 0 or right_last == 0) and can_print:
         print("Thymio manipulated", acc[0], acc[1])
         can_print = False
         timer_period[1] = 1000
         
     # Check if he manipulates the wheels
-    if (motor_left_target == 0 and motor_left_speed != 0) or (motor_right_target == 0 and motor_right_speed != 0):
+    if (motor_left_target == 0 and motor_left_speed^2 != 0) or (motor_right_target == 0 and motor_right_speed != 0):
         print("Wheels manualy manipulated", motor_left_speed, motor_right_speed)
         
 
