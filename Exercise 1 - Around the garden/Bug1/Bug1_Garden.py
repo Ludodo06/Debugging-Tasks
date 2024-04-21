@@ -42,7 +42,7 @@
 
 
 
-print(" --- Debut du programme --- ")
+print(" --- Start of the program --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print = True
@@ -79,7 +79,6 @@ def acc():
         print("Thymio manipulated", acc[0], acc[1])
         can_print = False
         timer_period[1] = 1000
-        print("Test")
         
 
 # Button prints
