@@ -60,7 +60,7 @@ def timer1():
     global can_print_acc, can_print_mot
     can_print_acc = True
     can_print_mot = True
-    timer_period[1]
+    timer_period[1] = 0
         
 left_last = 0
 right_last = 0
