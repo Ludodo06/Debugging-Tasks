@@ -10,7 +10,7 @@ def timer0():
     if current_step == 6: left()
     if current_step == 7: forward()
     if current_step == 8: right()
-    if current_step == 9: forward()
+    if current_step = 9: forward()
     if current_step == 10: stop()
     
     
