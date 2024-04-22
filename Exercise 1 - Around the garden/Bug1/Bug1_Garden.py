@@ -1,20 +1,19 @@
-forward_time = 4000
-turn_time = 1100
+duree_vers_avant = 1000
+duree_tourne = 1140
+vers_avant = False
 timer_period[0] = 100
-going_forward = False
-
 
 @onevent
 def timer0():
-    global leds_top, going_forward, motor_left_target, motor_right_target
-    going_forward = not going_forward
-    if going_forward:
-        timer_period[0] = forward_time
-        nf_leds_top(0,32,0) # Green
+    global leds_top, vers_avant, motor_left_target, motor_right_target
+    vers_avant = not vers_avant
+    if vers_avant:
+        timer_period[0] = duree_vers_avant
+        nf_leds_top(0,32,0) # Vert
         motor_right_target = 200
         motor_left_target = 200
     else:
-        timer_period[0] = turn_time
+        timer_period[0] = duree_tourne
         nf_leds_top(32,16,0) # Orange
         motor_right_target = 200
         motor_left_target = -200
