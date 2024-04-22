@@ -1,2 +1,45 @@
 WO6626e04d 
 WI6626e072 
+OP6626e08d  --- Start of the program Bug_TheTransporter.py --- 
+OP6626e08d New target speed:	left -251 	right -251
+OP6626e08d Thymio manipulated: 	x -12 		y 3 		z 14
+OP6626e08d Button pressed: 	button_right
+OP6626e08d Button pressed: 	button_center
+OP6626e08d Button pressed: 	button_right
+OP6626e08d Button pressed: 	button_center
+OP6626e08d Button pressed: 	button_backward
+OP6626e08d Button pressed: 	button_backward
+OP6626e08e Thymio manipulated: 	x -4 		y 3 		z 14
+OP6626e090 Thymio manipulated: 	x -5 		y 4 		z 20
+OP6626e091 New target speed:	left 251 	right 251
+OP6626e091 Thymio manipulated: 	x -1 		y 13 		z 17
+OP6626e092 Thymio manipulated: 	x -6 		y 3 		z 11
+OP6626e092 New target speed:	left -251 	right -251
+OP6626e093 Thymio manipulated: 	x -4 		y 8 		z 16
+OP6626e094 Thymio manipulated: 	x 6 		y 8 		z 16
+OP6626e09d  --- Start of the program Bug_TheTransporter.py --- 
+OP6626e09d New target speed:	left 251 	right 251
+OP6626e09e Thymio manipulated: 	x 9 		y 10 		z 20
+OP6626e09e New target speed:	left -251 	right -251
+OP6626e09f New target speed:	left 251 	right 251
+OP6626e09f Thymio manipulated: 	x 0 		y 8 		z 20
+OP6626e09f New target speed:	left -251 	right -251
+OP6626e0a0 New target speed:	left 251 	right 251
+OP6626e0a1 New target speed:	left -251 	right -251
+OP6626e0a1 Thymio manipulated: 	x 1 		y 7 		z 17
+OP6626e0a1 New target speed:	left 251 	right 251
+OP6626e0a2 New target speed:	left -251 	right -251
+OP6626e0a3 New target speed:	left 251 	right 251
+OP6626e0a5 New target speed:	left 251 	right 251
+OP6626e0a6 New target speed:	left -251 	right -251
+OP6626e0a7 Thymio manipulated: 	x 0 		y 7 		z 17
+OP6626e0a7 New target speed:	left 251 	right 251
+OP6626e0a8 Thymio manipulated: 	x 0 		y 7 		z 20
+OP6626e0aa Thymio manipulated: 	x 0 		y -9 		z 14
+OP6626e0ac New target speed:	left -251 	right -251
+OP6626e0af New target speed:	left 251 	right 251
+OP6626e0b0 Thymio manipulated: 	x -3 		y 7 		z 25
+OP6626e0b1 Thymio manipulated: 	x -5 		y -1 		z 15
+OP6626e0b1 New target speed:	left -251 	right -251
+OP6626e0b2 New target speed:	left 251 	right 251
+WO6626e0b5 
