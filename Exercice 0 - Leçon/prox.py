@@ -1,13 +1,13 @@
 @onevent
-def prox():
+def prox():           # Appelé périodiquement pour vérifier les valeurs des capteurs
     
-    # Use print here to show the proximity sensors' values
-    # print(...)
+    # Changez la valeur entre crochets pour afficher la valeur du capteur sélectionné
+    print(prox_ground_delta[2])
     
     
     
-    # You can also print the ground sensors here
-    # print(...)
+    # Vous pouvez faire pareil avec le capteur de sol
+    # print(prox_ground_delta[0])
     
     
     

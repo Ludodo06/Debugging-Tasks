@@ -1,20 +1,22 @@
 @onevent
-def buttons():                                     # Triggers everytime a button is pressed
+def buttons():                                     # Appelé quand un bouton est pressé
     
-    global motor_left_target, motor_right_target   # Usefull to modify global variables 
+    global motor_left_target, motor_right_target   # Nécessaire pour modifier des variables globales
     
-    if button_forward:                             # If the button is pressed
-        motor_left_target = 250                    # Then go forward with both wheels
+    if button_forward:                             # Vérifie si le bouton avant est pressé
+        motor_left_target = 250                    # si oui, avance
         motor_right_target = 250
+    elif button_center:                            # Sinon, si c'est le bouton central
+        ...                                        # Ligne à modifier (ajouter un comportement)
         
         
 @onevent
-def prox():                                        # Triggers everytime there's an obstacle
+def prox():                                        # Appelé périodiquement
     
-    global motor_left_target, motor_right_target   # Usefull to modify global variables
+    global motor_left_target, motor_right_target   # Nécessaire pour modifier des variables globales
     
-    if prox_horizontal[2] > 2000:                  # If an obstacle is detected in front
-        motor_left_target = 0                      # Then stop the wheels
+    if prox_horizontal[2] > 2000:                  # Si un obstacle est détecté devant
+        motor_left_target = 0                      # Arrêter les roues
         motor_right_target = 0
         
         

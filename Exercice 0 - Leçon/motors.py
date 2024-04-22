@@ -1,4 +1,4 @@
-# Make Thymio move (chose a value between -500 and 500)
+# Faites avancer le thymio (choisissez des valeurs entre -500 et +500)
 motor_left_target = 0
 motor_right_target = 0
 
