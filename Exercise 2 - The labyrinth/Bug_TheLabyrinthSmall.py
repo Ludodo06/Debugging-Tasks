@@ -11,7 +11,7 @@ def timer0():
     if current_step == 7: forward()
     if current_step == 8: right()
     if current_step == 9: forward()
-    if current_step == 10: stop()
+    if current_step = 10: stop()
     
     
     
