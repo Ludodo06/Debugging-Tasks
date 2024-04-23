@@ -1,6 +1,6 @@
 duree_vers_avant = 2100
 duree_tourne = 1300
-vers_avant = False
+vers_avant = True 
 timer_period[0] = 100
 
 @onevent
@@ -11,7 +11,7 @@ def timer0():
         timer_period[0] = duree_vers_avant
         nf_leds_top(0,32,0) # Vert
         motor_right_target = 200
-        motor_left_target = 200
+        motor_left_target = -200
     else:
         timer_period[0] = duree_tourne
         nf_leds_top(32,16,0) # Orange
