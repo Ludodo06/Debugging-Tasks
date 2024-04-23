@@ -34,3 +34,16 @@ OP66277fbe New target speed:	left 150 	right -150
 OP66277fbf New target speed:	left 300 	right 300
 OP66277fc1 New target speed:	left -150 	right 150
 OP66277fc2 New target speed:	left 300 	right 300
+OP66277fc4 New target speed:	left 150 	right -150
+OP66277fc5 New target speed:	left 300 	right 300
+OP66277fc7 New target speed:	left 0 	right 0
+OP66277ff3  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66277ff3 New target speed:	left 300 	right 300
+OP66277ff5 New target speed:	left 150 	right -150
+OP66277ff7 New target speed:	left 300 	right 300
+OP66277ff8 New target speed:	left 150 	right -150
+OP66277ffa New target speed:	left 300 	right 300
+OP66277ffc New target speed:	left -150 	right 150
+OP66277ffd New target speed:	left 300 	right 300
+OP66277fff New target speed:	left -150 	right 150
+OP66278000 New target speed:	left 300 	right 300
