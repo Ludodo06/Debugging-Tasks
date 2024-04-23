@@ -207,3 +207,52 @@ OP66277100  --- Start of the program leds.py ---
 OP66277101  --- Start of the program leds.py --- 
 OP66277102  --- Start of the program leds.py --- 
 OP6627710b  --- Start of the program leds.py --- 
+OP6627710d  --- Start of the program leds.py --- 
+OP66277111  --- Start of the program leds.py --- 
+OP66277115 Button pressed: 	button_left
+OP66277115 Button pressed: 	button_left
+OP66277116 Button pressed: 	button_forward
+WO66277116 
+OP66277116 Button pressed: 	button_forward
+OP66277116 Button pressed: 	button_right
+OP66277116 Button pressed: 	button_right
+OP66277117 Button pressed: 	button_backward
+OP66277117 Button pressed: 	button_backward
+OP66277118 Button pressed: 	button_left
+OP66277118 Button pressed: 	button_left
+OP66277118 Button pressed: 	button_forward
+WO66277118 
+OP66277118 Button pressed: 	button_forward
+WI6627711a 
+WI6627711a 
+OP6627711f Thymio manipulated: 	x 1 		y 0 		z 27
+OP66277120 Thymio manipulated: 	x 1 		y -20 		z 4
+OP66277120  --- Start of the program leds.py --- 
+OP66277121 Thymio manipulated: 	x 1 		y 0 		z 24
+OP66277124 Button pressed: 	button_forward
+OP66277125 Button pressed: 	button_forward
+OP66277125 Button pressed: 	button_right
+OP66277125 Button pressed: 	button_right
+OP66277126 Button pressed: 	button_backward
+OP66277126 Button pressed: 	button_backward
+OP66277126 Button pressed: 	button_backward
+OP66277127 Button pressed: 	button_backward
+OP66277127 Button pressed: 	button_backward
+OP66277127 Button pressed: 	button_backward
+OP66277127 Button pressed: 	button_backward
+OP66277128 Button pressed: 	button_backward
+OP66277129 Button pressed: 	button_backward
+OP66277129 Button pressed: 	button_backward
+OP66277129 Button pressed: 	button_backward
+OP66277129 Button pressed: 	button_backward
+OP66277129 Button pressed: 	button_backward
+OP66277129 Button pressed: 	button_backward
+OP66277129 Button pressed: 	button_backward
+OP66277129 Button pressed: 	button_backward
+OP6627712a Button pressed: 	button_backward
+OP6627712a Button pressed: 	button_backward
+OP6627712a Button pressed: 	button_backward
+OP6627712a Button pressed: 	button_backward
+OP6627712a Button pressed: 	button_backward
+OP6627712a Button pressed: 	button_backward
+OP6627712b  --- Start of the program leds.py --- 
