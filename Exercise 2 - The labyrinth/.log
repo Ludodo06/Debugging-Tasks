@@ -58,3 +58,17 @@ OP66277955 Button pressed: 	button_center
 OP66277956 Thymio manipulated: 	x 0 		y -7 		z 18
 OP66277956 New target speed:	left 0 	right 0
 OP66277958 Thymio manipulated: 	x -2 		y 2 		z 16
+OP6627796e Wheels manipulated: 	left -12 	right 0
+OP6627796f  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6627796f New target speed:	left 300 	right 300
+OP66277971 New target speed:	left 150 	right -150
+OP66277972 New target speed:	left 300 	right 300
+OP66277974 New target speed:	left 150 	right -150
+OP66277976 New target speed:	left 300 	right 300
+OP66277976 Thymio manipulated: 	x 3 		y 7 		z 8
+OP66277977 New target speed:	left -150 	right 150
+OP66277979 New target speed:	left 300 	right 300
+OP6627797a New target speed:	left -150 	right 150
+OP6627797c New target speed:	left 300 	right 300
+OP6627797d Thymio manipulated: 	x -2 		y -7 		z 17
+OP6627797e New target speed:	left 0 	right 0
