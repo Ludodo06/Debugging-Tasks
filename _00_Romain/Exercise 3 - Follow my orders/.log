@@ -1,0 +1,4 @@
+OP6627a847 Thymio manipulated: 	x -1 		y 4 		z 29
+OP6627a84a Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6627a84b     
+OP6627a84b Line 1
