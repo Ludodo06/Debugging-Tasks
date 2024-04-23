@@ -1,4 +1,4 @@
-duree_vers_avant = 1000
+duree_vers_avant = 3000
 duree_tourne = 1140
 vers_avant = False
 timer_period[0] = 100
