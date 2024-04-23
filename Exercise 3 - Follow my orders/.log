@@ -30,3 +30,8 @@ OP6627789f Button pressed: 	button_forward
 OP662778a0 Thymio manipulated: 	x 1 		y 0 		z 15
 OP662778a1 Thymio manipulated: 	x 0 		y 0 		z 13
 OP662778a2 Thymio manipulated: 	x 1 		y 0 		z 14
+OP662778d3  --- Start of the program Bug_MyOrders.py --- 
+OP662778d3 Button pressed: 	button_forward
+OP662778d3 New target speed:	left 255    	right 255
+OP662778d3 Button pressed: 	button_forward
+OP662778d4 Thymio manipulated: 	x 6 		y 2 		z 18
