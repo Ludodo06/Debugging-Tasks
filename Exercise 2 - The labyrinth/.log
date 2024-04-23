@@ -4,3 +4,33 @@ OP66277f3a Line 14
 OP66277f3e Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
 OP66277f3e     
 OP66277f3e Line 14
+OP66277f8a  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66277f8a New target speed:	left 300 	right 300
+OP66277f8c New target speed:	left 150 	right -150
+OP66277f8d New target speed:	left 300 	right 300
+OP66277f8f New target speed:	left 150 	right -150
+OP66277f90 New target speed:	left 300 	right 300
+OP66277f91 Thymio manipulated: 	x 0 		y 7 		z 13
+OP66277f92 Thymio manipulated: 	x -8 		y 1 		z 11
+OP66277f92 New target speed:	left -150 	right 150
+OP66277f93 Thymio manipulated: 	x -6 		y 3 		z 19
+OP66277f99  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66277f99 New target speed:	left 300 	right 300
+OP66277f9b New target speed:	left 150 	right -150
+OP66277f9c New target speed:	left 300 	right 300
+OP66277f9e New target speed:	left 150 	right -150
+OP66277f9f New target speed:	left 300 	right 300
+OP66277fa1 New target speed:	left -150 	right 150
+OP66277fa2 New target speed:	left 300 	right 300
+OP66277fa4 New target speed:	left 150 	right -150
+OP66277fa6 New target speed:	left 300 	right 300
+OP66277fa7 New target speed:	left 0 	right 0
+OP66277fb2 Thymio manipulated: 	x 2 		y -3 		z 24
+OP66277fb9  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66277fb9 New target speed:	left 300 	right 300
+OP66277fba New target speed:	left 150 	right -150
+OP66277fbc New target speed:	left 300 	right 300
+OP66277fbe New target speed:	left 150 	right -150
+OP66277fbf New target speed:	left 300 	right 300
+OP66277fc1 New target speed:	left -150 	right 150
+OP66277fc2 New target speed:	left 300 	right 300
