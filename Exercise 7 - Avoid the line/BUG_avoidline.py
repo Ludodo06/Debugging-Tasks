@@ -1,5 +1,5 @@
 BAS_GAUCHE = 0
-BAS_DROITE = 1
+BAS_DROITE = 0
 VITESSE = 200
 VALEUR_EN_L_AIR = 100
 VALEUR_NOIR = 700
@@ -18,10 +18,10 @@ def prox():
     elif prox_ground_delta[BAS_GAUCHE] < VALEUR_NOIR:
         nf_leds_top(32,0,0) # RED
         motor_left_target = 0
-        motor_right_target = -VITESSE
+        motor_right_target = VITESSE
     elif prox_ground_delta[BAS_DROITE] < VALEUR_NOIR:
         nf_leds_top(32,0,0) # RED
-        motor_left_target = -VITESSE
+        motor_left_target = VITESSE
         motor_right_target = 0
     else:
         nf_leds_top(0,32,0) # GREEN
