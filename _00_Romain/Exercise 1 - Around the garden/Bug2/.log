@@ -1,0 +1,9 @@
+WO6627a5fd 
+WI6627a605 
+OP6627a60f  --- Start of the program Bug2_Garden.py --- 
+OP6627a60f New target speed:	left 250 	right 250
+OP6627a617 New target speed:	left 200 	right -200
+OP6627a618 New target speed:	left 250 	right 250
+WO6627a61a 
+OP6627a61f Thymio manipulated: 	x -4 		y 0 		z 21
+WI6627a620 
