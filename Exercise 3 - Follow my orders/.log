@@ -35,3 +35,52 @@ OP662778d3 Button pressed: 	button_forward
 OP662778d3 New target speed:	left 255    	right 255
 OP662778d3 Button pressed: 	button_forward
 OP662778d4 Thymio manipulated: 	x 6 		y 2 		z 18
+OP662778ff  --- Start of the program Bug_MyOrders.py --- 
+OP662778ff Button pressed: 	button_forward
+OP662778ff New target speed:	left 255    	right 255
+OP662778ff Button pressed: 	button_forward
+OP66277900 Thymio manipulated: 	x 4 		y -1 		z 21
+OP66277901 Thymio manipulated: 	x 4 		y -1 		z 7
+OP66277903 Thymio manipulated: 	x 4 		y 0 		z 20
+OP66277913  --- Start of the program Bug_MyOrders.py --- 
+OP66277914 Button pressed: 	button_left
+OP66277914 Button pressed: 	button_left
+OP6627791d Button pressed: 	button_forward
+OP6627791d New target speed:	left 255    	right 255
+OP6627791d Button pressed: 	button_forward
+OP6627791e Thymio manipulated: 	x 4 		y -3 		z 19
+OP6627791f Button pressed: 	button_left
+OP6627791f Button pressed: 	button_left
+OP6627791f New target speed:	left -100    	right 100
+OP66277921 Button pressed: 	button_forward
+OP66277921 New target speed:	left 255    	right 255
+OP66277921 Button pressed: 	button_forward
+OP66277922 Button pressed: 	button_left
+OP66277922 Button pressed: 	button_left
+OP66277922 New target speed:	left -100    	right 100
+OP6627792d Button pressed: 	button_forward
+OP6627792d New target speed:	left 255    	right 255
+OP6627792d Button pressed: 	button_forward
+OP6627792e Button pressed: 	button_right
+OP6627792e New target speed:	left 100    	right -100
+OP6627792e Button pressed: 	button_right
+OP66277930 Button pressed: 	button_forward
+OP66277930 Button pressed: 	button_forward
+OP66277930 New target speed:	left 255    	right 255
+OP66277930 Thymio manipulated: 	x -5 		y 2 		z 13
+OP66277930 Button pressed: 	button_right
+OP66277931 New target speed:	left 100    	right -100
+OP66277931 Button pressed: 	button_right
+OP66277932 Button pressed: 	button_forward
+OP66277932 New target speed:	left 255    	right 255
+OP66277932 Button pressed: 	button_forward
+OP66277933 Button pressed: 	button_right
+OP66277933 New target speed:	left 100    	right -100
+OP66277933 Button pressed: 	button_right
+OP66277933 Button pressed: 	button_forward
+OP66277933 New target speed:	left 255    	right 255
+OP66277933 Button pressed: 	button_forward
+OP66277934 Button pressed: 	button_center
+OP66277934 New target speed:	left 0    	right 0
+OP66277934 Button pressed: 	button_center
+OP66277938 Thymio manipulated: 	x 3 		y -6 		z 29
