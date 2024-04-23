@@ -33,3 +33,29 @@ OP6627a88d Button pressed: 	button_forward
 OP6627a88e Button pressed: 	button_center
 OP6627a88e New target speed:	left 0    	right 0
 OP6627a88e Button pressed: 	button_center
+OP6627a8d9  --- Start of the program Bug_MyOrders.py --- 
+OP6627a8db Button pressed: 	button_forward
+OP6627a8db New target speed:	left 255    	right 255
+OP6627a8db Button pressed: 	button_forward
+OP6627a8dc Button pressed: 	button_center
+OP6627a8dc New target speed:	left 0    	right 0
+OP6627a8dc Button pressed: 	button_center
+OP6627a8dc Button pressed: 	button_backward
+OP6627a8dc New target speed:	left -255    	right -255
+OP6627a8dc Button pressed: 	button_backward
+OP6627a8dd Button pressed: 	button_center
+OP6627a8dd New target speed:	left 0    	right 0
+OP6627a8dd Button pressed: 	button_center
+OP6627a8dd Button pressed: 	button_left
+OP6627a8dd Button pressed: 	button_left
+OP6627a8dd New target speed:	left -100    	right 100
+OP6627a8de Button pressed: 	button_center
+OP6627a8de New target speed:	left 0    	right 0
+OP6627a8de Button pressed: 	button_center
+OP6627a8de Button pressed: 	button_right
+OP6627a8de Button pressed: 	button_right
+OP6627a8de New target speed:	left 100    	right -100
+OP6627a8df Button pressed: 	button_center
+OP6627a8df New target speed:	left 0    	right 0
+OP6627a8df Button pressed: 	button_center
+WO6627a8e5 
