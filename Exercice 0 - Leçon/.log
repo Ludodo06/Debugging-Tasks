@@ -256,3 +256,15 @@ OP66277275  --- Start of the program motors.py ---
 OP66277275 New target speed:	left -200 	right -200
 WO6627727e 
 WI66277280 
+OP66277367 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
+OP6627736e Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
+OP6627737f Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
+OP6627738f Error: unknown variable 'prox_ground_horizontal'
+OP6627738f     
+OP6627738f Line 5
+OP66277390 Error: unknown variable 'prox_ground_horizontal'
+OP66277390     
+OP66277390 Line 5
+OP66277391 Error: unknown variable 'prox_ground_horizontal'
+OP66277391     
+OP66277391 Line 5
