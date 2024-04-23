@@ -40,6 +40,7 @@ def buttons():
     if button_center:
         motor_left_target = 0
         motor_right_target = 0
+        mode = STOP
  
 
 
