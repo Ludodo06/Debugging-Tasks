@@ -411,3 +411,14 @@ WI66277245
 OP66277246  --- Start of the program motors.py --- 
 OP66277246 New target speed:	left 500 	right -500
 OP66277248 Thymio manipulated: 	x -5 		y -3 		z 13
+OP66277249 Thymio manipulated: 	x 4 		y -2 		z 12
+OP66277250 Thymio manipulated: 	x 1 		y -7 		z 2
+OP66277254 Python 3.10.11 (C:\Program Files (x86)\Thonny\python.exe)
+OP66277254 >>> 
+OP66277257  --- Start of the program motors.py --- 
+OP66277257 New target speed:	left 500 	right -500
+OP66277265  --- Start of the program motors.py --- 
+OP66277265 New target speed:	left 5 	right -500
+OP66277267  --- Start of the program motors.py --- 
+OP66277267 New target speed:	left 5 	right -500
+OP66277269 Thymio manipulated: 	x -4 		y 1 		z 11
