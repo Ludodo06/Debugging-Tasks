@@ -47,3 +47,10 @@ UD66277a90
 OP66277aa1  --- Start of the program Bug_TheLabyrinthSmall.py --- 
 OP66277aa1 New target speed:	left 300 	right 300
 OP66277aa3 New target speed:	left 150 	right -150
+OP66277aa4 New target speed:	left 300 	right 300
+OP66277aa5 Thymio manipulated: 	x 5 		y 6 		z 3
+OP66277aa6 New target speed:	left 150 	right -150
+OP66277aa7 New target speed:	left 300 	right 300
+OP66277aa9 Thymio manipulated: 	x 5 		y 2 		z 10
+OP66277aa9 New target speed:	left -150 	right 150
+OP66277aab New target speed:	left 300 	right 300
