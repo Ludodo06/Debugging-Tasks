@@ -152,3 +152,8 @@ OP662771f2 Line 2
 OP662771f6 Error: invalid decimal literal
 OP662771f6     
 OP662771f6 Line 2
+UD66277224 
+OP66277234  --- Start of the program motors.py --- 
+OP66277234 New target speed:	left 500 	right 34
+OP66277239 Thymio manipulated: 	x -4 		y -1 		z 23
+OP6627723a Thymio manipulated: 	x 4 		y 0 		z 11
