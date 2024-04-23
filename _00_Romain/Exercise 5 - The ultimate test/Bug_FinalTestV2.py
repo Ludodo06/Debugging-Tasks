@@ -10,7 +10,7 @@ mode = WALLS
 def prox():
     global mode, motor_left_target, motor_right_target
     
-    print
+    print(prox_ground_delta[1])
     
     if mode == WALLS:
         nf_leds_top(32,0,0) # Red
