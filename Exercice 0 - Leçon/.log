@@ -187,3 +187,8 @@ OP66277118  --- Start of the program leds.py ---
 OP66277121 Thymio manipulated: 	x -11 		y 7 		z 14
 OP66277133  --- Start of the program leds.py --- 
 OP6627713b  --- Start of the program leds.py --- 
+OP66277142  --- Start of the program leds.py --- 
+WO66277146 
+WI66277167 
+OP6627717d  --- Start of the program motors.py --- 
+OP6627717d New target speed:	left 500 	right 200
