@@ -1,0 +1,14 @@
+OP66277bce Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66277bce     
+OP66277bce Line 2
+OP66277bcf  --- Start of the program Bug_MyOrders.py --- 
+OP66277bd7 Button pressed: 	button_forward
+OP66277bd7 Button pressed: 	button_forward
+OP66277bd7 New target speed:	left -255    	right 0
+OP66277bd8 Thymio manipulated: 	x 2 		y 0 		z 27
+OP66277bd9 Thymio manipulated: 	x 1 		y -1 		z 16
+OP66277bda Thymio manipulated: 	x -1 		y 1 		z 11
+OP66277bdb Thymio manipulated: 	x 1 		y 0 		z 24
+OP66277bdc Thymio manipulated: 	x 3 		y 0 		z 27
+OP66277bdd Thymio manipulated: 	x 1 		y -1 		z 15
+OP66277bde Thymio manipulated: 	x -2 		y 1 		z 15
