@@ -8,3 +8,11 @@ WO66276a39
 WI66276ef8 
 WO66276efa 
 WI66276efb 
+OP66277597 Button pressed: 	button_left
+OP66277597 Button pressed: 	button_left
+OP66277599  --- Start of the program events.py --- 
+OP6627759a Button pressed: 	button_left
+OP6627759a Button pressed: 	button_left
+OP6627759b Button pressed: 	button_forward
+OP6627759b New target speed:	left 250    	right 250
+OP6627759b Button pressed: 	button_forward
