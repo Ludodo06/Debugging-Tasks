@@ -5933,3 +5933,29 @@ OP662774db Button pressed: 	button_center
 OP662774db Button pressed: 	button_center
 OP662774dd Button pressed: 	button_right
 OP662774dd Button pressed: 	button_right
+OP662774e3 Thymio manipulated: 	x 4 		y -2 		z 16
+OP662774e5  --- Start of the program events.py --- 
+OP662774e5 Button pressed: 	button_right
+OP662774e5 Button pressed: 	button_right
+OP662774e7  --- Start of the program events.py --- 
+OP662774e7 Button pressed: 	button_forward
+OP662774e7 New target speed:	left 250    	right 250
+OP662774e7 Button pressed: 	button_forward
+OP662774e7 Button pressed: 	button_forward
+OP662774e7 New target speed:	left 250    	right 250
+OP662774e8 Button pressed: 	button_forward
+OP662774e9 New target speed:	left 0    	right 0
+OP662774e9 New target speed:	left 0    	right 0
+OP662774f1  --- Start of the program events.py --- 
+OP662774f4 Button pressed: 	button_forward
+OP662774f4 New target speed:	left 250    	right 250
+OP662774f4 Button pressed: 	button_forward
+OP662774fa Thymio manipulated: 	x 0 		y 7 		z -3
+OP662774fb Thymio manipulated: 	x 0 		y 7 		z 0
+OP662774fc New target speed:	left 0    	right 0
+OP662774fc Wheels manipulated: 	left -12 	right 0
+OP662774ff Thymio manipulated: 	x 1 		y -8 		z 26
+OP66277504  --- Start of the program events.py --- 
+OP66277505 Button pressed: 	button_forward
+OP66277505 New target speed:	left 250    	right 250
+OP66277505 Button pressed: 	button_forward
