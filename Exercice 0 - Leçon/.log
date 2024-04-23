@@ -3031,3 +3031,43 @@ OP66277547 Thymio manipulated: 	x 0 		y -5 		z 24
 OP66277549 Button pressed: 	button_forward
 OP66277549 Button pressed: 	button_forward
 OP66277549 New target speed:	left 250    	right 250
+OP6627754b New target speed:	left 0    	right 0
+OP6627755e Button pressed: 	button_backward
+OP6627755e Button pressed: 	button_backward
+OP66277561 Thymio manipulated: 	x 1 		y 0 		z 16
+OP66277561 Button pressed: 	button_forward
+OP66277561 New target speed:	left 250    	right 250
+OP66277561 Button pressed: 	button_forward
+OP66277563 New target speed:	left 0    	right 0
+OP66277565 Button pressed: 	button_forward
+OP66277565 New target speed:	left 250    	right 250
+OP66277565 Button pressed: 	button_forward
+OP66277565 New target speed:	left 0    	right 0
+OP66277566 Button pressed: 	button_forward
+OP66277566 New target speed:	left 250    	right 250
+OP66277566 Button pressed: 	button_forward
+OP66277566 New target speed:	left 0    	right 0
+OP66277566 Button pressed: 	button_forward
+OP66277566 New target speed:	left 250    	right 250
+OP66277566 Button pressed: 	button_forward
+OP66277566 New target speed:	left 0    	right 0
+OP66277567 Button pressed: 	button_forward
+OP66277567 New target speed:	left 250    	right 250
+OP66277567 New target speed:	left 0    	right 0
+OP66277567 Button pressed: 	button_forward
+OP66277567 New target speed:	left 250    	right 250
+OP66277567 New target speed:	left 0    	right 0
+OP66277569 Thymio manipulated: 	x 0 		y -4 		z 24
+OP6627756a Button pressed: 	button_forward
+OP6627756a New target speed:	left 250    	right 250
+OP6627756a Button pressed: 	button_forward
+OP6627756c New target speed:	left 0    	right 0
+OP6627756f Button pressed: 	button_backward
+OP66277570 Button pressed: 	button_backward
+OP66277570 Button pressed: 	button_right
+OP66277571 Button pressed: 	button_right
+OP66277572 Thymio manipulated: 	x 0 		y -2 		z 16
+OP66277573 Button pressed: 	button_forward
+OP66277573 New target speed:	left 250    	right 250
+OP66277573 Button pressed: 	button_forward
+OP66277575 New target speed:	left 0    	right 0
