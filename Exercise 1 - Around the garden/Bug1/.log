@@ -24,3 +24,7 @@ OP66279d86 Thymio manipulated: 	x 10 		y 1 		z 23
 OP66279d87 Thymio manipulated: 	x 4 		y 0 		z 23
 OP66279d9a  --- Start of the program Bug1_Garden.py --- 
 OP66279d9a New target speed:	left 200 	right 200
+OP66279d9e  --- Start of the program Bug1_Garden.py --- 
+OP66279d9e New target speed:	left 200 	right 200
+OP66279d9f Thymio manipulated: 	x 4 		y -1 		z 22
+OP66279da0 Thymio manipulated: 	x -5 		y -1 		z 23
