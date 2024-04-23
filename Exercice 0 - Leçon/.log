@@ -103,3 +103,15 @@ OP6627709e Button pressed: 	button_left
 WO662770dd 
 WI662770de 
 OP662770f7  --- Start of the program leds.py --- 
+OP66277116  --- Start of the program leds.py --- 
+OP6627711a Thymio manipulated: 	x -4 		y -1 		z 25
+OP6627711b Thymio manipulated: 	x -2 		y -19 		z 6
+OP6627711d Thymio manipulated: 	x -3 		y -16 		z 11
+OP6627711e Thymio manipulated: 	x -5 		y -18 		z 8
+OP66277122 Button pressed: 	button_forward
+OP66277122 Button pressed: 	button_forward
+OP66277123 Button pressed: 	button_right
+OP66277123 Button pressed: 	button_right
+OP66277124 Button pressed: 	button_backward
+OP66277124 Button pressed: 	button_backward
+OP66277133  --- Start of the program leds.py --- 
