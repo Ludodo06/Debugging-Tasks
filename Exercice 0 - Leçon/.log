@@ -217,3 +217,11 @@ OP6627721b  --- Start of the program motors.py ---
 OP6627721b New target speed:	left 500 	right 20
 OP6627722b  --- Start of the program motors.py --- 
 OP6627722b New target speed:	left 200 	right 200
+OP6627723a  --- Start of the program motors.py --- 
+OP6627723a New target speed:	left 100 	right 300
+OP66277248  --- Start of the program motors.py --- 
+OP66277248 New target speed:	left 50 	right 500
+OP6627725c  --- Start of the program motors.py --- 
+OP6627725c New target speed:	left 200 	right 200
+OP66277270  --- Start of the program motors.py --- 
+OP66277270 New target speed:	left 400 	right 100
