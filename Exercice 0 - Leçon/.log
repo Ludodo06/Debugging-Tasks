@@ -210,3 +210,10 @@ OP662771f2  --- Start of the program motors.py ---
 OP662771f2 New target speed:	left 500 	right 500
 OP662771f5 Thymio manipulated: 	x 9 		y -4 		z 29
 OP662771f7 Thymio manipulated: 	x 4 		y -2 		z 15
+OP66277202  --- Start of the program motors.py --- 
+OP66277202 New target speed:	left 500 	right -400
+OP66277205 Thymio manipulated: 	x 0 		y 7 		z 4
+OP6627721b  --- Start of the program motors.py --- 
+OP6627721b New target speed:	left 500 	right 20
+OP6627722b  --- Start of the program motors.py --- 
+OP6627722b New target speed:	left 200 	right 200
