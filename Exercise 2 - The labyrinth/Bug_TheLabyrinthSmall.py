@@ -30,7 +30,7 @@ current_step = 1
 
 def forward():
     global motor_left_target, motor_right_target, timer_period
-    timer_period[0] = 1400
+    timer_period[0] = 1700
     nf_leds_top(0,32,0)
     motor_left_target = 300
     motor_right_target = 300

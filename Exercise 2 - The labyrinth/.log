@@ -78,3 +78,15 @@ OP66277b1a New target speed:	left -150 	right 150
 OP66277b1c New target speed:	left 300 	right 300
 OP66277b1d New target speed:	left -150 	right 150
 OP66277b1e New target speed:	left 300 	right 300
+OP66277b4c  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66277b4c New target speed:	left 300 	right 300
+OP66277b4e New target speed:	left 150 	right -150
+OP66277b4f New target speed:	left 300 	right 300
+OP66277b59  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP66277b59 New target speed:	left 300 	right 300
+OP66277b5b Thymio manipulated: 	x -3 		y -7 		z 25
+OP66277b5b New target speed:	left 150 	right -150
+OP66277b5c New target speed:	left 300 	right 300
+OP66277b5e New target speed:	left 150 	right -150
+OP66277b5f New target speed:	left 300 	right 300
+OP66277b61 New target speed:	left -150 	right 150
