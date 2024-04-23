@@ -1,0 +1,126 @@
+OP662777c0 Python 3.10.11 (C:\Program Files (x86)\Thonny\python.exe)
+OP662777c0 >>> 
+OP662777e9  --- Start of the program Bug1_Garden.py --- 
+OP662777e9 New target speed:	left 200 	right 200
+OP662777ea New target speed:	left -200 	right 200
+OP662777eb New target speed:	left 200 	right 200
+OP662777ec New target speed:	left -200 	right 200
+OP662777fc  --- Start of the program Bug1_Garden.py --- 
+OP662777fc New target speed:	left 200 	right 200
+OP6627782a  --- Start of the program Bug1_Garden.py --- 
+OP6627782a New target speed:	left 200 	right 200
+OP6627782b New target speed:	left -200 	right -200
+OP6627782d New target speed:	left 200 	right 200
+OP6627782e New target speed:	left -200 	right -200
+OP6627782f New target speed:	left 200 	right 200
+OP66277830 New target speed:	left -200 	right -200
+OP66277835  --- Start of the program Bug1_Garden.py --- 
+OP66277835 New target speed:	left 200 	right 200
+OP66277836 New target speed:	left 200 	right -200
+OP66277837 New target speed:	left 200 	right 200
+OP66277838 New target speed:	left 200 	right -200
+OP66277839 New target speed:	left 200 	right 200
+OP6627783a New target speed:	left 200 	right -200
+OP6627783c New target speed:	left 200 	right 200
+OP6627784f  --- Start of the program Bug1_Garden.py --- 
+OP6627784f New target speed:	left 200 	right 200
+OP66277850 New target speed:	left -200 	right 200
+OP66277851 New target speed:	left 200 	right 200
+OP66277852 New target speed:	left -200 	right 200
+OP66277854 New target speed:	left 200 	right 200
+OP66277855 New target speed:	left -200 	right 200
+OP66277856 New target speed:	left 200 	right 200
+OP66277864  --- Start of the program Bug1_Garden.py --- 
+OP66277864 New target speed:	left 200 	right 200
+OP66277865 New target speed:	left -200 	right 200
+OP66277866 New target speed:	left 200 	right 200
+OP66277867 New target speed:	left -200 	right 200
+OP66277869 New target speed:	left 200 	right 200
+OP6627786a New target speed:	left -200 	right 200
+OP6627786b New target speed:	left 200 	right 200
+OP6627786c New target speed:	left -200 	right 200
+OP6627786d New target speed:	left 200 	right 200
+OP6627786e New target speed:	left -200 	right 200
+OP6627786f New target speed:	left 200 	right 200
+OP66277877 Compilation error: Access of array timer.period out of bounds: accessing index 2 while array is of size 2
+OP6627787e Compilation error: Access of array timer.period out of bounds: accessing index 2 while array is of size 2
+OP66277887  --- Start of the program Bug1_Garden.py --- 
+OP66277887 New target speed:	left 200 	right 200
+OP66277888 New target speed:	left -200 	right 200
+OP66277892  --- Start of the program Bug1_Garden.py --- 
+OP66277899  --- Start of the program Bug1_Garden.py --- 
+OP662778a2  --- Start of the program Bug1_Garden.py --- 
+OP662778a2 New target speed:	left 200 	right 200
+OP662778a3 New target speed:	left -200 	right 200
+OP662778a4 New target speed:	left 200 	right 200
+OP662778a5 New target speed:	left -200 	right 200
+OP662778a6 New target speed:	left 200 	right 200
+OP662778a7 New target speed:	left -200 	right 200
+OP662778a8 New target speed:	left 200 	right 200
+OP662778a9 New target speed:	left -200 	right 200
+OP662778b6  --- Start of the program Bug1_Garden.py --- 
+OP662778b6 New target speed:	left 400 	right 400
+OP662778b7 New target speed:	left -400 	right 400
+OP662778b7 Thymio manipulated: 	x 1 		y -8 		z 8
+OP662778b8 New target speed:	left 400 	right 400
+OP662778b9 New target speed:	left -400 	right 400
+OP662778ba New target speed:	left 400 	right 400
+OP662778bb New target speed:	left -400 	right 400
+OP662778bc Thymio manipulated: 	x 4 		y 5 		z 16
+OP662778bc New target speed:	left 400 	right 400
+OP662778c7  --- Start of the program Bug1_Garden.py --- 
+OP662778c7 New target speed:	left 400 	right 400
+OP662778c8 New target speed:	left -200 	right 200
+OP662778c9 New target speed:	left 400 	right 400
+OP662778ca New target speed:	left -200 	right 200
+OP662778cb New target speed:	left 400 	right 400
+OP662778cc New target speed:	left -200 	right 200
+OP662778ce New target speed:	left 400 	right 400
+OP662778cf New target speed:	left -200 	right 200
+OP6627791f  --- Start of the program Bug1_Garden.py --- 
+OP6627791f New target speed:	left 200 	right 200
+OP66277920 New target speed:	left -200 	right 200
+OP66277922 New target speed:	left 200 	right 200
+OP66277923 New target speed:	left -200 	right 200
+OP66277924 New target speed:	left 200 	right 200
+OP66277933  --- Start of the program Bug1_Garden.py --- 
+OP66277933 New target speed:	left 200 	right 200
+OP66277935 New target speed:	left -200 	right 200
+OP66277936 New target speed:	left 200 	right 200
+OP6627793e  --- Start of the program Bug1_Garden.py --- 
+OP6627793e New target speed:	left 200 	right 200
+OP66277940 New target speed:	left -200 	right 200
+OP66277941 New target speed:	left 200 	right 200
+OP66277951  --- Start of the program Bug1_Garden.py --- 
+OP66277951 New target speed:	left 200 	right 200
+OP66277953 New target speed:	left -200 	right 200
+OP66277955 New target speed:	left 200 	right 200
+OP66277956 New target speed:	left -200 	right 200
+OP66277958 New target speed:	left 200 	right 200
+OP66277959 Thymio manipulated: 	x -2 		y 7 		z 19
+OP6627795a New target speed:	left -200 	right 200
+OP66277961  --- Start of the program Bug1_Garden.py --- 
+OP66277961 New target speed:	left 200 	right 200
+OP66277963 New target speed:	left -200 	right 200
+OP66277964 New target speed:	left 200 	right 200
+OP66277966 New target speed:	left -200 	right 200
+OP66277968 New target speed:	left 200 	right 200
+OP66277976  --- Start of the program Bug1_Garden.py --- 
+OP66277976 New target speed:	left 400 	right 400
+OP66277978 New target speed:	left -200 	right 200
+OP66277979 New target speed:	left 400 	right 400
+OP6627797b Thymio manipulated: 	x -5 		y -7 		z 14
+OP6627797b New target speed:	left -200 	right 200
+OP6627797d New target speed:	left 400 	right 400
+OP66277996  --- Start of the program Bug1_Garden.py --- 
+OP66277996 New target speed:	left -200 	right 200
+OP66277997 New target speed:	left 200 	right 200
+OP66277999 New target speed:	left -200 	right 200
+OP6627799a New target speed:	left 200 	right 200
+OP6627799c New target speed:	left -200 	right 200
+OP662779a5  --- Start of the program Bug1_Garden.py --- 
+OP662779a6 New target speed:	left -200 	right 200
+WO662779cf 
+WI662779d1 
+WO662779d3 
+WI662779d4 
