@@ -18,7 +18,7 @@ def prox():                                        # Appelé périodiquement
     if prox_horizontal[2] > 2000:                  # Si un obstacle est détecté devant
         motor_left_target = 0                      # Arrêter les roues
         motor_right_target = 0
-        
+
         
         
         
