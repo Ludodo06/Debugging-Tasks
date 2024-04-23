@@ -6,7 +6,7 @@ arriere = 6
 
 @onevent
 def prox():
-    global proxhorizontal ,motor_left_target, motor_right_target
+    global prox_horizontal ,motor_left_target, motor_right_target
         
     nf_leds_top(32,16,0) # Orange
 

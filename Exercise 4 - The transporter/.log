@@ -33,3 +33,8 @@ OP66277f2a Line 9
 OP66277f30 Error: invalid syntax
 OP66277f30     
 OP66277f30 Line 9
+OP66277f49  --- Start of the program Bug_TheTransporter.py --- 
+OP66277f49 New target speed:	left 251 	right 251
+OP66277f49 New target speed:	left -251 	right -251
+OP66277f4e  --- Start of the program Bug_TheTransporter.py --- 
+OP66277f4e New target speed:	left -251 	right -251
