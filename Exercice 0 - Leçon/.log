@@ -5972,3 +5972,8 @@ OP6627750f New target speed:	left 0    	right 0
 OP66277515 Button pressed: 	button_forward
 OP66277515 New target speed:	left 250    	right 250
 OP66277515 Button pressed: 	button_forward
+OP6627751d  --- Start of the program events.py --- 
+OP66277544  --- Start of the program events.py --- 
+OP66277545 Button pressed: 	button_forward
+OP66277545 New target speed:	left 250    	right 250
+OP66277545 Button pressed: 	button_forward
