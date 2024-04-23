@@ -171,3 +171,33 @@ OP6627714b
 OP6627714b Line 2
 WO66277156 
 WI6627715e 
+OP66277179  --- Start of the program motors.py --- 
+OP66277179 New target speed:	left 500 	right 0
+OP66277179 Thymio manipulated: 	x 1 		y 2 		z 6
+OP6627717a Thymio manipulated: 	x 4 		y 2 		z 5
+OP6627717c Thymio manipulated: 	x 1 		y 0 		z 16
+OP6627717d Thymio manipulated: 	x 3 		y -1 		z 6
+OP6627717e Thymio manipulated: 	x -1 		y -3 		z 9
+OP6627717f Thymio manipulated: 	x 0 		y -2 		z 14
+OP66277180 Thymio manipulated: 	x 2 		y -2 		z 3
+OP66277181 Thymio manipulated: 	x 1 		y 1 		z 5
+OP66277182 Thymio manipulated: 	x 1 		y 0 		z 15
+OP66277183 Thymio manipulated: 	x -1 		y -2 		z 9
+OP66277184 Thymio manipulated: 	x -1 		y -3 		z 14
+OP66277185 Thymio manipulated: 	x 0 		y 0 		z 8
+OP66277186 Thymio manipulated: 	x 0 		y 0 		z 6
+OP66277187 Thymio manipulated: 	x 2 		y 2 		z 8
+OP66277188 Thymio manipulated: 	x -3 		y -3 		z 13
+OP66277189 Thymio manipulated: 	x 2 		y 3 		z 7
+OP6627718a Thymio manipulated: 	x -1 		y -1 		z 9
+OP6627718b Thymio manipulated: 	x 5 		y -2 		z 1
+OP6627718d Thymio manipulated: 	x 0 		y 1 		z 5
+OP6627718e Thymio manipulated: 	x 2 		y 1 		z 3
+OP6627718f Thymio manipulated: 	x 2 		y 0 		z 1
+OP66277190 Thymio manipulated: 	x -4 		y -7 		z 8
+OP66277191 Thymio manipulated: 	x 1 		y 0 		z 8
+OP66277192 Thymio manipulated: 	x 2 		y 2 		z 4
+OP66277193 Thymio manipulated: 	x 1 		y 0 		z 14
+OP66277194 Thymio manipulated: 	x 0 		y -2 		z 16
+OP66277195 Thymio manipulated: 	x 4 		y 2 		z 10
+OP66277196 Thymio manipulated: 	x 0 		y -1 		z 5
