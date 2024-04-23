@@ -65,3 +65,5 @@ WI6626e37c
 OP6627844c Cannot connect to robot
 WO6627844e 
 WI66278459 
+OP6627846f Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP66278475 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
