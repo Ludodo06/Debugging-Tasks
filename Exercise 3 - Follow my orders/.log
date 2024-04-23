@@ -65,3 +65,34 @@ OP66277cc6 Thymio manipulated: 	x 0 		y 0 		z 10
 OP66277cc7 Thymio manipulated: 	x 0 		y 1 		z 14
 OP66277cc9 Thymio manipulated: 	x 0 		y 1 		z 13
 OP66277cca Thymio manipulated: 	x 2 		y -1 		z 27
+OP66277cf9  --- Start of the program Bug_MyOrders.py --- 
+OP66277cfa Button pressed: 	button_forward
+OP66277cfa Button pressed: 	button_forward
+OP66277cfa New target speed:	left 255    	right 255
+OP66277cfb Thymio manipulated: 	x 4 		y -1 		z 24
+OP66277cfe Thymio manipulated: 	x 4 		y 0 		z 19
+OP66277d01  --- Start of the program Bug_MyOrders.py --- 
+OP66277d03 Button pressed: 	button_backward
+OP66277d03 New target speed:	left -255    	right -255
+OP66277d03 Button pressed: 	button_backward
+OP66277d08 Thymio manipulated: 	x 0 		y -7 		z 20
+OP66277d0e  --- Start of the program Bug_MyOrders.py --- 
+OP66277d10  --- Start of the program Bug_MyOrders.py --- 
+OP66277d12 Button pressed: 	button_left
+OP66277d12 New target speed:	left -100    	right 100
+OP66277d12 Button pressed: 	button_left
+OP66277d13 Button pressed: 	button_right
+OP66277d13 New target speed:	left 100    	right -100
+OP66277d13 Button pressed: 	button_right
+OP66277d15 Button pressed: 	button_forward
+OP66277d15 Button pressed: 	button_forward
+OP66277d15 New target speed:	left 255    	right 255
+OP66277d16 Thymio manipulated: 	x 6 		y -2 		z 17
+OP66277d17 Button pressed: 	button_backward
+OP66277d17 Button pressed: 	button_backward
+OP66277d17 New target speed:	left -255    	right -255
+OP66277d18 Button pressed: 	button_center
+OP66277d18 New target speed:	left 0    	right 0
+OP66277d18 Button pressed: 	button_center
+WO66277d1a 
+WI66277d1d 
