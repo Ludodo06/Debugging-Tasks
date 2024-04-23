@@ -5978,3 +5978,8 @@ OP66277545 Button pressed: 	button_forward
 OP66277545 New target speed:	left 250    	right 250
 OP66277545 Button pressed: 	button_forward
 OP66277548 New target speed:	left 0    	right 0
+OP66277567 Python 3.10.11 (C:\Program Files (x86)\Thonny\python.exe)
+OP66277567 >>> 
+OP6627756a  --- Start of the program events.py --- 
+WO6627757a 
+WI6627757c 
