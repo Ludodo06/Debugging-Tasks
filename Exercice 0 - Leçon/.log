@@ -129,3 +129,13 @@ OP6627705d Thymio manipulated: 	x 2 		y 11 		z 16
 OP6627705f Thymio manipulated: 	x 1 		y 10 		z 16
 OP66277060 Thymio manipulated: 	x 4 		y 10 		z 16
 OP66277063 Thymio manipulated: 	x 2 		y 12 		z 16
+OP66277078 Thymio manipulated: 	x -7 		y -9 		z 16
+OP66277078 Button pressed: 	button_center
+OP66277078 Button pressed: 	button_center
+OP66277080 Thymio manipulated: 	x -7 		y -7 		z 16
+OP66277081 Thymio manipulated: 	x -7 		y -19 		z 5
+OP66277084 Button pressed: 	button_forward
+OP66277085 Thymio manipulated: 	x 3 		y -8 		z 16
+OP66277085 Button pressed: 	button_forward
+OP6627708d Button pressed: 	button_center
+OP6627708d Button pressed: 	button_center
