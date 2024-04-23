@@ -2,6 +2,8 @@
 motor_left_target = 100
 motor_right_target = 100
 
+print(motor_left_target)
+
 
 
 
