@@ -10,6 +10,8 @@ mode = WALLS
 def prox():
     global mode, motor_left_target, motor_right_target
     
+    print
+    
     if mode == WALLS:
         nf_leds_top(32,0,0) # Red
         steer = (prox_horizontal[0] - prox_horizontal[4])//20        # left: 0, right: 4
