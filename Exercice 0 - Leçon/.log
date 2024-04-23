@@ -225,3 +225,12 @@ OP6627725c  --- Start of the program motors.py ---
 OP6627725c New target speed:	left 200 	right 200
 OP66277270  --- Start of the program motors.py --- 
 OP66277270 New target speed:	left 400 	right 100
+OP66277282  --- Start of the program motors.py --- 
+OP66277282 New target speed:	left 500 	right 20
+WO66277284 
+WI66277287 
+OP66277291 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
+WO662772a1 
+WI662772b1 
+WO662772b2 
+WI662772b5 
