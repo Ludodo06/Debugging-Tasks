@@ -160,3 +160,23 @@ OP66277092 Thymio manipulated: 	x 3 		y 16 		z 11
 OP66277093 Thymio manipulated: 	x 3 		y 16 		z 10
 OP66277094 Thymio manipulated: 	x 2 		y 9 		z 16
 OP66277095 Thymio manipulated: 	x 4 		y 8 		z 16
+OP662770d4 %cd 'C:\Users\pv33apm\Documents\Debugging-Tasks\Exercice 0 - Leçon'
+OP662770d4 %Run leds.py
+OP662770d4 >>> 
+OP662770d5 Traceback (most recent call last):
+OP662770d5   
+OP662770d5 File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercice 0 - Leçon\leds.py", line 2, in <module>
+OP662770d5     nf_leds_top(0,6,32)
+OP662770d5 NameError: name 'nf_leds_top' is not defined
+OP662770d5 >>> 
+RN662770d5 
+OP662770e8 %Run leds.py
+OP662770e8 Traceback (most recent call last):
+OP662770e8   
+OP662770e8 File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercice 0 - Leçon\leds.py", line 2, in <module>
+OP662770e8     nf_leds_top(3,6,32)
+OP662770e8 NameError: name 'nf_leds_top' is not defined
+OP662770e8 >>> 
+RN662770e8 
+OP662770f9  --- Start of the program leds.py --- 
+OP662770fc  --- Start of the program leds.py --- 
