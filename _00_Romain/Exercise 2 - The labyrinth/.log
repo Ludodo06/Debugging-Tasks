@@ -6,3 +6,29 @@ OP6627a721 Line 15
 OP6627a724 Error: invalid syntax
 OP6627a724     
 OP6627a724 Line 15
+OP6627a737  --- Start of the program Bug_TheLabyrinth.py --- 
+OP6627a737 New target speed:	left 300 	right 300
+OP6627a73a New target speed:	left 150 	right -150
+OP6627a73b New target speed:	left 300 	right 300
+OP6627a73e New target speed:	left 150 	right -150
+OP6627a73e Thymio manipulated: 	x -1 		y -7 		z 22
+OP6627a747  --- Start of the program Bug_TheLabyrinth.py --- 
+OP6627a748 New target speed:	left 300 	right 300
+OP6627a74a New target speed:	left 150 	right -150
+OP6627a74c New target speed:	left 300 	right 300
+OP6627a74e New target speed:	left 150 	right -150
+OP6627a750 New target speed:	left 300 	right 300
+OP6627a751 Thymio manipulated: 	x 4 		y -10 		z 20
+OP6627a757  --- Start of the program Bug_TheLabyrinth.py --- 
+OP6627a757 New target speed:	left 300 	right 300
+OP6627a75a New target speed:	left 150 	right -150
+OP6627a75e New target speed:	left 150 	right -150
+OP6627a75f New target speed:	left 300 	right 300
+OP6627a762 New target speed:	left -150 	right 150
+OP6627a763 New target speed:	left 300 	right 300
+OP6627a764 Thymio manipulated: 	x -4 		y 10 		z 19
+OP6627a768 New target speed:	left -150 	right 150
+OP6627a76a New target speed:	left 300 	right 300
+OP6627a76c New target speed:	left -150 	right 150
+OP6627a76e New target speed:	left 300 	right 300
+OP6627a770 New target speed:	left 150 	right -150
