@@ -378,3 +378,21 @@ WI662771fb
 OP66277200  --- Start of the program motors.py --- 
 OP66277200 New target speed:	left -400 	right 400
 OP66277203 Thymio manipulated: 	x 0 		y -8 		z 9
+OP66277210  --- Start of the program motors.py --- 
+OP66277210 New target speed:	left 400 	right 450
+WO66277213 
+OP66277213 Thymio manipulated: 	x 5 		y -3 		z 6
+WO66277216 
+WI66277217 
+WI66277217 
+OP66277217 Thymio manipulated: 	x 2 		y -8 		z 13
+OP66277217  --- Start of the program motors.py --- 
+OP66277217 New target speed:	left 400 	right 400
+OP66277218 Thymio manipulated: 	x 4 		y 0 		z 3
+OP66277218 Cannot connect to robot
+WO66277219 
+WO6627721e 
+WI6627721f 
+WI6627721f 
+OP6627722a  --- Start of the program motors.py --- 
+OP6627722a New target speed:	left -500 	right 500
