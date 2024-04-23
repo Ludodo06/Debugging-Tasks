@@ -2,7 +2,7 @@
 def timer0():
     global current_step
     
-    if current_step == 1: forward(-200)
+    if current_step == 1: forward()
     if current_step == 2: right()
     if current_step == 3: forward()
     if current_step == 4: right()
