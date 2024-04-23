@@ -1,2 +1,12 @@
 OP66277d6f Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 CP66277d90 
+OP66277da6 %cd 'C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 4 - The transporter'
+OP66277da6 %Run Bug_TheTransporter.py
+OP66277da6 >>> 
+OP66277da7 Traceback (most recent call last):
+OP66277da7   
+OP66277da7 File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 4 - The transporter\Bug_TheTransporter.py", line 7, in <module>
+OP66277da7     @onevent
+OP66277da7 NameError: name 'onevent' is not defined
+OP66277da7 >>> 
+RN66277da7 
