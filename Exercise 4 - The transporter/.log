@@ -10,3 +10,14 @@ OP66277da7     @onevent
 OP66277da7 NameError: name 'onevent' is not defined
 OP66277da7 >>> 
 RN66277da7 
+OP66277df4 %Run Bug_TheTransporter.py
+OP66277df4  --- Start of the program Bug_TheTransporter.py --- 
+OP66277df4 Traceback (most recent call last):
+OP66277df4   
+OP66277df4 File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 4 - The transporter\Bug_TheTransporter.py", line 71, in <module>
+OP66277df4     @onevent
+OP66277df4 NameError: name 'onevent' is not defined
+OP66277df4 >>> 
+RN66277df4 
+PS66277e06 
+PS66277e06 

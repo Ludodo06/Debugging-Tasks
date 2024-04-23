@@ -4,7 +4,7 @@ motor_right_target = speed
 avant = 2
 arriere = 6
 
-@onevent
+ @onevent
 def prox():
     global motor_left_target, motor_right_target
         
