@@ -16,3 +16,9 @@ OP6627759a Button pressed: 	button_left
 OP6627759b Button pressed: 	button_forward
 OP6627759b New target speed:	left 250    	right 250
 OP6627759b Button pressed: 	button_forward
+OP6627759b Button pressed: 	button_left
+OP6627759c Button pressed: 	button_left
+OP6627759d Thymio manipulated: 	x 4 		y 5 		z -6
+OP6627759f Thymio manipulated: 	x 1 		y -7 		z 11
+OP662775a1 Thymio manipulated: 	x 0 		y 8 		z 8
+OP662775a3 Thymio manipulated: 	x 0 		y -8 		z 10
