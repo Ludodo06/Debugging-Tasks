@@ -5,3 +5,11 @@ WO66279f97
 WI6627a1cc 
 WO6627a1d0 
 WI6627a1da 
+OP6627a4ea  --- Start of the program Bug1_Garden.py --- 
+OP6627a4ea New target speed:	left 200 	right 200
+OP6627a4ee New target speed:	left -200 	right 200
+OP6627a4ef New target speed:	left 200 	right 200
+OP6627a4f3 New target speed:	left -200 	right 200
+OP6627a4f4 New target speed:	left 200 	right 200
+OP6627a4f8 New target speed:	left -200 	right 200
+OP6627a4fa New target speed:	left 200 	right 200
