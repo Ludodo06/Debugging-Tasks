@@ -1,6 +1,8 @@
 # Make Thymio change color
 nf_leds_top(11,16,0)
 
+print(button
+
 
 
 
