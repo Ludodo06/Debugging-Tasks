@@ -4,3 +4,155 @@ OP662777b5 Thymio manipulated: 	x 0 		y -1 		z 29
 OP662777c8 Thymio manipulated: 	x -14 		y 1 		z 36
 OP662777c9 Thymio manipulated: 	x 2 		y 2 		z 14
 OP662777cb Thymio manipulated: 	x 1 		y 3 		z 16
+OP662777dd  --- Start of the program Bug_avoidline.py --- 
+OP662777e4 Thymio manipulated: 	x 6 		y -3 		z 25
+OP662777e5 New target speed:	left -200 	right -400
+OP662777e5 New target speed:	left 200 	right 200
+OP662777e6 Thymio manipulated: 	x 0 		y 8 		z 23
+OP662777e6 New target speed:	left -200 	right -400
+OP662777e6 New target speed:	left 0 	right 0
+OP662777e8 Thymio manipulated: 	x 2 		y -9 		z 25
+OP662777e8 New target speed:	left -200 	right -400
+OP662777e8 New target speed:	left 200 	right 200
+OP662777ea Thymio manipulated: 	x 5 		y 0 		z 23
+OP662777ea New target speed:	left -200 	right -400
+OP662777ea New target speed:	left 0 	right 0
+OP662777ea New target speed:	left -200 	right -400
+OP662777eb New target speed:	left 200 	right 200
+OP662777eb New target speed:	left -200 	right -400
+OP662777eb New target speed:	left 0 	right 0
+OP662777ed New target speed:	left -200 	right -400
+OP662777ed New target speed:	left -200 	right 0
+OP662777ed New target speed:	left 200 	right 200
+OP662777ee New target speed:	left -200 	right 0
+OP662777ee New target speed:	left 200 	right 200
+OP662777ee New target speed:	left -200 	right 0
+OP662777ee Thymio manipulated: 	x 0 		y -2 		z 16
+OP662777ee New target speed:	left 200 	right 200
+OP662777ee New target speed:	left -200 	right 0
+OP662777ef New target speed:	left 200 	right 200
+OP662777ef New target speed:	left -200 	right 0
+OP662777ef New target speed:	left 200 	right 200
+OP662777ef New target speed:	left -200 	right 0
+OP662777ef New target speed:	left 200 	right 200
+OP662777f0 New target speed:	left -200 	right 0
+OP662777f0 New target speed:	left 200 	right 200
+OP662777f0 New target speed:	left 0 	right -200
+OP662777f0 New target speed:	left -200 	right -400
+OP662777f0 New target speed:	left 200 	right 200
+OP662777f0 Thymio manipulated: 	x 3 		y 15 		z 22
+OP662777f2 Thymio manipulated: 	x -5 		y 0 		z 22
+OP662777f3 New target speed:	left -200 	right -400
+OP662777f3 New target speed:	left 200 	right 200
+OP662777f3 New target speed:	left 0 	right -200
+OP662777f4 New target speed:	left 200 	right 200
+OP662777f4 New target speed:	left 0 	right -200
+OP662777f4 New target speed:	left 200 	right 200
+OP662777f4 Thymio manipulated: 	x -3 		y -9 		z 29
+OP662777f4 New target speed:	left -200 	right -400
+OP662777f4 New target speed:	left 0 	right 0
+OP662777f4 Thymio manipulated: 	x -19 		y 4 		z 12
+OP662777f5 Thymio manipulated: 	x -18 		y 8 		z 7
+OP662777f6 Thymio manipulated: 	x -24 		y -4 		z 9
+OP662777f7 New target speed:	left -200 	right -400
+OP662777f8 New target speed:	left 0 	right 0
+OP662777f8 Wheels manipulated: 	left -38 	right -97
+OP662777f8 New target speed:	left -200 	right -400
+OP662777f8 New target speed:	left 200 	right 200
+OP662777f9 New target speed:	left -200 	right 0
+OP662777f9 New target speed:	left 200 	right 200
+OP662777f9 New target speed:	left -200 	right 0
+OP662777f9 New target speed:	left 200 	right 200
+OP662777f9 New target speed:	left -200 	right 0
+OP662777fa Thymio manipulated: 	x 0 		y -1 		z 14
+OP662777fa Wheels manipulated: 	left -39 	right 68
+OP662777fa New target speed:	left 200 	right 200
+OP662777fa New target speed:	left -200 	right 0
+OP662777fa New target speed:	left 200 	right 200
+OP662777fa New target speed:	left 0 	right -200
+OP662777fa New target speed:	left 200 	right 200
+OP662777fb New target speed:	left -200 	right 0
+OP662777fb New target speed:	left 200 	right 200
+OP662777fb New target speed:	left 0 	right -200
+OP662777fb New target speed:	left -200 	right 0
+OP662777fb New target speed:	left 200 	right 200
+OP662777fb New target speed:	left -200 	right -400
+OP662777fb New target speed:	left 200 	right 200
+OP662777fc New target speed:	left -200 	right 0
+OP662777fc New target speed:	left 200 	right 200
+OP662777fc New target speed:	left -200 	right -400
+OP662777fc New target speed:	left 0 	right -200
+OP662777fc New target speed:	left 200 	right 200
+OP662777fc New target speed:	left -200 	right 0
+OP662777fc New target speed:	left 0 	right -200
+OP662777fc New target speed:	left 200 	right 200
+OP662777fd New target speed:	left -200 	right 0
+OP662777fd New target speed:	left 0 	right -200
+OP662777fd Wheels manipulated: 	left -15 	right -149
+OP662777fd New target speed:	left 200 	right 200
+OP662777fd New target speed:	left -200 	right -400
+OP662777fd New target speed:	left -200 	right 0
+OP662777fd New target speed:	left 200 	right 200
+OP662777fe New target speed:	left -200 	right -400
+OP662777fe New target speed:	left -200 	right 0
+OP662777fe New target speed:	left 200 	right 200
+OP662777fe New target speed:	left 0 	right -200
+OP662777fe New target speed:	left -200 	right -400
+OP662777fe New target speed:	left 200 	right 200
+OP662777fe New target speed:	left -200 	right 0
+OP662777ff New target speed:	left 200 	right 200
+OP662777ff New target speed:	left 0 	right -200
+OP662777ff New target speed:	left -200 	right -400
+OP662777ff New target speed:	left 200 	right 200
+OP662777ff New target speed:	left -200 	right 0
+OP662777ff New target speed:	left 200 	right 200
+OP66277800 New target speed:	left -200 	right -400
+OP66277800 New target speed:	left 0 	right -200
+OP66277800 New target speed:	left 200 	right 200
+OP66277800 New target speed:	left -200 	right -400
+OP66277800 New target speed:	left 200 	right 200
+OP66277800 New target speed:	left -200 	right 0
+OP66277800 New target speed:	left 200 	right 200
+OP66277800 New target speed:	left 0 	right -200
+OP66277801 New target speed:	left -200 	right 0
+OP66277801 New target speed:	left 200 	right 200
+OP66277801 New target speed:	left -200 	right -400
+OP66277801 New target speed:	left 200 	right 200
+OP66277801 New target speed:	left -200 	right 0
+OP66277801 New target speed:	left -200 	right -400
+OP66277801 New target speed:	left 200 	right 200
+OP66277802 New target speed:	left -200 	right -400
+OP66277802 New target speed:	left -200 	right 0
+OP66277802 New target speed:	left 200 	right 200
+OP66277802 New target speed:	left 0 	right -200
+OP66277802 New target speed:	left 200 	right 200
+OP66277802 New target speed:	left -200 	right 0
+OP66277802 New target speed:	left 200 	right 200
+OP66277803 New target speed:	left 0 	right -200
+OP66277803 New target speed:	left -200 	right -400
+OP66277803 New target speed:	left 200 	right 200
+OP66277803 New target speed:	left -200 	right 0
+OP66277803 New target speed:	left 200 	right 200
+OP66277803 New target speed:	left -200 	right 0
+OP66277803 New target speed:	left 0 	right -200
+OP66277803 New target speed:	left 200 	right 200
+OP66277803 New target speed:	left -200 	right 0
+OP66277803 New target speed:	left 0 	right -200
+OP66277804 New target speed:	left 200 	right 200
+OP66277804 New target speed:	left -200 	right -400
+OP66277804 New target speed:	left 200 	right 200
+OP66277804 New target speed:	left -200 	right 0
+OP66277804 New target speed:	left 0 	right -200
+OP66277804 New target speed:	left 200 	right 200
+OP66277804 New target speed:	left -200 	right 0
+OP66277804 New target speed:	left 0 	right -200
+OP66277805 Wheels manipulated: 	left -18 	right -109
+OP66277805 New target speed:	left 200 	right 200
+OP66277805 New target speed:	left -200 	right 0
+OP66277805 New target speed:	left 0 	right -200
+OP66277805 New target speed:	left 200 	right 200
+OP66277805 New target speed:	left -200 	right -400
+OP66277805 New target speed:	left 200 	right 200
+OP66277806 New target speed:	left -200 	right 0
+OP66277806 New target speed:	left 200 	right 200
+OP66277806 New target speed:	left 0 	right -200
