@@ -136,3 +136,9 @@ OP6627716b Line 2
 OP6627716b Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
 OP6627716b     
 OP6627716b Line 2
+WO66277186 
+WI6627718c 
+OP66277196  --- Start of the program motors.py --- 
+OP66277196 New target speed:	left 0 	right 23
+OP662771af  --- Start of the program motors.py --- 
+OP662771af New target speed:	left 23 	right 23
