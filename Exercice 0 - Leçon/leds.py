@@ -1,5 +1,9 @@
 # Changez la couleur des LEDS en utilisant le format RGB (de 0 à 32)
+<<<<<<< HEAD
 nf_leds_top(2,12,30)
+=======
+nf_leds_top(05,15,32)
+>>>>>>> 807a079784ea976ba343c26e4b730575da1e5f50
 
 
 
@@ -133,3 +137,4 @@ def button_backward(): print("Button pressed: \tbutton_backward")
 
 
 
+       
