@@ -4166,3 +4166,19 @@ OP66277504 New target speed:	left 0    	right 0
 OP66277510 Button pressed: 	button_forward
 OP66277510 New target speed:	left 250    	right 250
 OP66277511 Button pressed: 	button_forward
+OP66277512 Thymio manipulated: 	x 5 		y -1 		z 23
+OP66277514 Thymio manipulated: 	x 4 		y 0 		z 22
+OP6627751a Thymio manipulated: 	x -4 		y 0 		z 12
+OP6627751b Thymio manipulated: 	x -4 		y 0 		z 12
+OP6627751f Thymio manipulated: 	x 4 		y 0 		z 21
+OP66277521 New target speed:	left 0    	right 0
+OP66277527 Wheels manipulated: 	left -16 	right 0
+OP66277528 Thymio manipulated: 	x 0 		y 5 		z 9
+OP6627752c Button pressed: 	button_forward
+OP6627752c New target speed:	left 250    	right 250
+OP6627752c Button pressed: 	button_forward
+OP6627752e Thymio manipulated: 	x 4 		y 0 		z 15
+OP66277533 Thymio manipulated: 	x 4 		y -2 		z 23
+OP66277538 Thymio manipulated: 	x 4 		y -1 		z 26
+OP6627753a New target speed:	left 0    	right 0
+OP6627753c Thymio manipulated: 	x 0 		y 7 		z 16
