@@ -153,3 +153,67 @@ OP6627796a Button pressed: 	button_center
 OP6627796a New target speed:	left 0    	right 0
 OP6627796a Button pressed: 	button_center
 OP66277974 Thymio manipulated: 	x 3 		y -5 		z 27
+OP6627797e Button pressed: 	button_forward
+OP6627797e New target speed:	left 255    	right 255
+OP6627797e Button pressed: 	button_forward
+OP66277980 Thymio manipulated: 	x 4 		y -2 		z 15
+OP66277981 Button pressed: 	button_left
+OP66277981 New target speed:	left -100    	right 100
+OP66277981 Button pressed: 	button_left
+OP66277983 Button pressed: 	button_forward
+OP66277983 New target speed:	left 255    	right 255
+OP66277983 Button pressed: 	button_forward
+OP66277984 Button pressed: 	button_left
+OP66277984 New target speed:	left -100    	right 100
+OP66277984 Button pressed: 	button_left
+OP66277986 Button pressed: 	button_forward
+OP66277986 New target speed:	left 255    	right 255
+OP66277986 Button pressed: 	button_forward
+OP66277987 Thymio manipulated: 	x 4 		y -1 		z 26
+OP66277988 Button pressed: 	button_right
+OP66277988 New target speed:	left 100    	right -100
+OP66277988 Button pressed: 	button_right
+OP6627798a Button pressed: 	button_forward
+OP6627798a New target speed:	left 255    	right 255
+OP6627798a Button pressed: 	button_forward
+OP6627798b Button pressed: 	button_right
+OP6627798b New target speed:	left 100    	right -100
+OP6627798b Button pressed: 	button_right
+OP6627798d Button pressed: 	button_forward
+OP6627798d Button pressed: 	button_forward
+OP6627798d New target speed:	left 255    	right 255
+OP6627798f Button pressed: 	button_center
+OP6627798f New target speed:	left 0    	right 0
+OP6627798f Button pressed: 	button_center
+OP66277990 Thymio manipulated: 	x 5 		y -4 		z 28
+OP66277992 Button pressed: 	button_forward
+OP66277992 New target speed:	left 255    	right 255
+OP66277992 Button pressed: 	button_forward
+OP66277993 Thymio manipulated: 	x -5 		y 0 		z 13
+OP66277994 Button pressed: 	button_left
+OP66277994 Button pressed: 	button_left
+OP66277994 New target speed:	left -100    	right 100
+OP66277997 Button pressed: 	button_forward
+OP66277997 Button pressed: 	button_forward
+OP66277997 New target speed:	left 255    	right 255
+OP66277998 Button pressed: 	button_left
+OP66277998 New target speed:	left -100    	right 100
+OP66277998 Button pressed: 	button_left
+OP6627799c Button pressed: 	button_forward
+OP6627799c New target speed:	left 255    	right 255
+OP6627799c Button pressed: 	button_forward
+OP6627799e Button pressed: 	button_right
+OP6627799e New target speed:	left 100    	right -100
+OP6627799e Button pressed: 	button_right
+OP662779a0 Button pressed: 	button_forward
+OP662779a0 New target speed:	left 255    	right 255
+OP662779a0 Button pressed: 	button_forward
+OP662779a1 Button pressed: 	button_right
+OP662779a1 New target speed:	left 100    	right -100
+OP662779a1 Button pressed: 	button_right
+OP662779a3 Button pressed: 	button_forward
+OP662779a3 New target speed:	left 255    	right 255
+OP662779a3 Button pressed: 	button_forward
+OP662779a5 Button pressed: 	button_center
+OP662779a5 New target speed:	left 0    	right 0
+OP662779a5 Button pressed: 	button_center
