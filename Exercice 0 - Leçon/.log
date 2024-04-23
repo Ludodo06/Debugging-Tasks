@@ -117,3 +117,23 @@ OP662770a9 Button pressed: 	button_backward
 OP662770a9 Button pressed: 	button_right
 OP662770a9 Button pressed: 	button_right
 WI662770c0 
+OP662770ea %cd 'C:\Users\pv33apm\Documents\Debugging-Tasks\Exercice 0 - Leçon'
+OP662770ea %Run leds.py
+OP662770ea >>> 
+OP662770eb Traceback (most recent call last):
+OP662770eb   
+OP662770eb File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercice 0 - Leçon\leds.py", line 2, in <module>
+OP662770eb     nf_leds_top(32,0,32)
+OP662770eb NameError: name 'nf_leds_top' is not defined
+OP662770eb >>> 
+RN662770eb 
+OP662770f2  --- Start of the program leds.py --- 
+OP662770f7  --- Start of the program leds.py --- 
+OP6627711f Button pressed: 	button_forward
+OP66277120 Button pressed: 	button_left
+OP66277120 Button pressed: 	button_forward
+OP66277120 Button pressed: 	button_left
+OP66277121 Button pressed: 	button_backward
+OP66277121 Button pressed: 	button_backward
+OP66277121 Button pressed: 	button_right
+OP66277121 Button pressed: 	button_right
