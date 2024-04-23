@@ -139,3 +139,50 @@ OP66277085 Thymio manipulated: 	x 3 		y -8 		z 16
 OP66277085 Button pressed: 	button_forward
 OP6627708d Button pressed: 	button_center
 OP6627708d Button pressed: 	button_center
+OP66277090 Button pressed: 	button_forward
+OP66277090 Button pressed: 	button_forward
+OP66277090 Thymio manipulated: 	x -5 		y -6 		z 16
+OP66277091 Button pressed: 	button_left
+OP66277091 Button pressed: 	button_left
+OP66277091 Button pressed: 	button_backward
+OP66277091 Button pressed: 	button_backward
+OP66277092 Thymio manipulated: 	x -6 		y -7 		z 16
+OP66277097 Thymio manipulated: 	x -10 		y 0 		z 16
+OP66277099 Button pressed: 	button_backward
+OP66277099 Button pressed: 	button_backward
+OP6627709a Button pressed: 	button_right
+OP6627709a Button pressed: 	button_right
+OP6627709a Button pressed: 	button_forward
+OP6627709a Button pressed: 	button_forward
+OP6627709b Button pressed: 	button_left
+OP6627709b Button pressed: 	button_left
+OP6627709d Button pressed: 	button_right
+OP6627709d Button pressed: 	button_backward
+OP6627709d Button pressed: 	button_right
+OP6627709d Wheels manipulated: 	left -12 	right 0
+OP6627709d Button pressed: 	button_backward
+OP6627709e Button pressed: 	button_left
+OP6627709e Button pressed: 	button_left
+OP6627709e Button pressed: 	button_forward
+OP6627709e Button pressed: 	button_forward
+OP662770a3 Thymio manipulated: 	x -7 		y -7 		z 16
+OP662770a4 Thymio manipulated: 	x -4 		y -14 		z 14
+OP662770a5 Button pressed: 	button_backward
+OP662770a5 Button pressed: 	button_backward
+OP662770a5 Button pressed: 	button_backward
+OP662770a5 Button pressed: 	button_backward
+OP662770a6 Thymio manipulated: 	x -2 		y -12 		z 16
+OP662770a7 Thymio manipulated: 	x -3 		y -12 		z 16
+OP662770a8 Thymio manipulated: 	x -2 		y -13 		z 15
+OP662770a9 Thymio manipulated: 	x -3 		y -12 		z 15
+OP662770aa Thymio manipulated: 	x -3 		y -13 		z 15
+OP662770ab Thymio manipulated: 	x -3 		y -14 		z 15
+OP662770ac Thymio manipulated: 	x -3 		y -14 		z 15
+OP662770ad Thymio manipulated: 	x -1 		y 1 		z 27
+OP662770ad Thymio manipulated: 	x 10 		y -5 		z 16
+OP662770ae Thymio manipulated: 	x 3 		y 17 		z 12
+OP662770af Thymio manipulated: 	x -2 		y 20 		z 4
+OP662770b0 Button pressed: 	button_right
+OP662770b0 Thymio manipulated: 	x -1 		y 14 		z 14
+OP662770b0 Button pressed: 	button_right
+OP662770b1 Thymio manipulated: 	x 0 		y 13 		z 15
