@@ -99,3 +99,19 @@ OP66277b25 New target speed:	left -200 	right 200
 OP66277b27 New target speed:	left 200 	right 200
 OP66277b29 New target speed:	left -200 	right 200
 OP66277b2b New target speed:	left 200 	right 200
+OP66277b30  --- Start of the program Bug1_Garden.py --- 
+OP66277b30 New target speed:	left 200 	right 200
+OP66277b33 New target speed:	left -200 	right 200
+OP66277b34 New target speed:	left 200 	right 200
+OP66277b37 New target speed:	left -200 	right 200
+OP66277b38 New target speed:	left 200 	right 200
+OP66277b3a New target speed:	left -200 	right 200
+OP66277b3c New target speed:	left 200 	right 200
+OP66277b3e New target speed:	left -200 	right 200
+OP66277b3f Thymio manipulated: 	x 4 		y 5 		z 18
+OP66277b40 New target speed:	left 200 	right 200
+OP66277b41 Thymio manipulated: 	x 4 		y 3 		z 21
+OP66277b54  --- Start of the program Bug1_Garden.py --- 
+OP66277b54 New target speed:	left 200 	right 200
+OP66277b57 New target speed:	left -200 	right 200
+OP66277b58 New target speed:	left 200 	right 200
