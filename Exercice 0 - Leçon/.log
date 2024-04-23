@@ -137,3 +137,37 @@ OP66277121 Button pressed: 	button_backward
 OP66277121 Button pressed: 	button_backward
 OP66277121 Button pressed: 	button_right
 OP66277121 Button pressed: 	button_right
+OP66277122 Button pressed: 	button_backward
+OP66277122 Button pressed: 	button_backward
+OP66277123 Button pressed: 	button_left
+OP66277123 Button pressed: 	button_left
+OP66277123 Button pressed: 	button_forward
+OP66277123 Button pressed: 	button_forward
+OP66277124 Button pressed: 	button_right
+OP66277124 Button pressed: 	button_right
+OP66277124 Button pressed: 	button_backward
+OP66277124 Button pressed: 	button_backward
+OP66277135 Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP66277135     
+OP66277135 Line 2
+OP66277137 Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP66277137     
+OP66277137 Line 2
+OP66277137 Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP66277137     
+OP66277137 Line 2
+OP66277138 Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP66277138     
+OP66277138 Line 2
+OP66277138 Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP66277138     
+OP66277138 Line 2
+OP6627713b Thymio manipulated: 	x -5 		y 4 		z 29
+OP6627713c Thymio manipulated: 	x 0 		y -16 		z 11
+OP6627713e Thymio manipulated: 	x 2 		y -16 		z 11
+OP6627713f Thymio manipulated: 	x 2 		y -16 		z 12
+OP6627714b Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP6627714b     
+OP6627714b Line 2
+WO66277156 
+WI6627715e 
