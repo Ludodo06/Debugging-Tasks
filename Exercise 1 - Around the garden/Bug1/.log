@@ -43,3 +43,23 @@ OP6627786d New target speed:	left 200 	right 200
 OP6627786e New target speed:	left -200 	right 200
 OP6627786f New target speed:	left 200 	right 200
 OP66277877 Compilation error: Access of array timer.period out of bounds: accessing index 2 while array is of size 2
+OP6627787e Compilation error: Access of array timer.period out of bounds: accessing index 2 while array is of size 2
+OP66277887  --- Start of the program Bug1_Garden.py --- 
+OP66277887 New target speed:	left 200 	right 200
+OP66277888 New target speed:	left -200 	right 200
+OP66277892  --- Start of the program Bug1_Garden.py --- 
+OP66277899  --- Start of the program Bug1_Garden.py --- 
+OP662778a2  --- Start of the program Bug1_Garden.py --- 
+OP662778a2 New target speed:	left 200 	right 200
+OP662778a3 New target speed:	left -200 	right 200
+OP662778a4 New target speed:	left 200 	right 200
+OP662778a5 New target speed:	left -200 	right 200
+OP662778a6 New target speed:	left 200 	right 200
+OP662778a7 New target speed:	left -200 	right 200
+OP662778a8 New target speed:	left 200 	right 200
+OP662778a9 New target speed:	left -200 	right 200
+OP662778b6  --- Start of the program Bug1_Garden.py --- 
+OP662778b6 New target speed:	left 400 	right 400
+OP662778b7 New target speed:	left -400 	right 400
+OP662778b7 Thymio manipulated: 	x 1 		y -8 		z 8
+OP662778b8 New target speed:	left 400 	right 400
