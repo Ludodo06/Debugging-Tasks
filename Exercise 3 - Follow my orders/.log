@@ -1,0 +1,40 @@
+OP66277eab Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66277eab     
+OP66277eab Line 2
+OP66277eac  --- Start of the program Bug_MyOrders.py --- 
+OP66277eae Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66277eae     
+OP66277eae Line 2
+OP66277eaf  --- Start of the program Bug_MyOrders.py --- 
+OP66277eb1 Button pressed: 	button_forward
+OP66277eb1 New target speed:	left -255    	right 0
+OP66277eb1 Button pressed: 	button_forward
+OP66277eb1 Thymio manipulated: 	x -1 		y 1 		z 12
+OP66277eb3 Thymio manipulated: 	x 1 		y -1 		z 25
+OP66277eb4 Thymio manipulated: 	x 1 		y 0 		z 25
+OP66277eb5 Thymio manipulated: 	x -2 		y 1 		z 13
+OP66277eb6 Thymio manipulated: 	x -1 		y 0 		z 11
+OP66277ebb Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66277ebb     
+OP66277ebb Line 2
+OP66277ebb  --- Start of the program Bug_MyOrders.py --- 
+OP66277ebc Button pressed: 	button_right
+OP66277ebc New target speed:	left 100    	right 0
+OP66277ebc Button pressed: 	button_right
+OP66277ebe Thymio manipulated: 	x 0 		y 0 		z 16
+OP66277ebf Thymio manipulated: 	x 0 		y 0 		z 15
+OP66277ec4 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66277ec4     
+OP66277ec4 Line 2
+OP66277ec4  --- Start of the program Bug_MyOrders.py --- 
+OP66277ec5 Button pressed: 	button_left
+OP66277ec5 New target speed:	left -100    	right 0
+OP66277ec5 Button pressed: 	button_left
+OP66277ece Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP66277ece     
+OP66277ece Line 2
+OP66277ece  --- Start of the program Bug_MyOrders.py --- 
+OP66277ecf Button pressed: 	button_backward
+OP66277ecf Button pressed: 	button_backward
+OP66277ed0 Button pressed: 	button_backward
+OP66277ed0 Button pressed: 	button_backward
