@@ -22,3 +22,24 @@ OP66277838 New target speed:	left 200 	right -200
 OP66277839 New target speed:	left 200 	right 200
 OP6627783a New target speed:	left 200 	right -200
 OP6627783c New target speed:	left 200 	right 200
+OP6627784f  --- Start of the program Bug1_Garden.py --- 
+OP6627784f New target speed:	left 200 	right 200
+OP66277850 New target speed:	left -200 	right 200
+OP66277851 New target speed:	left 200 	right 200
+OP66277852 New target speed:	left -200 	right 200
+OP66277854 New target speed:	left 200 	right 200
+OP66277855 New target speed:	left -200 	right 200
+OP66277856 New target speed:	left 200 	right 200
+OP66277864  --- Start of the program Bug1_Garden.py --- 
+OP66277864 New target speed:	left 200 	right 200
+OP66277865 New target speed:	left -200 	right 200
+OP66277866 New target speed:	left 200 	right 200
+OP66277867 New target speed:	left -200 	right 200
+OP66277869 New target speed:	left 200 	right 200
+OP6627786a New target speed:	left -200 	right 200
+OP6627786b New target speed:	left 200 	right 200
+OP6627786c New target speed:	left -200 	right 200
+OP6627786d New target speed:	left 200 	right 200
+OP6627786e New target speed:	left -200 	right 200
+OP6627786f New target speed:	left 200 	right 200
+OP66277877 Compilation error: Access of array timer.period out of bounds: accessing index 2 while array is of size 2
