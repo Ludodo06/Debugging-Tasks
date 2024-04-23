@@ -1,0 +1,26 @@
+WO66279d5c 
+OP66279d5e Python 3.7.9 (bundled)
+OP66279d5e >>> 
+WO66279d60 
+WI66279d61 
+OP66279d6e  --- Start of the program Bug1_Garden.py --- 
+OP66279d6e New target speed:	left 200 	right 200
+OP66279d6f Thymio manipulated: 	x 6 		y -2 		z 22
+OP66279d70 Thymio manipulated: 	x 4 		y -2 		z 23
+OP66279d71 Thymio manipulated: 	x 4 		y 0 		z 22
+OP66279d72 New target speed:	left -200 	right 200
+OP66279d72 Thymio manipulated: 	x 4 		y -1 		z 23
+OP66279d73 New target speed:	left 200 	right 200
+OP66279d73 Thymio manipulated: 	x 4 		y 0 		z 23
+OP66279d74 Thymio manipulated: 	x 4 		y 0 		z 23
+OP66279d75 Thymio manipulated: 	x -6 		y -10 		z 21
+OP66279d77 Thymio manipulated: 	x -17 		y -10 		z 21
+OP66279d77 New target speed:	left -200 	right 200
+OP66279d77 Thymio manipulated: 	x -21 		y 14 		z 7
+OP66279d78 New target speed:	left 200 	right 200
+OP66279d78 Thymio manipulated: 	x -5 		y 8 		z 22
+OP66279d85  --- Start of the program Bug1_Garden.py --- 
+OP66279d86 Thymio manipulated: 	x 10 		y 1 		z 23
+OP66279d87 Thymio manipulated: 	x 4 		y 0 		z 23
+OP66279d9a  --- Start of the program Bug1_Garden.py --- 
+OP66279d9a New target speed:	left 200 	right 200
