@@ -142,3 +142,13 @@ OP66277196  --- Start of the program motors.py ---
 OP66277196 New target speed:	left 0 	right 23
 OP662771af  --- Start of the program motors.py --- 
 OP662771af New target speed:	left 23 	right 23
+OP662771c3  --- Start of the program motors.py --- 
+OP662771c3 New target speed:	left 23 	right 34
+OP662771cd  --- Start of the program motors.py --- 
+OP662771cd New target speed:	left 0 	right 34
+OP662771f2 Error: invalid decimal literal
+OP662771f2     
+OP662771f2 Line 2
+OP662771f6 Error: invalid decimal literal
+OP662771f6     
+OP662771f6 Line 2
