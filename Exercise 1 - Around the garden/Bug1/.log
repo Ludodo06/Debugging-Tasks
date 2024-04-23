@@ -63,3 +63,17 @@ OP662778b6 New target speed:	left 400 	right 400
 OP662778b7 New target speed:	left -400 	right 400
 OP662778b7 Thymio manipulated: 	x 1 		y -8 		z 8
 OP662778b8 New target speed:	left 400 	right 400
+OP662778b9 New target speed:	left -400 	right 400
+OP662778ba New target speed:	left 400 	right 400
+OP662778bb New target speed:	left -400 	right 400
+OP662778bc Thymio manipulated: 	x 4 		y 5 		z 16
+OP662778bc New target speed:	left 400 	right 400
+OP662778c7  --- Start of the program Bug1_Garden.py --- 
+OP662778c7 New target speed:	left 400 	right 400
+OP662778c8 New target speed:	left -200 	right 200
+OP662778c9 New target speed:	left 400 	right 400
+OP662778ca New target speed:	left -200 	right 200
+OP662778cb New target speed:	left 400 	right 400
+OP662778cc New target speed:	left -200 	right 200
+OP662778ce New target speed:	left 400 	right 400
+OP662778cf New target speed:	left -200 	right 200
