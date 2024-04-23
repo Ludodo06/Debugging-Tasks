@@ -4197,3 +4197,10 @@ OP662775f3 Button pressed: 	button_forward
 OP662775f3 New target speed:	left 250    	right 250
 OP662775f3 Button pressed: 	button_forward
 OP662775f3 New target speed:	left 0    	right 0
+OP66277615 Thymio manipulated: 	x 0 		y -4 		z 15
+OP66277617 Button pressed: 	button_forward
+OP66277617 New target speed:	left 250    	right 250
+OP66277617 Button pressed: 	button_forward
+OP66277618 Thymio manipulated: 	x 4 		y 0 		z 17
+OP66277619 New target speed:	left 0    	right 0
+OP6627761a Thymio manipulated: 	x 1 		y 3 		z 24
