@@ -115,3 +115,24 @@ OP66277123 Button pressed: 	button_right
 OP66277124 Button pressed: 	button_backward
 OP66277124 Button pressed: 	button_backward
 OP66277133  --- Start of the program leds.py --- 
+OP66277144 Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP66277144     
+OP66277144 Line 2
+OP66277146 Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP66277146     
+OP66277146 Line 2
+OP6627714f Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP6627714f     
+OP6627714f Line 2
+OP66277169 Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP66277169     
+OP66277169 Line 2
+OP6627716a Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP6627716a     
+OP6627716a Line 2
+OP6627716b Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP6627716b     
+OP6627716b Line 2
+OP6627716b Error: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+OP6627716b     
+OP6627716b Line 2

@@ -1,5 +1,5 @@
 # Changez la couleur des LEDS en utilisant le format RGB (de 0 à 32)
-nf_leds_top(,31,32)
+nf_leds_top(05,15,32)
 
 
 
