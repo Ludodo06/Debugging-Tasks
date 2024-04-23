@@ -4,7 +4,7 @@ def buttons():                                     # Appelé quand un bouton est
     global motor_left_target, motor_right_target   # Nécessaire pour modifier des variables globales
     
     if button_forward:                             # Vérifie si le bouton avant est pressé
-        motor_left_target = 250                    # si oui, avance
+        motor_left_target = 2oo                   # si oui, avance
         motor_right_target = 250
     elif button_center:                            # Sinon, si c'est le bouton central
         ...                                        # Ligne à modifier (ajouter un comportement)
