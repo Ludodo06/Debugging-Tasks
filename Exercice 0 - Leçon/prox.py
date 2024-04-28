@@ -95,8 +95,9 @@ def acc():
 # Button prints
 @onevent
 def button_center():
-    if button_center: 
-    print("LOGS: ")
+    if button_center: print("LOGS: center, pressed")
+    else:            print ("LOGS: center, released")
+   
 @onevent
 def button_forward():  print("Button pressed: \tbutton_forward")
 @onevent
