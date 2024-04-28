@@ -97,12 +97,19 @@ def acc():
 def button_center():
     if button_center: print("LOGS: center, pressed")
     else:            print ("LOGS: center, released")
-   
 @onevent
-def button_forward():  print("Button pressed: \tbutton_forward")
+def button_left():
+    if button_center: print("LOGS: left, pressed")
+    else:            print ("LOGS: left, released")
 @onevent
-def button_left():     print("Button pressed: \tbutton_left")
+def button_right():
+    if button_center: print("LOGS: right, pressed")
+    else:            print ("LOGS: right, released")
 @onevent
-def button_right():    print("Button pressed: \tbutton_right")
+def button_forward():
+    if button_center: print("LOGS: forward, pressed")
+    else:            print ("LOGS: forward, released")
 @onevent
-def button_backward(): print("Button pressed: \tbutton_backward")
+def button_backward():
+    if button_center: print("LOGS: backward, pressed")
+    else:            print ("LOGS: backward, released")
