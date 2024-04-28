@@ -323,3 +323,36 @@ OP662e2841  --- Start of the program Bug1_Garden.py ---
 OP662e2841 LOGS: Acc , 0 , 0 , 0
 OP662e2841 LOGS: Wheels , 200 , 200
 WO662e2842 
+OP662e2846 LOGS: Wheels , -200 , 200
+OP662e2847 LOGS: Wheels , 200 , 200
+OP662e284b LOGS: Wheels , -200 , 200
+OP662e284c LOGS: Wheels , 200 , 200
+OP662e2850 LOGS: Wheels , -200 , 200
+OP662e2852 LOGS: Wheels , 200 , 200
+OP662e2856 LOGS: Wheels , -200 , 200
+OP662e2857 LOGS: Wheels , 200 , 200
+OP662e285b LOGS: Wheels , -200 , 200
+OP662e285c LOGS: Wheels , 200 , 200
+OP662e2861 LOGS: Wheels , -200 , 200
+OP662e2862 LOGS: Wheels , 200 , 200
+OP662e2866 LOGS: Wheels , -200 , 200
+OP662e2867 LOGS: Wheels , 200 , 200
+OP662e286b LOGS: Wheels , -200 , 200
+OP662e286d LOGS: Wheels , 200 , 200
+WI662e286d 
+OP662e2871 LOGS: Wheels , -200 , 200
+OP662e2872 LOGS: Wheels , 200 , 200
+OP662e2876 LOGS: Wheels , -200 , 200
+OP662e2877 LOGS: Wheels , 200 , 200
+WO662e287b 
+OP662e287c LOGS: Wheels , -200 , 200
+OP662e287d LOGS: Wheels , 200 , 200
+OP662e287d LOGS: center , pressed
+OP662e287d LOGS: center , released
+OP662e287d LOGS: center , pressed
+OP662e287e LOGS: center , released
+OP662e2880 LOGS: left , pressed
+OP662e2880 LOGS: left , released
+OP662e2881 LOGS: Wheels , -200 , 200
+OP662e2882 LOGS: Wheels , 200 , 200
+OP662e2884 LOGS: forward , pressed
