@@ -75,20 +75,20 @@ def acc():
         # Update and print the new target
         left_last = motor_left_target
         right_last = motor_right_target
-        print("LOGS: Wheels,\t", left_last, ",\t", right_last)
+        print("LOGS: Wheels,", left_last, ",", right_last)
         can_print_mot = False
         can_print_acc = False
         timer_period[1] = 400
         
     # Check the acc to see if Thymio is manipulated
     elif (acc[0]*acc[0] > 9 or acc[1]*acc[1] > 36) and (left_last !=0 or right_last !=0) and can_print_acc:
-        print("LOGS: \tx", acc[0], "\t\ty", acc[1], "\t\tz", acc[2])
+        print("LOGS: Acc,", acc[0], ",", acc[1], ",", acc[2])
         can_print_acc = False
         timer_period[1] = 1000
         
     # Be less indulgent for the thresholds if Thymio is not supposed to move    
     if (acc[2]-20)*(acc[2]-20) > 9  and (left_last == 0 or right_last == 0) and can_print_acc:
-        print("Thymio manipulated: \tx", acc[0], "\t\ty", acc[1], "\t\tz", acc[2])
+        print("LOGS: Acc,", acc[0], ",", acc[1], ",", acc[2])
         can_print_acc = False
         timer_period[1] = 1000
         
