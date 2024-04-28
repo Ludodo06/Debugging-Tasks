@@ -42,3 +42,87 @@ OP662e2780 LOGS: Acc, 0 , 0 , 0
 OP662e2781 LOGS: Acc, 0 , 0 , 0
 OP662e2782 LOGS: Acc, 0 , 0 , 0
 OP662e2783 LOGS: Acc, 0 , 0 , 0
+OP662e2784 LOGS: Acc, 0 , 0 , 0
+OP662e2785 LOGS: Acc, 0 , 0 , 0
+OP662e2786 LOGS: Acc, 0 , 0 , 0
+OP662e2787 LOGS: Acc, 0 , 0 , 0
+OP662e2789 LOGS: forward, released
+OP662e2789 LOGS: Acc, 0 , 0 , 0
+OP662e2789 LOGS: forward, released
+OP662e278a LOGS: Acc, 0 , 0 , 0
+OP662e278b LOGS: Acc, 0 , 0 , 0
+OP662e278c LOGS: Acc, 0 , 0 , 0
+OP662e278c LOGS: forward, released
+OP662e278d LOGS: Acc, 0 , 0 , 0
+OP662e278e LOGS: Acc, 0 , 0 , 0
+OP662e278f LOGS: Acc, 0 , 0 , 0
+OP662e278f LOGS: forward, released
+OP662e2790 LOGS: Acc, 0 , 0 , 0
+OP662e2791 LOGS: Acc, 0 , 0 , 0
+OP662e2792 LOGS: Acc, 0 , 0 , 0
+OP662e2793 LOGS: Acc, 0 , 0 , 0
+OP662e2794 LOGS: Acc, 0 , 0 , 0
+OP662e2795 LOGS: backward, released
+OP662e2795 LOGS: backward, released
+OP662e2796 LOGS: Acc, 0 , 0 , 0
+OP662e2797 LOGS: right, released
+OP662e2797 LOGS: Acc, 0 , 0 , 0
+OP662e2797 LOGS: right, released
+OP662e2798 LOGS: Acc, 0 , 0 , 0
+OP662e2799 LOGS: Acc, 0 , 0 , 0
+OP662e279a LOGS: Acc, 0 , 0 , 0
+OP662e279a LOGS: center, pressed
+OP662e279b LOGS: Acc, 0 , 0 , 0
+OP662e279b LOGS: center, released
+OP662e279c LOGS: Acc, 0 , 0 , 0
+OP662e279d LOGS: Acc, 0 , 0 , 0
+OP662e279e LOGS: Acc, 0 , 0 , 0
+OP662e279f LOGS: Acc, 0 , 0 , 0
+OP662e27a0 LOGS: center, pressed
+OP662e27a0 LOGS: Acc, 0 , 0 , 0
+OP662e27a1 LOGS: Acc, 0 , 0 , 0
+OP662e27a2 LOGS: center, released
+OP662e27a3 LOGS: Acc, 0 , 0 , 0
+WI662e27a4 
+OP662e27a4 LOGS: Acc, 0 , 0 , 0
+OP662e27a5 LOGS: Acc, 0 , 0 , 0
+OP662e27a6 LOGS: Acc, 0 , 0 , 0
+OP662e27a7 LOGS: Acc, 0 , 0 , 0
+OP662e27a8 LOGS: Acc, 0 , 0 , 0
+OP662e27a9 LOGS: Acc, 0 , 0 , 0
+OP662e27aa LOGS: Acc, 0 , 0 , 0
+OP662e27ab LOGS: Acc, 0 , 0 , 0
+OP662e27ac LOGS: Acc, 0 , 0 , 0
+OP662e27ad LOGS: Acc, 0 , 0 , 0
+OP662e27ae LOGS: Acc, 0 , 0 , 0
+OP662e27af LOGS: Acc, 0 , 0 , 0
+OP662e27b0 LOGS: Acc, 0 , 0 , 0
+OP662e27b1 LOGS: Acc, 0 , 0 , 0
+OP662e27b3 LOGS: Acc, 0 , 0 , 0
+OP662e27b4 LOGS: Acc, 0 , 0 , 0
+OP662e27b5 LOGS: Acc, 0 , 0 , 0
+OP662e27b6 LOGS: Acc, 0 , 0 , 0
+OP662e27b7 LOGS: Acc, 0 , 0 , 0
+OP662e27b8 LOGS: Acc, 0 , 0 , 0
+OP662e27b8  --- Start of the program prox.py --- 
+OP662e27b8 LOGS: Acc, 0 , 0 , 0
+OP662e27b9 LOGS: Acc, 0 , 0 , 0
+WO662e27ba 
+OP662e27ba LOGS: Acc, 0 , 0 , 0
+OP662e27bb LOGS: Acc, 0 , 0 , 0
+OP662e27bc LOGS: center, pressed
+OP662e27bc LOGS: Acc, 0 , 0 , 0
+OP662e27bd LOGS: center, released
+OP662e27bd LOGS: Acc, 0 , 0 , 0
+OP662e27be LOGS: Acc, 0 , 0 , 0
+OP662e27bf LOGS: right, pressed
+OP662e27bf LOGS: Acc, 0 , 0 , 0
+OP662e27c0 LOGS: right, released
+OP662e27c1 LOGS: Acc, 0 , 0 , 0
+OP662e27c1 LOGS: forward, pressed
+OP662e27c2 LOGS: forward, released
+OP662e27c2 LOGS: Acc, 0 , 0 , 0
+OP662e27c3 LOGS: Acc, 0 , 0 , 0
+OP662e27c3 LOGS: forward, pressed
+OP662e27c4 LOGS: forward, released
+OP662e27c4 LOGS: Acc, 0 , 0 , 0

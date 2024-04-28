@@ -99,17 +99,17 @@ def button_center():
     else:            print ("LOGS: center, released")
 @onevent
 def button_left():
-    if button_center: print("LOGS: left, pressed")
+    if button_left: print("LOGS: left, pressed")
     else:            print ("LOGS: left, released")
 @onevent
 def button_right():
-    if button_center: print("LOGS: right, pressed")
+    if button_right: print("LOGS: right, pressed")
     else:            print ("LOGS: right, released")
 @onevent
 def button_forward():
-    if button_center: print("LOGS: forward, pressed")
+    if button_forward: print("LOGS: forward, pressed")
     else:            print ("LOGS: forward, released")
 @onevent
 def button_backward():
-    if button_center: print("LOGS: backward, pressed")
+    if button_backward: print("LOGS: backward, pressed")
     else:            print ("LOGS: backward, released")
