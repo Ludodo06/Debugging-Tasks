@@ -304,3 +304,22 @@ OP66279f09 0 -1 19
 OP66279f09 2 1 10
 WO66279f16 
 WI66279f22 
+OP662e2835 LOGS: Acc , 0 , 0 , 0
+OP662e2835 LOGS: Acc , 0 , 0 , 0
+OP662e2836 LOGS: Acc , 0 , 0 , 0
+OP662e2837 LOGS: Acc , 0 , 0 , 0
+OP662e2838 LOGS: Acc , 0 , 0 , 0
+OP662e2839 LOGS: Acc , 0 , 0 , 0
+OP662e283a LOGS: Acc , 0 , 0 , 0
+OP662e283b LOGS: Acc , 0 , 0 , 0
+OP662e283c LOGS: Acc , 0 , 0 , 0
+OP662e283d LOGS: Acc , 0 , 0 , 0
+PS662e283e 
+PS662e283e 
+OP662e283f LOGS: Acc , 0 , 0 , 0
+OP662e2840 LOGS: Acc , 0 , 0 , 0
+OP662e2841 LOGS: Acc , 0 , 0 , 0
+OP662e2841  --- Start of the program Bug1_Garden.py --- 
+OP662e2841 LOGS: Acc , 0 , 0 , 0
+OP662e2841 LOGS: Wheels , 200 , 200
+WO662e2842 
