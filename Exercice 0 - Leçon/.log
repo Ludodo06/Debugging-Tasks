@@ -11784,3 +11784,12 @@ WO6630ae9d
 WI6630aea2 
 >>>>>>> 68a44758a2845970f92a0d8902a0f83024205a9f
 >>>>>>> aa657874056fdf82f7f1ce5725989bac92c3f211
+WO6630b153 
+WI6630b159 
+OP6630b15a Traceback (most recent call last):
+OP6630b15a   
+OP6630b15a File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 1 - Around the garden\Bug1\Bug1_Garden.py", line 4, in <module>
+OP6630b15a     timer_period[0] = 100
+OP6630b15a NameError: name 'timer_period' is not defined
+OP6630b15a >>> 
+RN6630b15a 

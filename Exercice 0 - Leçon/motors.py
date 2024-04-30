@@ -1,11 +1,7 @@
 # Faites avancer le thymio (choisissez des valeurs entre -500 et +500)
-<<<<<<< HEAD
-motor_left_target = 150
-motor_right_target = -150
-=======
-motor_left_target = 30
-motor_right_target = -30
->>>>>>> aa657874056fdf82f7f1ce5725989bac92c3f211
+motor_left_target = 500
+motor_right_target = 500
+
 
 
 
