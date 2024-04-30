@@ -363,3 +363,17 @@ OP6630b455 New target speed:	left 200 	right 200
 OP6630b46e  --- Start of the program Bug_avoidline.py --- 
 OP6630b46e New target speed:	left 200 	right 200
 OP6630b470 Thymio manipulated: 	x 0 		y -10 		z 16
+OP6630b483  --- Start of the program Bug_avoidline.py --- 
+OP6630b483 New target speed:	left 200 	right 200
+OP6630b48a New target speed:	left 0 	right 0
+OP6630b49a  --- Start of the program Bug_avoidline.py --- 
+OP6630b49c  --- Start of the program Bug_avoidline.py --- 
+OP6630b49e  --- Start of the program Bug_avoidline.py --- 
+OP6630b49f Thymio manipulated: 	x 0 		y -3 		z 25
+OP6630b49f New target speed:	left 200 	right 200
+OP6630b4a0 New target speed:	left 0 	right 0
+OP6630b4a0 New target speed:	left 200 	right 200
+OP6630b4a0 Thymio manipulated: 	x 0 		y 8 		z 18
+OP6630b4a8 New target speed:	left 0 	right 0
+OP6630b4ad Thymio manipulated: 	x 0 		y -15 		z 31
+OP6630b4ae New target speed:	left 200 	right 200
