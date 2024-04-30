@@ -9138,3 +9138,8 @@ OP6630ac08 Button pressed: 	button_center
 OP6630ac08 Button pressed: 	button_center
 OP6630ac08 Button pressed: 	button_center
 OP6630ac12  --- Start of the program events.py --- 
+OP6630ac48 Button pressed: 	button_forward
+OP6630ac48 New target speed:	left 250    	right 250
+OP6630ac48 Button pressed: 	button_forward
+PS6630ac6e 
+OP6630ac72  --- Start of the program events.py --- 
