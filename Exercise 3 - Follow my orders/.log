@@ -5,3 +5,23 @@ WI6630b573
 OP6630b5ab Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
 OP6630b5ab     
 OP6630b5ab Line 2
+OP6630b5f7 Warning: in function 'buttons', redefining variable 'motor_left_target' from outer scope
+OP6630b5f7     
+OP6630b5f7 Line 2
+UD6630b5fd 
+UD6630b5fd 
+UD6630b5fe 
+UD6630b5fe 
+PS6630b604 
+UD6630b606 
+PS6630b614 
+PS6630b614 
+OP6630b617 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6630b617     
+OP6630b617 Line 2
+OP6630b62a Error: unexpected indent
+OP6630b62a     
+OP6630b62a Line 4
+OP6630b62b Error: unexpected indent
+OP6630b62b     
+OP6630b62b Line 4
