@@ -13,3 +13,51 @@ OP6630af02 Line 14
 OP6630af8a Error: invalid syntax
 OP6630af8a     
 OP6630af8a Line 5
+OP6630afac Error: invalid syntax
+OP6630afac     
+OP6630afac Line 5
+UD6630afbb 
+UD6630afbb 
+UD6630afbb 
+UD6630afbb 
+UD6630afbb 
+UD6630afbb 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbd 
+UD6630afbd 
+UD6630afbd 
+UD6630afbd 
+UD6630afbd 
+UD6630afbd 
+UD6630afbe 
+UD6630afbe 
+UD6630afbe 
+UD6630afbe 
+UD6630afbe 
+UD6630afbe 
+UD6630afbf 
+UD6630afbf 
+UD6630afbf 
+UD6630afbf 
+UD6630afbf 
+UD6630afbf 
+UD6630afc0 
+UD6630afc0 
+OP6630afcb  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630afcb New target speed:	left 300 	right 300
+OP6630afcc Thymio manipulated: 	x -4 		y -1 		z 13
+OP6630afcc New target speed:	left 150 	right -150
+OP6630afce New target speed:	left 300 	right 300
+OP6630afd0 New target speed:	left 150 	right -150
+OP6630afd1 New target speed:	left 300 	right 300

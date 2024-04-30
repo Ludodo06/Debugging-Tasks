@@ -2,16 +2,16 @@
 def timer0():
     global current_step
     
-    if current_step == 1 forward()
-    if current_step == 2 right()
-    if current_step == 3 forward()
-    if current_step == 4 right()
-    if current_step == 5 forward()
-    if current_step == 6 left()
-    if current_step == 7 forward()
-    if current_step == 8 right()
-    if current_step == 9 forward()
-    if current_step = 10 stop()
+    if current_step == 1: forward()
+    if current_step == 2: right()
+    if current_step == 3: forward()
+    if current_step == 4: right()
+    if current_step == 5: forward()
+    if current_step == 6: left()
+    if current_step == 7: forward()
+    if current_step == 8: right()
+    if current_step == 9: forward()
+    if current_step == 10: stop()
     
     
     
