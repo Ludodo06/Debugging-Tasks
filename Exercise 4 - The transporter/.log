@@ -27,3 +27,10 @@ OP6630b4ac  --- Start of the program Bug_TheTransporter.py ---
 OP6630b4ac New target speed:	left 250 	right 250
 OP6630b4ae New target speed:	left -250 	right -250
 OP6630b4b2 Thymio manipulated: 	x 5 		y -5 		z 25
+OP6630b4c3  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b4c3 New target speed:	left 250 	right 250
+OP6630b4c3 New target speed:	left -250 	right -250
+OP6630b4c8 Thymio manipulated: 	x -6 		y 4 		z 4
+OP6630b4d6  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b4d6 New target speed:	left 250 	right 250
+OP6630b4d8 New target speed:	left -250 	right -250
