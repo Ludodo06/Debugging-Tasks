@@ -71,3 +71,11 @@ OP6630a80b  --- Start of the program leds.py ---
 OP6630a812  --- Start of the program leds.py --- 
 WO6630a827 
 WI6630a82e 
+OP6630a84d  --- Start of the program motors.py --- 
+OP6630a84d New target speed:	left 50 	right 0
+OP6630a855 Thymio manipulated: 	x -3 		y 3 		z 15
+OP6630a865  --- Start of the program motors.py --- 
+OP6630a865 New target speed:	left 50 	right 50
+OP6630a867 Thymio manipulated: 	x -4 		y 0 		z 22
+OP6630a868 Button pressed: 	button_right
+OP6630a868 Button pressed: 	button_right
