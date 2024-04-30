@@ -2378,3 +2378,10 @@ OP6630acd5 Wheels manipulated: 	left 79 	right 108
 OP6630acd5 New target speed:	left 200    	right 1000
 OP6630acd5 Button pressed: 	button_left
 OP6630acd6 Thymio manipulated: 	x -4 		y -3 		z 17
+OP6630acde Thymio manipulated: 	x 2 		y -7 		z 5
+OP6630ace0 New target speed:	left 0    	right 0
+OP6630ace1 Button pressed: 	button_left
+OP6630ace1 Button pressed: 	button_left
+OP6630ace1 New target speed:	left 200    	right 1000
+PS6630ad02 
+OP6630ad13  --- Start of the program events.py --- 
