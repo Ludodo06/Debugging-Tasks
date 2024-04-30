@@ -1,6 +1,6 @@
 speed = 251
-motor_left_target = speed
-motor_right_target = speed
+motor_left_target = 20
+motor_right_target = 20
 avant = 2
 arriere = 6
 
