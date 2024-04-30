@@ -22,11 +22,7 @@ def buttons():
         motor_left_target = -255
         motor_right_target = -255
         
-    if button_center:
-        nf_leds_top(0,0,0)
-        motor_left_target = 0
-        motor_right_target = 0
-
+   
 
 
 
