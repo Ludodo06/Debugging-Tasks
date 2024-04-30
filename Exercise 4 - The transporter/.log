@@ -26,3 +26,11 @@ OP6630b240  --- Start of the program Bug_TheTransporter.py ---
 OP6630b240 New target speed:	left 251 	right 251
 OP6630b242  --- Start of the program Bug_TheTransporter.py --- 
 OP6630b242 New target speed:	left 251 	right 251
+OP6630b2d1  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b2d1 New target speed:	left -251 	right -251
+OP6630b2eb  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b2eb New target speed:	left 251 	right 251
+OP6630b2eb New target speed:	left -251 	right -251
+OP6630b2ed  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b2ed New target speed:	left 251 	right 251
+OP6630b2ed New target speed:	left -251 	right -251
