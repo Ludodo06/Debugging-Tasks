@@ -97,3 +97,7 @@ OP6630a99b Line 5
 OP6630a99d Error: unknown variable 'prox_horizontal_delta'
 OP6630a99d     
 OP6630a99d Line 5
+OP6630a9ad Error: unknown variable 'prox_delat_delta'
+OP6630a9ad     
+OP6630a9ad Line 5
+OP6630a9b8 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
