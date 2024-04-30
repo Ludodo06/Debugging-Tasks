@@ -72,3 +72,6 @@ UD6630b289
 OP6630b2b0 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
 OP6630b2b0     
 OP6630b2b0 Line 2
+OP6630b2e5 Warning: in function 'buttons', redefining variable 'motor_left_target' from outer scope
+OP6630b2e5     
+OP6630b2e5 Line 2
