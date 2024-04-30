@@ -9177,3 +9177,22 @@ OP6630acda Button pressed: 	button_backward
 OP6630acdb Button pressed: 	button_backward
 OP6630acdb Button pressed: 	button_backward
 OP6630acdb Button pressed: 	button_backward
+OP6630acf3 Button pressed: 	button_left
+OP6630acf4 Button pressed: 	button_left
+OP6630acf6 Button pressed: 	button_right
+OP6630acf6 Button pressed: 	button_right
+OP6630acf6 Button pressed: 	button_right
+OP6630acf7 Button pressed: 	button_right
+OP6630ad19 Button pressed: 	button_right
+OP6630ad1a Button pressed: 	button_right
+OP6630ad1c Error: unknown variable 'button_right_target'
+OP6630ad1c     
+OP6630ad1c Line 14
+OP6630ad1d Button pressed: 	button_right
+OP6630ad1e Button pressed: 	button_right
+OP6630ad1e Button pressed: 	button_forward
+OP6630ad1e New target speed:	left 250    	right 250
+OP6630ad1e Button pressed: 	button_forward
+OP6630ad1f Button pressed: 	button_center
+OP6630ad20 Button pressed: 	button_center
+OP6630ad21 New target speed:	left 0    	right 0
