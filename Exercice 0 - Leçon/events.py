@@ -10,7 +10,7 @@ def buttons():                                     # Appelé quand un bouton est
         motor_left_target = 200                   # si oui, avance
         motor_right_target = 1000                                       # Ligne à modifier (ajouter un comportement)
     elif button_right:                            # Sinon, si c'est le bouton central
-        motor_left_target = 5                  # si oui, avance
+        motor_left_target = 500                  # si oui, avance
         motor_right_target = 200                                       # Ligne à modifier (ajouter un comportement)
          
         
