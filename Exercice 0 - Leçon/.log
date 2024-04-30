@@ -3740,3 +3740,57 @@ OP6630ad64 Button pressed: 	button_center
 OP6630ad64 New target speed:	left 0    	right 0
 OP6630ad65 Button pressed: 	button_left
 OP6630ad65 New target speed:	left 100    	right 300
+OP6630ad67 Button pressed: 	button_center
+OP6630ad67 Button pressed: 	button_center
+OP6630ad67 New target speed:	left 0    	right 0
+OP6630ad70 Thymio manipulated: 	x 3 		y 2 		z 15
+OP6630ad73 Thymio manipulated: 	x 0 		y 0 		z 16
+OP6630ad74  --- Start of the program events.py --- 
+OP6630ad75 Button pressed: 	button_forward
+OP6630ad75 Button pressed: 	button_forward
+OP6630ad75 New target speed:	left 100    	right 100
+OP6630ad7b Button pressed: 	button_right
+OP6630ad7b New target speed:	left 200    	right 100
+OP6630ad7b Button pressed: 	button_right
+OP6630ad7e Button pressed: 	button_center
+OP6630ad7e New target speed:	left 0    	right 0
+OP6630ad7e Button pressed: 	button_center
+OP6630ad87  --- Start of the program events.py --- 
+OP6630ad87 Thymio manipulated: 	x 6 		y -2 		z 15
+OP6630ad87 Wheels manipulated: 	left -18 	right 0
+OP6630ad88 Thymio manipulated: 	x 3 		y -1 		z 15
+OP6630ad8a Button pressed: 	button_forward
+OP6630ad8a Button pressed: 	button_forward
+OP6630ad8a New target speed:	left 100    	right 100
+OP6630ad90 Button pressed: 	button_right
+OP6630ad90 Button pressed: 	button_right
+OP6630ad90 New target speed:	left 500    	right 100
+OP6630ad92 Button pressed: 	button_right
+OP6630ad92 Button pressed: 	button_right
+OP6630ad99 Button pressed: 	button_forward
+OP6630ad99 New target speed:	left 100    	right 100
+OP6630ad99 Button pressed: 	button_forward
+OP6630ad9b Button pressed: 	button_right
+OP6630ad9b Button pressed: 	button_right
+OP6630ad9b New target speed:	left 500    	right 100
+OP6630ad9b Button pressed: 	button_forward
+OP6630ad9b Button pressed: 	button_forward
+OP6630ad9b New target speed:	left 100    	right 100
+OP6630ad9c Button pressed: 	button_right
+OP6630ad9c New target speed:	left 500    	right 100
+OP6630ad9c Button pressed: 	button_right
+OP6630ad9e Button pressed: 	button_right
+OP6630ad9e Button pressed: 	button_right
+OP6630ad9f Button pressed: 	button_forward
+OP6630ad9f Button pressed: 	button_forward
+OP6630ad9f New target speed:	left 100    	right 100
+OP6630ada1 Button pressed: 	button_right
+OP6630ada2 New target speed:	left 500    	right 100
+OP6630ada2 Button pressed: 	button_forward
+OP6630ada2 Button pressed: 	button_forward
+OP6630ada2 New target speed:	left 100    	right 100
+OP6630ada3 Button pressed: 	button_center
+OP6630ada3 New target speed:	left 0    	right 0
+OP6630ada3 Button pressed: 	button_center
+OP6630ada5 Button pressed: 	button_center
+OP6630ada5 Button pressed: 	button_center

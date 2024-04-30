@@ -8,9 +8,9 @@ def buttons():                                     # Appelé quand un bouton est
         motor_right_target = 100
     elif button_left:                            # Sinon, si c'est le bouton central
         motor_left_target = 100                   # si oui, avance
-        motor_right_target = 300
+        motor_right_target = 500
     elif button_right:
-        motor_left_target = 300
+        motor_left_target = 500
         motor_right_target = 100
     elif button_backward:
         motor_left_target = -100
