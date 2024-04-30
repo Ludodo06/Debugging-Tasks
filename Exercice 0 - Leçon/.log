@@ -79,3 +79,11 @@ OP6630a865 New target speed:	left 50 	right 50
 OP6630a867 Thymio manipulated: 	x -4 		y 0 		z 22
 OP6630a868 Button pressed: 	button_right
 OP6630a868 Button pressed: 	button_right
+OP6630a87c Button pressed: 	button_forward
+OP6630a87d Thymio manipulated: 	x 5 		y -7 		z 20
+OP6630a87d Button pressed: 	button_forward
+OP6630a87e Thymio manipulated: 	x 4 		y 3 		z 20
+OP6630a880 Thymio manipulated: 	x -6 		y -8 		z 19
+OP6630a880 Thymio manipulated: 	x -5 		y -3 		z 20
+OP6630a89e  --- Start of the program motors.py --- 
+OP6630a89e New target speed:	left 50 	right -50
