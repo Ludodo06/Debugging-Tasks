@@ -11,3 +11,18 @@ OP6630b174 Compilation error: Access of array prox.horizontal out of bounds: acc
 OP6630b18f Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 OP6630b1a8 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 OP6630b1b8 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630b211  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b211 New target speed:	left 251 	right 251
+OP6630b214 Button pressed: 	button_center
+OP6630b214 Button pressed: 	button_left
+OP6630b214 Button pressed: 	button_left
+OP6630b214 Button pressed: 	button_center
+OP6630b216 Thymio manipulated: 	x -2 		y -8 		z 18
+OP6630b216 New target speed:	left -251 	right -251
+OP6630b216 Thymio manipulated: 	x -14 		y 17 		z 24
+OP6630b217 Thymio manipulated: 	x -6 		y 3 		z 18
+OP6630b218 Thymio manipulated: 	x -8 		y 3 		z 10
+OP6630b240  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b240 New target speed:	left 251 	right 251
+OP6630b242  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b242 New target speed:	left 251 	right 251
