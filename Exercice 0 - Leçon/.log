@@ -5751,3 +5751,27 @@ OP6630ad16  --- Start of the program events.py ---
 OP6630ad1c Button pressed: 	button_left
 OP6630ad1c New target speed:	left 250    	right 300
 OP6630ad1c Button pressed: 	button_left
+OP6630ad3b  --- Start of the program events.py --- 
+OP6630ad3c Button pressed: 	button_left
+OP6630ad3c Button pressed: 	button_left
+OP6630ad3c New target speed:	left 250    	right 300
+OP6630ad41 New target speed:	left 0    	right 0
+OP6630ad46 Thymio manipulated: 	x -2 		y -9 		z 24
+OP6630ad48 New target speed:	left 250    	right 300
+OP6630ad49 Button pressed: 	button_left
+OP6630ad49 Thymio manipulated: 	x 4 		y 2 		z 11
+OP6630ad4b New target speed:	left 0    	right 0
+OP6630ad4e  --- Start of the program events.py --- 
+OP6630ad4f Thymio manipulated: 	x -1 		y -4 		z 25
+OP6630ad50 Button pressed: 	button_left
+OP6630ad50 New target speed:	left 250    	right 800
+OP6630ad51 Button pressed: 	button_left
+OP6630ad52 Thymio manipulated: 	x -4 		y 2 		z 11
+OP6630ad52 New target speed:	left 0    	right 0
+OP6630ad59 Thymio manipulated: 	x 0 		y -6 		z 24
+OP6630ad5c  --- Start of the program events.py --- 
+OP6630ad5d Button pressed: 	button_left
+OP6630ad5d New target speed:	left 250    	right 800
+OP6630ad5d Button pressed: 	button_left
+OP6630ad5e Thymio manipulated: 	x -4 		y -5 		z 15
+OP6630ad5f New target speed:	left 0    	right 0
