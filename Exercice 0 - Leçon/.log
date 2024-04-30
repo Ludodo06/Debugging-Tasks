@@ -62,3 +62,34 @@ OP6630a7bb Thymio manipulated: 	x -16 		y -9 		z 7
 OP6630a7bc Thymio manipulated: 	x -17 		y -10 		z 0
 OP6630a7bd Thymio manipulated: 	x -18 		y -9 		z 0
 OP6630a7be Thymio manipulated: 	x -19 		y 7 		z 5
+OP6630a7bf Thymio manipulated: 	x 15 		y 9 		z 10
+OP6630a7c0 Thymio manipulated: 	x 13 		y -1 		z 16
+OP6630a7c1 Thymio manipulated: 	x 12 		y 0 		z 13
+OP6630a7c3  --- Start of the program leds.py --- 
+OP6630a7c5 Thymio manipulated: 	x 1 		y -11 		z 16
+OP6630a7c6  --- Start of the program leds.py --- 
+OP6630a7c6 Thymio manipulated: 	x 1 		y -12 		z 16
+OP6630a7c7 Button pressed: 	button_right
+OP6630a7c7 Button pressed: 	button_right
+OP6630a7c8 Thymio manipulated: 	x 0 		y -9 		z 16
+OP6630a7c8 Button pressed: 	button_right
+OP6630a7c8 Button pressed: 	button_right
+OP6630a7c9 Button pressed: 	button_backward
+OP6630a7c9 Button pressed: 	button_backward
+OP6630a7c9 Thymio manipulated: 	x -6 		y -12 		z 15
+OP6630a7c9 Button pressed: 	button_forward
+OP6630a7c9 Button pressed: 	button_forward
+OP6630a7ca Thymio manipulated: 	x 14 		y -9 		z 12
+OP6630a7ce Thymio manipulated: 	x -2 		y -9 		z 16
+OP6630a7cf Thymio manipulated: 	x 12 		y 3 		z 16
+OP6630a7d5 Thymio manipulated: 	x 7 		y 3 		z 16
+OP6630a7d6 Thymio manipulated: 	x 19 		y 3 		z 8
+OP6630a7d7 Thymio manipulated: 	x 19 		y 3 		z 7
+OP6630a7e7 Thymio manipulated: 	x 5 		y -9 		z 16
+OP6630a7e7 Button pressed: 	button_right
+OP6630a7e7 Button pressed: 	button_right
+OP6630a7e8 Thymio manipulated: 	x 3 		y -13 		z 14
+OP6630a7e9 Thymio manipulated: 	x 4 		y -15 		z 6
+OP6630a7eb Thymio manipulated: 	x 3 		y -18 		z 9
+OP6630a7f2 Thymio manipulated: 	x 6 		y 5 		z 16
+OP6630a7f4 Thymio manipulated: 	x 4 		y 8 		z 16
