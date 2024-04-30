@@ -145,3 +145,6 @@ OP6630b0bb New target speed:	left 300 	right 300
 OP6630b0bd New target speed:	left 0 	right 0
 OP6630b0c4 Thymio manipulated: 	x -1 		y 0 		z 25
 WO6630b0cc 
+WI6630b0d0 
+WO6630b0d0 
+WI6630b0d7 
