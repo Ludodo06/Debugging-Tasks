@@ -2401,3 +2401,13 @@ OP6630ad22 Button pressed: 	button_right
 OP6630ad2b Thymio manipulated: 	x 7 		y 3 		z 10
 OP6630ad3e Thymio manipulated: 	x 0 		y 7 		z 3
 OP6630ad4f New target speed:	left 0    	right 0
+OP6630ad89 Thymio manipulated: 	x 5 		y 9 		z 7
+OP6630ad8a Button pressed: 	button_left
+OP6630ad8a New target speed:	left 200    	right 1000
+OP6630ad8a Button pressed: 	button_left
+OP6630ad8d New target speed:	left 0    	right 0
+OP6630ad8d Thymio manipulated: 	x 3 		y 1 		z 15
+OP6630ad8e Button pressed: 	button_right
+OP6630ad8f New target speed:	left 500    	right 200
+OP6630ad8f Button pressed: 	button_right
+OP6630ad90 Thymio manipulated: 	x -1 		y -7 		z 6
