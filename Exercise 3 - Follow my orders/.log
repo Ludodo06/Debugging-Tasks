@@ -1,0 +1,10 @@
+OP6630b78a %cd 'C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 3 - Follow my orders'
+OP6630b78a %Run Bug_MyOrders.py
+OP6630b78a >>> 
+OP6630b78b Traceback (most recent call last):
+OP6630b78b   
+OP6630b78b File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 3 - Follow my orders\Bug_MyOrders.py", line 1, in <module>
+OP6630b78b     @onevent
+OP6630b78b NameError: name 'onevent' is not defined
+OP6630b78b >>> 
+RN6630b78b 
