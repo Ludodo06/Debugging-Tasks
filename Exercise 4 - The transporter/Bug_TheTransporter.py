@@ -1,8 +1,8 @@
 speed = 251
 motor_left_target = speed
 motor_right_target = speed
-avant = 2
-arriere = 6
+avant = 6
+arriere = 2
 
 @onevent
 def prox():
