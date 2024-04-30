@@ -2234,3 +2234,33 @@ OP6630abe0 Button pressed: 	button_left
 OP6630abe0 Button pressed: 	button_left
 OP6630abe0 Button pressed: 	button_left
 OP6630abe1 Button pressed: 	button_left
+OP6630abe2 Button pressed: 	button_backward
+OP6630abe2 Button pressed: 	button_backward
+OP6630abe2 Button pressed: 	button_right
+OP6630abe2 Button pressed: 	button_right
+OP6630abe2 Button pressed: 	button_forward
+OP6630abe3 Button pressed: 	button_forward
+OP6630abe3 New target speed:	left 250    	right 250
+OP6630abe3 New target speed:	left 0    	right 0
+OP6630abe3 Button pressed: 	button_forward
+OP6630abe3 New target speed:	left 250    	right 250
+OP6630abe3 Button pressed: 	button_forward
+OP6630abe4 New target speed:	left 0    	right 0
+OP6630abe5 Button pressed: 	button_forward
+OP6630abe5 New target speed:	left 250    	right 250
+OP6630abe5 Button pressed: 	button_forward
+OP6630abe7 New target speed:	left 0    	right 0
+OP6630abf9 Button pressed: 	button_forward
+OP6630abf9 New target speed:	left 250    	right 250
+OP6630abf9 Button pressed: 	button_forward
+OP6630abfa New target speed:	left 0    	right 0
+OP6630ac08 Button pressed: 	button_forward
+OP6630ac08 New target speed:	left 250    	right 250
+OP6630ac08 Button pressed: 	button_forward
+OP6630ac09 New target speed:	left 0    	right 0
+OP6630ac0a Button pressed: 	button_forward
+OP6630ac0a New target speed:	left 250    	right 250
+OP6630ac0a Button pressed: 	button_forward
+OP6630ac0b New target speed:	left 0    	right 0
+OP6630ac10 Button pressed: 	button_right
+OP6630ac10 Button pressed: 	button_right
