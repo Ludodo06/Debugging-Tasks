@@ -151,3 +151,23 @@ OP6630b7fe New target speed:	left 300 	right 300
 OP6630b800 New target speed:	left 0 	right 0
 WO6630b80d 
 WI6630b80e 
+OP6630b849 Python 3.10.11 (C:\Program Files (x86)\Thonny\python.exe)
+OP6630b849 >>> 
+OP6630b858 Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630b858     
+OP6630b858 Line 14
+OP6630b860 Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630b860     
+OP6630b860 Line 14
+OP6630b861 Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630b861     
+OP6630b861 Line 14
+OP6630b862 Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630b862     
+OP6630b862 Line 14
+OP6630b87f Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630b87f     
+OP6630b87f Line 14
+OP6630b884 Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630b884     
+OP6630b884 Line 14
