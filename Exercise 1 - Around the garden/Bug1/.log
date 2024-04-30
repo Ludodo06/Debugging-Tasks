@@ -323,3 +323,26 @@ OP6630b56c New target speed:	left 200 	right -200
 OP6630b56e New target speed:	left 100 	right 100
 OP6630b56f New target speed:	left 200 	right -200
 OP6630b56f Compilation error: Access of array timer.period out of bounds: accessing index 7 while array is of size 2
+OP6630b582  --- Start of the program Bug1_Garden.py --- 
+OP6630b582 New target speed:	left 200 	right -200
+OP6630b583 New target speed:	left 100 	right 100
+OP6630b586 New target speed:	left 100 	right 100
+OP6630b587 New target speed:	left 200 	right -200
+OP6630b588 New target speed:	left 100 	right 100
+OP6630b58a New target speed:	left 200 	right -200
+OP6630b58b New target speed:	left 100 	right 100
+OP6630b58c New target speed:	left 200 	right -200
+OP6630b58d New target speed:	left 100 	right 100
+OP6630b58f New target speed:	left 200 	right -200
+OP6630b590 New target speed:	left 100 	right 100
+OP6630b591 New target speed:	left 200 	right -200
+OP6630b592 New target speed:	left 100 	right 100
+OP6630b594 New target speed:	left 200 	right -200
+OP6630b595 New target speed:	left 100 	right 100
+OP6630b596 New target speed:	left 200 	right -200
+OP6630b597 New target speed:	left 100 	right 100
+OP6630b599 New target speed:	left 200 	right -200
+OP6630b59a New target speed:	left 100 	right 100
+OP6630b59b New target speed:	left 200 	right -200
+WO6630b59d 
+WI6630b5a1 
