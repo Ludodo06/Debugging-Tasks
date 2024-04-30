@@ -1,0 +1,9 @@
+OP6630b12d %Run Bug_TheTransporter.py
+OP6630b12d Traceback (most recent call last):
+OP6630b12d   
+OP6630b12d File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 4 - The transporter\Bug_TheTransporter.py", line 7, in <module>
+OP6630b12d     @onevent
+OP6630b12d NameError: name 'onevent' is not defined
+OP6630b12d >>> 
+RN6630b12d 
+OP6630b130 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
