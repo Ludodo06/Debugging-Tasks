@@ -38,3 +38,11 @@ OP6630a8aa  --- Start of the program motors.py ---
 OP6630a8aa New target speed:	left 500 	right -500
 OP6630a8ac Thymio manipulated: 	x -4 		y 0 		z 9
 OP6630a8b6  --- Start of the program motors.py --- 
+OP6630a8d7  --- Start of the program motors.py --- 
+OP6630a8d7 New target speed:	left 500 	right 500
+OP6630a8e3  --- Start of the program motors.py --- 
+OP6630a8e3 New target speed:	left -500 	right -500
+OP6630a8e5 Thymio manipulated: 	x 4 		y 1 		z 17
+WO6630a8ec 
+WI6630a8ee 
+OP6630a8f1 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
