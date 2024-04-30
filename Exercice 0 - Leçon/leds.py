@@ -1,5 +1,9 @@
 # Changez la couleur des LEDS en utilisant le format RGB (de 0 à 32)
+<<<<<<< HEAD
 nf_leds_top(28,19,32)
+=======
+nf_leds_top(32,0,32)
+>>>>>>> 2251148cc0e8e697b450738f207d9082cc3dc58e
 
 
 

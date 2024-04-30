@@ -1,0 +1,121 @@
+OP6630aeaa Thymio manipulated: 	x 0 		y 0 		z 24
+OP6630aeab Thymio manipulated: 	x 4 		y 0 		z 14
+OP6630aec4 Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630aec4     
+OP6630aec4 Line 14
+OP6630aecb Button pressed: 	button_forward
+OP6630aecb New target speed:	left 250    	right 250
+OP6630aecc Button pressed: 	button_forward
+OP6630aecc Thymio manipulated: 	x 4 		y -2 		z 3
+OP6630af02 Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630af02     
+OP6630af02 Line 14
+OP6630af8a Error: invalid syntax
+OP6630af8a     
+OP6630af8a Line 5
+OP6630afac Error: invalid syntax
+OP6630afac     
+OP6630afac Line 5
+UD6630afbb 
+UD6630afbb 
+UD6630afbb 
+UD6630afbb 
+UD6630afbb 
+UD6630afbb 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbc 
+UD6630afbd 
+UD6630afbd 
+UD6630afbd 
+UD6630afbd 
+UD6630afbd 
+UD6630afbd 
+UD6630afbe 
+UD6630afbe 
+UD6630afbe 
+UD6630afbe 
+UD6630afbe 
+UD6630afbe 
+UD6630afbf 
+UD6630afbf 
+UD6630afbf 
+UD6630afbf 
+UD6630afbf 
+UD6630afbf 
+UD6630afc0 
+UD6630afc0 
+OP6630afcb  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630afcb New target speed:	left 300 	right 300
+OP6630afcc Thymio manipulated: 	x -4 		y -1 		z 13
+OP6630afcc New target speed:	left 150 	right -150
+OP6630afce New target speed:	left 300 	right 300
+OP6630afd0 New target speed:	left 150 	right -150
+OP6630afd1 New target speed:	left 300 	right 300
+OP6630afd3 New target speed:	left -150 	right 150
+OP6630afd4 New target speed:	left 300 	right 300
+OP6630afd5 Thymio manipulated: 	x -4 		y -2 		z 12
+OP6630afd6 New target speed:	left 150 	right -150
+OP6630afd8 Thymio manipulated: 	x -1 		y -7 		z 18
+OP6630afd8 New target speed:	left 300 	right 300
+OP6630afd8 Thymio manipulated: 	x 3 		y -16 		z 8
+OP6630afd9 Thymio manipulated: 	x -8 		y 0 		z 23
+OP6630afd9 New target speed:	left 0 	right 0
+OP6630b02a  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630b02c New target speed:	left 150 	right -150
+OP6630b02d New target speed:	left 300 	right 300
+OP6630b02f New target speed:	left 150 	right -150
+OP6630b030 New target speed:	left 300 	right 300
+OP6630b031 Thymio manipulated: 	x 0 		y -7 		z 14
+OP6630b032 New target speed:	left -150 	right 150
+OP6630b034 New target speed:	left 300 	right 300
+OP6630b035 New target speed:	left -150 	right 150
+OP6630b037 New target speed:	left 300 	right 300
+OP6630b038 New target speed:	left 0 	right 0
+OP6630b03b Thymio manipulated: 	x -2 		y -2 		z 25
+OP6630b041 Thymio manipulated: 	x 3 		y -5 		z 25
+OP6630b045  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630b045 New target speed:	left 300 	right 300
+OP6630b045 Thymio manipulated: 	x 4 		y 3 		z 12
+OP6630b047 New target speed:	left 150 	right -150
+OP6630b048 New target speed:	left 300 	right 300
+OP6630b04a New target speed:	left 150 	right -150
+OP6630b04b New target speed:	left 300 	right 300
+OP6630b04d New target speed:	left -150 	right 150
+OP6630b04f Button pressed: 	button_forward
+OP6630b050 New target speed:	left -150 	right 150
+OP6630b050 Button pressed: 	button_forward
+OP6630b052 New target speed:	left 300 	right 300
+OP6630b05f  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630b05f New target speed:	left 300 	right 300
+OP6630b060 New target speed:	left 150 	right -150
+OP6630b062 New target speed:	left 300 	right 300
+OP6630b064 New target speed:	left 150 	right -150
+OP6630b065 New target speed:	left 300 	right 300
+OP6630b067 New target speed:	left -150 	right 150
+OP6630b067 Button pressed: 	button_forward
+OP6630b067 Thymio manipulated: 	x 1 		y 7 		z 22
+OP6630b067 Button pressed: 	button_forward
+OP6630b068 New target speed:	left 300 	right 300
+OP6630b06a Thymio manipulated: 	x 1 		y -7 		z 13
+OP6630b06f  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630b06f New target speed:	left 300 	right 300
+OP6630b070 New target speed:	left 150 	right -150
+OP6630b072 New target speed:	left 300 	right 300
+OP6630b074 New target speed:	left 150 	right -150
+OP6630b075 New target speed:	left 300 	right 300
+OP6630b077 New target speed:	left -150 	right 150
+OP6630b078 New target speed:	left 300 	right 300
+OP6630b07a New target speed:	left -150 	right 150
+OP6630b07c New target speed:	left 300 	right 300
+OP6630b07d New target speed:	left 0 	right 0
+OP6630b086 Thymio manipulated: 	x 0 		y -1 		z 24

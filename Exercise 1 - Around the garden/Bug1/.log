@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 OP6630ae94 Thymio manipulated: 	x 0 		y -1 		z 14
 OP6630ae99  --- Start of the program Bug1_Garden.py --- 
 OP6630ae99 New target speed:	left 200 	right 200
@@ -108,3 +109,130 @@ OP6630afc8 New target speed:	left -200 	right 200
 OP6630afca New target speed:	left 200 	right 200
 WO6630b10d 
 WI6630b10f 
+=======
+OP6630b13e  --- Start of the program Bug1_Garden.py --- 
+OP6630b13e New target speed:	left 200 	right 200
+OP6630b13f New target speed:	left -200 	right 200
+OP6630b140 New target speed:	left 200 	right 200
+OP6630b141 New target speed:	left -200 	right 200
+OP6630b142 New target speed:	left 200 	right 200
+OP6630b143 New target speed:	left -200 	right 200
+OP6630b144 New target speed:	left 200 	right 200
+OP6630b145 New target speed:	left -200 	right 200
+OP6630b146 New target speed:	left 200 	right 200
+OP6630b153 %cd 'C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 1 - Around the garden\Bug1'
+OP6630b153 %Run Bug1_Garden.py
+OP6630b153 >>> 
+OP6630b15c  --- Start of the program Bug1_Garden.py --- 
+OP6630b15c New target speed:	left 200 	right 200
+OP6630b15d New target speed:	left -200 	right 200
+OP6630b15f Button pressed: 	button_forward
+OP6630b15f Button pressed: 	button_forward
+OP6630b167  --- Start of the program Bug1_Garden.py --- 
+OP6630b167 New target speed:	left 200 	right 200
+OP6630b168 New target speed:	left -200 	right 200
+OP6630b16b New target speed:	left 200 	right 200
+OP6630b16c New target speed:	left -200 	right 200
+OP6630b16d Thymio manipulated: 	x -4 		y 4 		z 18
+OP6630b16e Thymio manipulated: 	x -5 		y 3 		z 16
+OP6630b16e Button pressed: 	button_right
+OP6630b16e Button pressed: 	button_right
+OP6630b16e Button pressed: 	button_center
+OP6630b16f Button pressed: 	button_center
+OP6630b16f New target speed:	left 200 	right 200
+OP6630b174  --- Start of the program Bug1_Garden.py --- 
+OP6630b175 New target speed:	left 200 	right 200
+OP6630b176 New target speed:	left -200 	right 200
+OP6630b186 Compilation error: Access of array timer.period out of bounds: accessing index 5 while array is of size 2
+OP6630b195  --- Start of the program Bug1_Garden.py --- 
+OP6630b195 New target speed:	left 200 	right 200
+OP6630b196 New target speed:	left -200 	right 200
+OP6630b197 New target speed:	left 200 	right 200
+OP6630b1a4  --- Start of the program Bug1_Garden.py --- 
+OP6630b1a4 New target speed:	left 200 	right 200
+OP6630b1a6 New target speed:	left -200 	right 200
+OP6630b1a7 New target speed:	left 200 	right 200
+OP6630b1b3  --- Start of the program Bug1_Garden.py --- 
+OP6630b1b3 New target speed:	left 200 	right 200
+OP6630b1b5 New target speed:	left -200 	right 200
+OP6630b1b6 New target speed:	left 200 	right 200
+OP6630b1bd  --- Start of the program Bug1_Garden.py --- 
+OP6630b1bd New target speed:	left 200 	right 200
+OP6630b1bf Thymio manipulated: 	x 4 		y 0 		z 16
+OP6630b1bf New target speed:	left -200 	right 200
+OP6630b1c0 Thymio manipulated: 	x 5 		y -1 		z 20
+OP6630b1c0 New target speed:	left 200 	right 200
+OP6630b1c3 Thymio manipulated: 	x 4 		y -1 		z 17
+OP6630b1c3 New target speed:	left -200 	right 200
+OP6630b1c4 New target speed:	left 200 	right 200
+OP6630b1c7 New target speed:	left -200 	right 200
+OP6630b1c8 New target speed:	left 200 	right 200
+OP6630b1ca New target speed:	left -200 	right 200
+OP6630b1de  --- Start of the program Bug1_Garden.py --- 
+OP6630b1de New target speed:	left 200 	right 200
+OP6630b1e1 New target speed:	left -200 	right 200
+OP6630b1e2 Thymio manipulated: 	x 2 		y -8 		z 20
+OP6630b1e2 New target speed:	left 200 	right 200
+OP6630b1e2 Thymio manipulated: 	x -4 		y 1 		z 20
+OP6630b1e5 New target speed:	left -200 	right 200
+OP6630b1e6 New target speed:	left 200 	right 200
+OP6630b1eb  --- Start of the program Bug1_Garden.py --- 
+OP6630b1eb New target speed:	left 200 	right 200
+OP6630b1ed New target speed:	left -200 	right 200
+OP6630b1ee New target speed:	left 200 	right 200
+OP6630b1f2  --- Start of the program Bug1_Garden.py --- 
+OP6630b1f3 New target speed:	left 200 	right 200
+OP6630b1f5 New target speed:	left -200 	right 200
+OP6630b1f6 New target speed:	left 200 	right 200
+OP6630b1f9 New target speed:	left -200 	right 200
+OP6630b1fa New target speed:	left 200 	right 200
+OP6630b1fc New target speed:	left -200 	right 200
+OP6630b1fe New target speed:	left 200 	right 200
+OP6630b200 New target speed:	left -200 	right 200
+OP6630b201 New target speed:	left 200 	right 200
+OP6630b307  --- Start of the program Bug1_Garden.py --- 
+OP6630b307 New target speed:	left 200 	right 200
+OP6630b309 New target speed:	left -200 	right 200
+OP6630b30a New target speed:	left 200 	right 200
+OP6630b30d New target speed:	left -200 	right 200
+OP6630b30e New target speed:	left 200 	right 200
+OP6630b311 New target speed:	left -200 	right 200
+OP6630b312 New target speed:	left 200 	right 200
+OP6630b314 New target speed:	left -200 	right 200
+OP6630b315 New target speed:	left 200 	right 200
+OP6630b35e  --- Start of the program Bug1_Garden.py --- 
+OP6630b35e New target speed:	left 200 	right 200
+OP6630b361 New target speed:	left -200 	right 200
+OP6630b362 New target speed:	left 200 	right 200
+OP6630b364 New target speed:	left -200 	right 200
+OP6630b365 New target speed:	left 200 	right 200
+OP6630b368 New target speed:	left -200 	right 200
+OP6630b369 New target speed:	left 200 	right 200
+OP6630b36d New target speed:	left 200 	right 200
+OP6630b36f New target speed:	left -200 	right 200
+OP6630b371 New target speed:	left 200 	right 200
+OP6630b373 New target speed:	left -200 	right 200
+OP6630b374 New target speed:	left 200 	right 200
+OP6630b377 New target speed:	left -200 	right 200
+OP6630b378 New target speed:	left 200 	right 200
+OP6630b37a New target speed:	left -200 	right 200
+OP6630b37b New target speed:	left 200 	right 200
+OP6630b37e New target speed:	left -200 	right 200
+OP6630b37f New target speed:	left 200 	right 200
+OP6630b382 New target speed:	left -200 	right 200
+OP6630b383 New target speed:	left 200 	right 200
+OP6630b385 New target speed:	left -200 	right 200
+OP6630b387 New target speed:	left 200 	right 200
+OP6630b389 New target speed:	left -200 	right 200
+OP6630b38a New target speed:	left 200 	right 200
+OP6630b38d New target speed:	left -200 	right 200
+OP6630b38e New target speed:	left 200 	right 200
+OP6630b390 New target speed:	left -200 	right 200
+OP6630b392 New target speed:	left 200 	right 200
+OP6630b394 New target speed:	left -200 	right 200
+OP6630b395 New target speed:	left 200 	right 200
+OP6630b398 New target speed:	left -200 	right 200
+OP6630b399 New target speed:	left 200 	right 200
+WO6630b3ac 
+WI6630b3ad 
+>>>>>>> 2251148cc0e8e697b450738f207d9082cc3dc58e

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 duree_vers_avant = 3000
+=======
+duree_vers_avant = 2500
+>>>>>>> 2251148cc0e8e697b450738f207d9082cc3dc58e
 duree_tourne = 1140
 vers_avant = False
 timer_period[0] = 100
