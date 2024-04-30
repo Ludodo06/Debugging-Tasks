@@ -24,7 +24,7 @@ def prox():
         motor_left_target = VITESSE
         motor_right_target = -VITESSE
     else:
-        nf_leds_top(32,0,0) # Red
+        nf_leds_top(0,0,0) # Red
         motor_left_target = 0
         motor_right_target = 0
         
