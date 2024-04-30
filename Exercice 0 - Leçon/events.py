@@ -6,12 +6,29 @@ def buttons():                                     # Appelé quand un bouton est
     if button_forward:                             # Vérifie si le bouton avant est pressé
         motor_left_target = 250                    # si oui, avance
         motor_right_target = 250
+<<<<<<< HEAD
     elif button_center:                            # Sinon, si c'est le bouton central
         motor_backward_target = 250                                    # Ligne à modifier (ajouter un comportement)
         motor_right_target = 250
     elif button_backward :
         motor_forward_target = 250
         motor_left_target = 250 
+=======
+    elif button_left:                            # Sinon, si c'est le bouton central
+        motor_left_target = 200                   # si oui, avance
+<<<<<<< HEAD
+        motor_right_target = 1000                                       # Ligne à modifier (ajouter un comportement)
+    elif button_right:                            # Sinon, si c'est le bouton central
+        motor_left_target = 500                  # si oui, avance
+        motor_right_target = 200                                       # Ligne à modifier (ajouter un comportement)
+    elif button_backward:                            # Sinon, si c'est le bouton central
+        motor_left_target = 200                  # si oui, avance
+        motor_right_target = 200  
+=======
+        motor_right_target = 60                                    # Ligne à modifier (ajouter un comportement)
+        
+>>>>>>> 68a44758a2845970f92a0d8902a0f83024205a9f
+>>>>>>> aa657874056fdf82f7f1ce5725989bac92c3f211
         
 @onevent
 def prox():                                        # Appelé périodiquement
