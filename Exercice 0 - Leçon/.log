@@ -14,3 +14,46 @@ OP6630a809  --- Start of the program leds.py ---
 OP6630a81d  --- Start of the program leds.py --- 
 WO6630a829 
 WI6630a82c 
+OP6630a835  --- Start of the program motors.py --- 
+OP6630a837 Button pressed: 	button_right
+OP6630a838 Button pressed: 	button_right
+OP6630a838 Button pressed: 	button_right
+OP6630a838 Button pressed: 	button_right
+OP6630a839 Button pressed: 	button_backward
+OP6630a839 Button pressed: 	button_backward
+OP6630a839 Button pressed: 	button_backward
+OP6630a83a Button pressed: 	button_left
+OP6630a83a Button pressed: 	button_left
+OP6630a83a Button pressed: 	button_left
+OP6630a83b Button pressed: 	button_left
+OP6630a83b Button pressed: 	button_left
+OP6630a83b Button pressed: 	button_left
+OP6630a83c Button pressed: 	button_left
+OP6630a83c Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83d Button pressed: 	button_left
+OP6630a83e Button pressed: 	button_left
+OP6630a83e Button pressed: 	button_left
+OP6630a83e Button pressed: 	button_left
+OP6630a83e Button pressed: 	button_left
+OP6630a83e Button pressed: 	button_left
+OP6630a83e Button pressed: 	button_left
+OP6630a850  --- Start of the program motors.py --- 
+OP6630a850 New target speed:	left 40 	right 0
+OP6630a851  --- Start of the program motors.py --- 
+OP6630a85b  --- Start of the program motors.py --- 
+OP6630a85b New target speed:	left 40 	right 56
+OP6630a869  --- Start of the program motors.py --- 
+OP6630a869 New target speed:	left 80 	right 56
+OP6630a870  --- Start of the program motors.py --- 
+OP6630a870 New target speed:	left 80 	right 80
+OP6630a872 Thymio manipulated: 	x 0 		y -9 		z 25
