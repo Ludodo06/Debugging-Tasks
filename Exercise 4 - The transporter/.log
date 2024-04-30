@@ -23,3 +23,5 @@ OP6630af3c Compilation error: Access of array prox.horizontal out of bounds: acc
 OP6630afa5 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 OP6630afc8 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 OP6630afd4 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630b017  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b017 New target speed:	left -251 	right -251
