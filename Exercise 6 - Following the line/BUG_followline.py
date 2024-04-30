@@ -19,7 +19,7 @@ def prox():
         nf_leds_top(0,0,32) # Blue
         motor_left_target = -VITESSE
         motor_right_target = VITESSE
-    elif prox_ground_delta[BAS_DROITE] < VALEUR_NOIR:
+    elif prox_ground_delta[BAS_GAUCHE] < VALEUR_NOIR:
         nf_leds_top(0,0,32) # Blue
         motor_left_target = VITESSE
         motor_right_target = -VITESSE
