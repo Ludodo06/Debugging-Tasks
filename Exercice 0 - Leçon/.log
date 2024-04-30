@@ -4484,3 +4484,27 @@ OP6630ab29 Button pressed: 	button_left
 OP6630ab2a Button pressed: 	button_forward
 OP6630ab2a New target speed:	left 250    	right 250
 OP6630ab2a Button pressed: 	button_forward
+OP6630abd5  --- Start of the program events.py --- 
+OP6630abd5 Button pressed: 	button_left
+OP6630abd6 Button pressed: 	button_forward
+OP6630abd6 New target speed:	left 250    	right 250
+OP6630abd6 Button pressed: 	button_forward
+OP6630abd6 Button pressed: 	button_forward
+OP6630abd6 Button pressed: 	button_forward
+OP6630abd6 Button pressed: 	button_left
+OP6630abd7 Button pressed: 	button_backward
+OP6630abd7 Button pressed: 	button_backward
+OP6630abd8 Button pressed: 	button_backward
+OP6630abd8 Button pressed: 	button_backward
+OP6630abd9 Thymio manipulated: 	x 0 		y 8 		z 11
+OP6630abe3  --- Start of the program events.py --- 
+OP6630abe3 Button pressed: 	button_center
+OP6630abe3 Button pressed: 	button_center
+OP6630abe4 Button pressed: 	button_center
+OP6630abe4 Button pressed: 	button_center
+OP6630abe5 Button pressed: 	button_left
+OP6630abe5 Button pressed: 	button_left
+OP6630abe6 Button pressed: 	button_backward
+OP6630abe6 Button pressed: 	button_backward
+OP6630abe7 Button pressed: 	button_backward
+OP6630abe7 Button pressed: 	button_backward
