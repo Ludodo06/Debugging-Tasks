@@ -15,6 +15,8 @@ def buttons():                                     # Appelé quand un bouton est
     elif button_backward:
         motor_left_target = -100
         motor_right_target = -100
+    elif button_center:
+        motor_r
         
 @onevent
 def prox():                                        # Appelé périodiquement

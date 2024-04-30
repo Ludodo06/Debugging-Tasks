@@ -3674,3 +3674,30 @@ OP6630ace6  --- Start of the program events.py ---
 OP6630ace7 Button pressed: 	button_forward
 OP6630ace7 New target speed:	left 100    	right 100
 OP6630ace7 Button pressed: 	button_forward
+OP6630acef  --- Start of the program events.py --- 
+OP6630acef Button pressed: 	button_backward
+OP6630acef New target speed:	left -100    	right -100
+OP6630acf0 Button pressed: 	button_backward
+OP6630acf3 Button pressed: 	button_right
+OP6630acf3 New target speed:	left 300    	right 100
+OP6630acf3 Button pressed: 	button_right
+OP6630acf6 Button pressed: 	button_left
+OP6630acf6 New target speed:	left 100    	right 300
+OP6630acf6 Button pressed: 	button_left
+OP6630acf7 Button pressed: 	button_backward
+OP6630acf7 New target speed:	left -100    	right -100
+OP6630acf7 Button pressed: 	button_backward
+OP6630acfc New target speed:	left 0    	right 0
+OP6630acfe Button pressed: 	button_backward
+OP6630acfe New target speed:	left -100    	right -100
+OP6630acfe Button pressed: 	button_backward
+OP6630ad01 Button pressed: 	button_left
+OP6630ad01 New target speed:	left 100    	right 300
+OP6630ad01 Button pressed: 	button_left
+OP6630ad03 Button pressed: 	button_right
+OP6630ad03 New target speed:	left 300    	right 100
+OP6630ad03 Button pressed: 	button_right
+OP6630ad03 Button pressed: 	button_backward
+OP6630ad03 New target speed:	left -100    	right -100
+OP6630ad04 Button pressed: 	button_backward
+OP6630ad09  --- Start of the program events.py --- 
