@@ -7,3 +7,5 @@ OP6630b12d NameError: name 'onevent' is not defined
 OP6630b12d >>> 
 RN6630b12d 
 OP6630b130 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630b174 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630b18f Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
