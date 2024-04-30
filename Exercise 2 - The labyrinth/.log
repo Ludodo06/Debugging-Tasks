@@ -14,3 +14,28 @@ OP6630b3e8 Line 14
 OP6630b3ed Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
 OP6630b3ed     
 OP6630b3ed Line 14
+OP6630b404  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630b404 New target speed:	left 300 	right 300
+OP6630b406 New target speed:	left 150 	right -150
+OP6630b408 New target speed:	left 300 	right 300
+OP6630b409 New target speed:	left 150 	right -150
+OP6630b40b New target speed:	left 300 	right 300
+OP6630b40d New target speed:	left -150 	right 150
+OP6630b40e New target speed:	left 300 	right 300
+OP6630b410 Thymio manipulated: 	x -4 		y -2 		z 13
+OP6630b410 New target speed:	left 150 	right -150
+OP6630b411 New target speed:	left 300 	right 300
+OP6630b412 Thymio manipulated: 	x -6 		y -2 		z 5
+OP6630b413 Thymio manipulated: 	x -2 		y -8 		z -12
+OP6630b413 New target speed:	left 0 	right 0
+OP6630b413 Thymio manipulated: 	x 0 		y 0 		z -20
+OP6630b414 Thymio manipulated: 	x 0 		y 0 		z -20
+OP6630b418 Thymio manipulated: 	x 0 		y 0 		z -20
+OP6630b419 Thymio manipulated: 	x 0 		y 0 		z -20
+OP6630b41a Thymio manipulated: 	x 0 		y 0 		z -20
+OP6630b41b Thymio manipulated: 	x 19 		y 1 		z 5
+OP6630b41c Thymio manipulated: 	x -1 		y 12 		z 15
+OP6630b41d Thymio manipulated: 	x 25 		y 0 		z -6
+OP6630b41e Thymio manipulated: 	x 35 		y -8 		z -8
+OP6630b41f Thymio manipulated: 	x 7 		y -5 		z 24
+OP6630b421 Thymio manipulated: 	x 1 		y 2 		z 24
