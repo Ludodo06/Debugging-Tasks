@@ -61,3 +61,12 @@ OP6630afcc New target speed:	left 150 	right -150
 OP6630afce New target speed:	left 300 	right 300
 OP6630afd0 New target speed:	left 150 	right -150
 OP6630afd1 New target speed:	left 300 	right 300
+OP6630afd3 New target speed:	left -150 	right 150
+OP6630afd4 New target speed:	left 300 	right 300
+OP6630afd5 Thymio manipulated: 	x -4 		y -2 		z 12
+OP6630afd6 New target speed:	left 150 	right -150
+OP6630afd8 Thymio manipulated: 	x -1 		y -7 		z 18
+OP6630afd8 New target speed:	left 300 	right 300
+OP6630afd8 Thymio manipulated: 	x 3 		y -16 		z 8
+OP6630afd9 Thymio manipulated: 	x -8 		y 0 		z 23
+OP6630afd9 New target speed:	left 0 	right 0
