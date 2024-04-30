@@ -158,3 +158,89 @@ OP6630af54 New target speed:	left 800 	right 800
 OP6630af54 New target speed:	left -800 	right 0
 OP6630af54 New target speed:	left -800 	right -1600
 OP6630af54 New target speed:	left 800 	right 800
+OP6630af99  --- Start of the program Bug_avoidline.py --- 
+OP6630af99 New target speed:	left 800 	right 800
+OP6630af99 New target speed:	left -800 	right 0
+OP6630af99 New target speed:	left 800 	right 800
+OP6630af99 New target speed:	left -800 	right 0
+OP6630af9a New target speed:	left 800 	right 800
+OP6630af9a New target speed:	left -800 	right 0
+OP6630af9a New target speed:	left 800 	right 800
+OP6630af9a New target speed:	left -800 	right 0
+OP6630af9b New target speed:	left 800 	right 800
+OP6630af9b New target speed:	left -800 	right 0
+OP6630af9b New target speed:	left 800 	right 800
+OP6630af9b New target speed:	left -800 	right 0
+OP6630af9c New target speed:	left 800 	right 800
+OP6630af9c New target speed:	left -800 	right 0
+OP6630af9c Thymio manipulated: 	x -2 		y 0 		z 15
+OP6630af9c Wheels manipulated: 	left -215 	right -29
+OP6630af9c New target speed:	left 800 	right 800
+OP6630af9c New target speed:	left -800 	right 0
+OP6630af9c Thymio manipulated: 	x 0 		y 0 		z 6
+OP6630af9c New target speed:	left 800 	right 800
+OP6630af9d New target speed:	left -800 	right 0
+OP6630af9d New target speed:	left 800 	right 800
+OP6630af9d New target speed:	left -800 	right 0
+OP6630af9d New target speed:	left 800 	right 800
+OP6630af9d New target speed:	left -800 	right 0
+OP6630af9d Thymio manipulated: 	x 0 		y -5 		z 14
+OP6630af9d Wheels manipulated: 	left -58 	right 39
+OP6630af9e New target speed:	left 800 	right 800
+OP6630af9e New target speed:	left -800 	right 0
+OP6630af9e Thymio manipulated: 	x 0 		y 0 		z 2
+OP6630af9e New target speed:	left 800 	right 800
+OP6630af9e New target speed:	left -800 	right 0
+OP6630af9f Thymio manipulated: 	x 0 		y 0 		z 14
+OP6630af9f New target speed:	left 800 	right 800
+OP6630af9f New target speed:	left -800 	right 0
+OP6630af9f New target speed:	left 800 	right 800
+OP6630af9f New target speed:	left -800 	right 0
+OP6630afa0 New target speed:	left 800 	right 800
+OP6630afa0 New target speed:	left -800 	right 0
+OP6630afa0 New target speed:	left 800 	right 800
+OP6630afa0 New target speed:	left 0 	right -800
+OP6630afa0 New target speed:	left 800 	right 800
+OP6630afa1 New target speed:	left -800 	right 0
+OP6630afa1 New target speed:	left -800 	right -1600
+OP6630afa1 New target speed:	left -800 	right 0
+OP6630afa1 Thymio manipulated: 	x 0 		y 5 		z 9
+OP6630afa1 Wheels manipulated: 	left -445 	right 13
+OP6630afa1 New target speed:	left 800 	right 800
+OP6630afa2 New target speed:	left 800 	right 800
+OP6630afa2 New target speed:	left -800 	right 0
+OP6630afa2 New target speed:	left 800 	right 800
+OP6630afa2 New target speed:	left -800 	right 0
+OP6630afa2 New target speed:	left 800 	right 800
+OP6630afa3 New target speed:	left -800 	right 0
+OP6630afa3 New target speed:	left 800 	right 800
+OP6630afa3 New target speed:	left -800 	right 0
+OP6630afa3 New target speed:	left -800 	right -1600
+OP6630afa3 New target speed:	left -800 	right 0
+OP6630afa3 New target speed:	left 800 	right 800
+OP6630afa4 New target speed:	left -800 	right 0
+OP6630afa4 Thymio manipulated: 	x 0 		y -2 		z 10
+OP6630afa4 New target speed:	left 800 	right 800
+OP6630afa4 New target speed:	left -800 	right 0
+OP6630afa4 New target speed:	left 800 	right 800
+OP6630afa5 New target speed:	left -800 	right 0
+OP6630afa5 New target speed:	left 800 	right 800
+OP6630afa5 New target speed:	left -800 	right 0
+OP6630afa5 Thymio manipulated: 	x 0 		y 0 		z 8
+OP6630afa5 New target speed:	left 800 	right 800
+OP6630afa5 New target speed:	left 0 	right -800
+OP6630afa5 New target speed:	left -800 	right -1600
+OP6630afa6 New target speed:	left 800 	right 800
+OP6630afa6 New target speed:	left -800 	right -1600
+OP6630afa6 New target speed:	left 800 	right 800
+OP6630afa6  --- Start of the program Bug_avoidline.py --- 
+OP6630afa7 New target speed:	left -800 	right -1600
+OP6630afa7 New target speed:	left -800 	right 0
+OP6630afa7 New target speed:	left 800 	right 800
+OP6630afa7 New target speed:	left -800 	right 0
+OP6630afa7 Thymio manipulated: 	x 0 		y -2 		z 14
+OP6630afa7 New target speed:	left 800 	right 800
+OP6630afa8 New target speed:	left -800 	right 0
+OP6630afa8 Thymio manipulated: 	x 0 		y -1 		z 14
+OP6630afa8 New target speed:	left 800 	right 800
+OP6630afa8 New target speed:	left -800 	right 0
