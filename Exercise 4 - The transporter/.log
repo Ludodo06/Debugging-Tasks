@@ -1,0 +1,52 @@
+OP6630ada9 Python 3.10.11 (C:\Program Files (x86)\Thonny\python.exe)
+OP6630ada9 >>> 
+WO6630adb5 
+WI6630adb6 
+OP6630add1 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630aeb7 %Run Bug_TheTransporter.py
+OP6630aeb8 Traceback (most recent call last):
+OP6630aeb8   
+OP6630aeb8 File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 4 - The transporter\Bug_TheTransporter.py", line 7, in <module>
+OP6630aeb8     @onevent
+OP6630aeb8 NameError: name 'onevent' is not defined
+OP6630aeb8 >>> 
+RN6630aeb8 
+OP6630aeb8 %Run Bug_TheTransporter.py
+OP6630aeb8 Traceback (most recent call last):
+OP6630aeb8   
+OP6630aeb8 File "C:\Users\pv33apm\Documents\Debugging-Tasks\Exercise 4 - The transporter\Bug_TheTransporter.py", line 7, in <module>
+OP6630aeb8     @onevent
+OP6630aeb8 NameError: name 'onevent' is not defined
+OP6630aeb8 >>> 
+RN6630aeb8 
+OP6630af3c Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630afa5 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630afc8 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630afd4 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630b017  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b017 New target speed:	left -251 	right -251
+OP6630b01b Thymio manipulated: 	x 4 		y 1 		z 16
+OP6630b031  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b031 New target speed:	left 251 	right 251
+OP6630b031 New target speed:	left -251 	right -251
+OP6630b03f  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b03f New target speed:	left 251 	right 251
+OP6630b040 New target speed:	left -251 	right -251
+OP6630b040 Thymio manipulated: 	x 4 		y 0 		z 29
+OP6630b042 Thymio manipulated: 	x 4 		y -1 		z 23
+OP6630b04f  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b04f New target speed:	left 251 	right 251
+OP6630b04f New target speed:	left -251 	right -251
+OP6630b050 Thymio manipulated: 	x -4 		y 6 		z 5
+OP6630b050  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b050 New target speed:	left 251 	right 251
+OP6630b051 New target speed:	left -251 	right -251
+OP6630b068  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b068 New target speed:	left -251 	right -251
+OP6630b068 Thymio manipulated: 	x 4 		y -3 		z 23
+OP6630b06d  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b06d New target speed:	left 251 	right 251
+OP6630b06d New target speed:	left -251 	right -251
+OP6630b07a  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b07a New target speed:	left 251 	right 251
+OP6630b07a New target speed:	left -251 	right -251

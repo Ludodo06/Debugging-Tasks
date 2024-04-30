@@ -1,8 +1,8 @@
 speed = 251
 motor_left_target = speed
 motor_right_target = speed
-avant = 2
-arriere = 6
+avant = 4
+arriere = 2
 
 @onevent
 def prox():
@@ -15,7 +15,7 @@ def prox():
         motor_left_target = -speed 
         motor_right_target = -speed
         
-    elif prox_horizontal[7] < 2500: 
+    elif prox_horizontal[6] < 2500: 
         nf_leds_top(32,0,0) # Rouge
         motor_left_target = speed
         motor_right_target = speed
