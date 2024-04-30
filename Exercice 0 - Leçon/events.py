@@ -10,6 +10,7 @@ def buttons():                                     # Appelé quand un bouton est
         motor_backward_target = 250                                    # Ligne à modifier (ajouter un comportement)
         motor_right_target = 250
         
+        
 @onevent
 def prox():                                        # Appelé périodiquement
     
