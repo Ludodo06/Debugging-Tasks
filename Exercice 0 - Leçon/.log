@@ -4508,3 +4508,9 @@ OP6630abe6 Button pressed: 	button_backward
 OP6630abe6 Button pressed: 	button_backward
 OP6630abe7 Button pressed: 	button_backward
 OP6630abe7 Button pressed: 	button_backward
+OP6630abe8 Button pressed: 	button_backward
+OP6630abe8  --- Start of the program events.py --- 
+OP6630abe8 Button pressed: 	button_backward
+OP6630abe9 Button pressed: 	button_forward
+OP6630abe9 New target speed:	left 250    	right 250
+OP6630abe9 Button pressed: 	button_forward
