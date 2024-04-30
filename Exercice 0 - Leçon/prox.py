@@ -2,7 +2,11 @@
 def prox():           # Appelé périodiquement pour vérifier les valeurs des capteurs
     
     # Changez la valeur entre crochets pour afficher la valeur du capteur sélectionné
+<<<<<<< HEAD
     #print(prox_horizontal[1])
+=======
+    print(prox_ground_delta[1])
+>>>>>>> 68a44758a2845970f92a0d8902a0f83024205a9f
     
     
     
