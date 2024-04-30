@@ -25,3 +25,6 @@ OP6630b496 Line 2
 OP6630b4ad Error: unknown variable 'buttons_forward'
 OP6630b4ad     
 OP6630b4ad Line 5
+OP6630b4bc Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6630b4bc     
+OP6630b4bc Line 2
