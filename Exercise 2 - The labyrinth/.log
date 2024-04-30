@@ -99,3 +99,24 @@ OP6630b525 Thymio manipulated: 	x -1 		y -7 		z 17
 OP6630b526 New target speed:	left -150 	right 150
 OP6630b528 New target speed:	left 300 	right 300
 OP6630b529 New target speed:	left 0 	right 0
+OP6630b53f Button pressed: 	button_center
+OP6630b53f Button pressed: 	button_center
+OP6630b540 Thymio manipulated: 	x -2 		y -1 		z 25
+OP6630b541 Thymio manipulated: 	x 0 		y 18 		z 0
+OP6630b542 Thymio manipulated: 	x 0 		y 19 		z 4
+OP6630b542 Button pressed: 	button_backward
+OP6630b542 Button pressed: 	button_backward
+OP6630b543 Thymio manipulated: 	x 1 		y 18 		z 8
+OP6630b545 Thymio manipulated: 	x 4 		y 11 		z 16
+OP6630b546 Thymio manipulated: 	x -5 		y 0 		z 16
+OP6630b54a Button pressed: 	button_center
+OP6630b54a Button pressed: 	button_center
+OP6630b54d Thymio manipulated: 	x -7 		y 6 		z 16
+OP6630b54e Button pressed: 	button_center
+OP6630b54e Button pressed: 	button_center
+OP6630b54e Thymio manipulated: 	x -19 		y 7 		z 3
+OP6630b54f Thymio manipulated: 	x -19 		y 5 		z 6
+OP6630b550 Thymio manipulated: 	x 7 		y 7 		z -17
+OP6630b551 Button pressed: 	button_left
+OP6630b551 Button pressed: 	button_left
+OP6630b551 Thymio manipulated: 	x 0 		y 8 		z -26
