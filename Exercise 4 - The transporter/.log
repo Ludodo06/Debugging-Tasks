@@ -3,3 +3,27 @@ OP6630b5e1 Compilation error: Access of array prox.horizontal out of bounds: acc
 OP6630b5ea Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 OP6630b60e Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 OP6630b642 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6630b69b  --- Start of the program Bug_TheTransporter.py --- 
+OP6630b69b New target speed:	left 251 	right 251
+OP6630b69b New target speed:	left -251 	right -251
+OP6630b69e New target speed:	left 251 	right 251
+OP6630b69f Thymio manipulated: 	x -5 		y 3 		z 17
+OP6630b6a0 New target speed:	left -251 	right -251
+OP6630b6a0 Thymio manipulated: 	x -2 		y 17 		z 3
+OP6630b6a1 Thymio manipulated: 	x -2 		y 18 		z 7
+OP6630b6a2 Thymio manipulated: 	x -2 		y 16 		z 8
+OP6630b6a3 Thymio manipulated: 	x 11 		y 15 		z 14
+OP6630b6a4 Thymio manipulated: 	x 11 		y 16 		z 10
+OP6630b6a5 Thymio manipulated: 	x 11 		y 16 		z 0
+OP6630b6a7 Thymio manipulated: 	x 7 		y 16 		z 16
+OP6630b6a8 Thymio manipulated: 	x 4 		y -3 		z 18
+OP6630b6a8 New target speed:	left 251 	right 251
+OP6630b6a9 New target speed:	left -251 	right -251
+OP6630b6aa New target speed:	left 251 	right 251
+OP6630b6aa Thymio manipulated: 	x 4 		y -10 		z 29
+OP6630b6aa New target speed:	left -251 	right -251
+OP6630b6ac Thymio manipulated: 	x 0 		y 12 		z 20
+OP6630b6ad New target speed:	left 251 	right 251
+OP6630b6b0 New target speed:	left -251 	right -251
+OP6630b6b0 Thymio manipulated: 	x 5 		y 1 		z 23
+OP6630b6b1 Thymio manipulated: 	x 17 		y 10 		z -7
