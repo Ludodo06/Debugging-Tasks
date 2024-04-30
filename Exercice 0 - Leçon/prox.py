@@ -7,7 +7,7 @@ def prox():           # Appelé périodiquement pour vérifier les valeurs des c
     
     
     # Vous pouvez faire pareil avec le capteur de sol
-    # print(prox_ground_delta[0])
+    print(prox_ground_delta[0])
     
     
     
