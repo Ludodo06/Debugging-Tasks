@@ -69,3 +69,4 @@ OP6630a8b4  --- Start of the program motors.py ---
 OP6630a8b4 New target speed:	left 30 	right -30
 WO6630a8e6 
 WI6630a8ea 
+OP6630a8f5 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 30 while array is of size 2
