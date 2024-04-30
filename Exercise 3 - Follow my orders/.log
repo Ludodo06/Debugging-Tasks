@@ -34,3 +34,12 @@ OP6630af43 Line 2
 OP6630af46 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
 OP6630af46     
 OP6630af46 Line 2
+OP6630af74 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6630af74     
+OP6630af74 Line 2
+OP6630af8a Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6630af8a     
+OP6630af8a Line 2
+OP6630af90 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6630af90     
+OP6630af90 Line 2
