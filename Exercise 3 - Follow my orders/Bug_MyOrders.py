@@ -1,5 +1,6 @@
 @onevent
-def buttons(): motor_left_target
+def buttons():
+    global motor_left_target
     global motor_right_target 
     
     if button_forward:
