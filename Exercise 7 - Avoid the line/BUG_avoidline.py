@@ -1,8 +1,8 @@
 BAS_GAUCHE = 0
 BAS_DROITE = 1
-VITESSE = 200
+VITESSE = 800
 VALEUR_EN_L_AIR = 100
-VALEUR_NOIR = 700
+VALEUR_NOIR = 300
 @onevent
 def prox():
     global mode, motor_left_target, motor_right_target
