@@ -19,3 +19,4 @@ OP6630aeb8     @onevent
 OP6630aeb8 NameError: name 'onevent' is not defined
 OP6630aeb8 >>> 
 RN6630aeb8 
+OP6630af3c Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
