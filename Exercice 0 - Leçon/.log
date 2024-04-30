@@ -15,3 +15,6 @@ OP6630a85f  --- Start of the program motors.py ---
 OP6630a85f New target speed:	left 2 	right 2
 OP6630a879  --- Start of the program motors.py --- 
 OP6630a879 New target speed:	left 6 	right 6
+OP6630a8a5 Error: invalid syntax
+OP6630a8a5     
+OP6630a8a5 Line 2
