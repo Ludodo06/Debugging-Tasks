@@ -3,7 +3,7 @@ def prox():           # Appelé périodiquement pour vérifier les valeurs des c
     
     # Changez la valeur entre crochets pour afficher la valeur du capteur sélectionné
     print(prox_horizontal[1])
-    
+    print(prox_horizontal[6])
     
     
     # Vous pouvez faire pareil avec le capteur de sol
