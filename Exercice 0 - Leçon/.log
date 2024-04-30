@@ -46,3 +46,6 @@ OP6630a8e5 Thymio manipulated: 	x 4 		y 1 		z 17
 WO6630a8ec 
 WI6630a8ee 
 OP6630a8f1 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
+OP6630a995 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 6 while array is of size 2
+OP6630a9a9 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 3 while array is of size 2
+OP6630a9b9 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 3 while array is of size 2
