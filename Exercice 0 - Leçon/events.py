@@ -8,7 +8,7 @@ def buttons():                                     # Appelé quand un bouton est
         motor_right_target = 250
     elif button_left:                            # Sinon, si c'est le bouton central
         motor_left_target = 200                   # si oui, avance
-        motor_right_target = 100                                    # Ligne à modifier (ajouter un comportement)
+        motor_right_target = 60                                    # Ligne à modifier (ajouter un comportement)
         
         
 @onevent
