@@ -9158,3 +9158,22 @@ OP6630ac79 New target speed:	left 250    	right 250
 OP6630ac79 Button pressed: 	button_center
 OP6630ac79 New target speed:	left 0    	right 0
 OP6630ac7a Thymio manipulated: 	x 0 		y -2 		z 31
+PS6630acb7 
+PS6630acc5 
+UD6630acc9 
+PS6630acd2 
+OP6630acd5 Error: expected an indented block after 'if' statement on line 14
+OP6630acd5     
+OP6630acd5 Line 16
+OP6630acd7 Button pressed: 	button_backward
+OP6630acd7 Button pressed: 	button_backward
+OP6630acd8 Button pressed: 	button_backward
+OP6630acd8 Button pressed: 	button_backward
+OP6630acd8 Button pressed: 	button_backward
+OP6630acd9 Button pressed: 	button_backward
+OP6630acd9 Button pressed: 	button_backward
+OP6630acd9 Button pressed: 	button_backward
+OP6630acda Button pressed: 	button_backward
+OP6630acdb Button pressed: 	button_backward
+OP6630acdb Button pressed: 	button_backward
+OP6630acdb Button pressed: 	button_backward

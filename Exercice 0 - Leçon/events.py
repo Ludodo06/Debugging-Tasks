@@ -11,7 +11,10 @@ def buttons():                                     # Appelé quand un bouton est
         motor_left_target = 250                    # si oui, avance
         motor_right_target = 250                                       # Ligne à modifier (ajouter un comportement)
         
-        
+        if button_right:
+            
+        motor_left_target = 250                    # si oui, avance
+        motor_right_target = 250
 @onevent
 def prox():                                        # Appelé périodiquement
     
