@@ -1,7 +1,7 @@
 speed = 251
 motor_left_target = speed
 motor_right_target = speed
-avant = 6
+avant = 4
 arriere = 2
 
 @onevent
