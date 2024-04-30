@@ -39,3 +39,19 @@ OP6630b41d Thymio manipulated: 	x 25 		y 0 		z -6
 OP6630b41e Thymio manipulated: 	x 35 		y -8 		z -8
 OP6630b41f Thymio manipulated: 	x 7 		y -5 		z 24
 OP6630b421 Thymio manipulated: 	x 1 		y 2 		z 24
+OP6630b442 Thymio manipulated: 	x -1 		y -3 		z 25
+OP6630b443 Thymio manipulated: 	x -4 		y 17 		z -9
+OP6630b447  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630b447 New target speed:	left 300 	right 300
+OP6630b449 New target speed:	left 150 	right -150
+OP6630b44a New target speed:	left 300 	right 300
+OP6630b44c New target speed:	left 150 	right -150
+OP6630b44e New target speed:	left 300 	right 300
+OP6630b44f New target speed:	left -150 	right 150
+OP6630b459  --- Start of the program Bug_TheLabyrinthSmall.py --- 
+OP6630b459 New target speed:	left 300 	right 300
+OP6630b45a Thymio manipulated: 	x 0 		y -11 		z 10
+OP6630b45b New target speed:	left 150 	right -150
+OP6630b45b Thymio manipulated: 	x -3 		y -14 		z 13
+OP6630b45c New target speed:	left 300 	right 300
+OP6630b45c Thymio manipulated: 	x -1 		y -17 		z 2
