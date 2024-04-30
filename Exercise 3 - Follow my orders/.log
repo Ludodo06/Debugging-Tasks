@@ -46,3 +46,18 @@ OP6630b23e Line 2
 OP6630b242 Warning: in function 'button', redefining variable 'motor_right_target' from outer scope
 OP6630b242     
 OP6630b242 Line 2
+OP6630b244 Warning: in function 'button', redefining variable 'motor_right_target' from outer scope
+OP6630b244     
+OP6630b244 Line 2
+OP6630b245 Warning: in function 'button', redefining variable 'motor_right_target' from outer scope
+OP6630b245     
+OP6630b245 Line 2
+OP6630b246 Warning: in function 'button', redefining variable 'motor_right_target' from outer scope
+OP6630b246     
+OP6630b246 Line 2
+OP6630b265 Error: invalid syntax
+OP6630b265     
+OP6630b265 Line 3
+OP6630b26c Warning: in function 'button', redefining variable 'motor_right_target' from outer scope
+OP6630b26c     
+OP6630b26c Line 2
