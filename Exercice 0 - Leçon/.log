@@ -18,3 +18,15 @@ OP6630a879 New target speed:	left 6 	right 6
 OP6630a8a5 Error: invalid syntax
 OP6630a8a5     
 OP6630a8a5 Line 2
+OP6630a8bf  --- Start of the program motors.py --- 
+OP6630a8bf New target speed:	left 30 	right -30
+OP6630a8c9  --- Start of the program motors.py --- 
+OP6630a8c9 New target speed:	left 30 	right -30
+OP6630a8db Button pressed: 	button_forward
+OP6630a8dc Button pressed: 	button_forward
+OP6630a8e2 Button pressed: 	button_center
+OP6630a8e2 Button pressed: 	button_center
+OP6630a8e9  --- Start of the program motors.py --- 
+OP6630a8e9 New target speed:	left 30 	right -30
+WO6630a8ef 
+WI6630a8f3 
