@@ -1,0 +1,9 @@
+OP6630aeaa Thymio manipulated: 	x 0 		y 0 		z 24
+OP6630aeab Thymio manipulated: 	x 4 		y 0 		z 14
+OP6630aec4 Error: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+OP6630aec4     
+OP6630aec4 Line 14
+OP6630aecb Button pressed: 	button_forward
+OP6630aecb New target speed:	left 250    	right 250
+OP6630aecc Button pressed: 	button_forward
+OP6630aecc Thymio manipulated: 	x 4 		y -2 		z 3
