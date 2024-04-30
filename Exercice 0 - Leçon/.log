@@ -9,3 +9,7 @@ OP6630a7b2  --- Start of the program leds.py ---
 OP6630a7b7  --- Start of the program leds.py --- 
 OP6630a7c6  --- Start of the program leds.py --- 
 OP6630a7cf  --- Start of the program leds.py --- 
+WO6630a829 
+WI6630a82c 
+OP6630a831  --- Start of the program motors.py --- 
+OP6630a838 New target speed:	left 70 	right 0
