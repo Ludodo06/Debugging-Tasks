@@ -2264,3 +2264,55 @@ OP6630ac0a Button pressed: 	button_forward
 OP6630ac0b New target speed:	left 0    	right 0
 OP6630ac10 Button pressed: 	button_right
 OP6630ac10 Button pressed: 	button_right
+OP6630ac2a Button pressed: 	button_right
+OP6630ac2a Button pressed: 	button_right
+PS6630ac3e 
+OP6630ac47 Button pressed: 	button_right
+OP6630ac47 Thymio manipulated: 	x 2 		y 2 		z 15
+OP6630ac47 Button pressed: 	button_forward
+OP6630ac47 New target speed:	left 250    	right 250
+OP6630ac47 Button pressed: 	button_forward
+OP6630ac47 New target speed:	left 0    	right 0
+OP6630ac47 Button pressed: 	button_right
+OP6630ac48 Button pressed: 	button_right
+OP6630ac48 Button pressed: 	button_right
+OP6630ac48 Button pressed: 	button_right
+OP6630ac49 Button pressed: 	button_right
+OP6630ac49 Button pressed: 	button_right
+OP6630ac49 Button pressed: 	button_right
+OP6630ac4a Button pressed: 	button_left
+OP6630ac4a Button pressed: 	button_left
+OP6630ac4a Button pressed: 	button_left
+OP6630ac4a Button pressed: 	button_right
+OP6630ac4b Button pressed: 	button_right
+OP6630ac4b Button pressed: 	button_forward
+OP6630ac4b New target speed:	left 250    	right 250
+OP6630ac4c New target speed:	left 0    	right 0
+OP6630ac50  --- Start of the program events.py --- 
+OP6630ac51 Button pressed: 	button_right
+OP6630ac52 Button pressed: 	button_right
+OP6630ac52 Button pressed: 	button_right
+OP6630ac53 Button pressed: 	button_right
+OP6630ac54 Button pressed: 	button_left
+OP6630ac54 New target speed:	left 250    	right 250
+OP6630ac54 Button pressed: 	button_left
+OP6630ac58 New target speed:	left 0    	right 0
+OP6630ac58 Button pressed: 	button_forward
+OP6630ac58 New target speed:	left 250    	right 250
+OP6630ac58 Button pressed: 	button_forward
+OP6630ac59 New target speed:	left 0    	right 0
+OP6630ac59 Button pressed: 	button_forward
+OP6630ac59 New target speed:	left 250    	right 250
+OP6630ac59 Button pressed: 	button_forward
+OP6630ac59 New target speed:	left 0    	right 0
+OP6630ac5a Button pressed: 	button_forward
+OP6630ac5a Button pressed: 	button_forward
+OP6630ac5a Wheels manipulated: 	left 96 	right 99
+OP6630ac5a Thymio manipulated: 	x 0 		y 2 		z 15
+OP6630ac5b Button pressed: 	button_left
+OP6630ac5b New target speed:	left 250    	right 250
+OP6630ac5b Button pressed: 	button_left
+OP6630ac5b New target speed:	left 0    	right 0
+OP6630ac5d Button pressed: 	button_left
+OP6630ac5d Button pressed: 	button_left
+OP6630ac5d New target speed:	left 250    	right 250
