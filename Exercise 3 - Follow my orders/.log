@@ -2,3 +2,6 @@ WO6630b567
 WO6630b571 
 WI6630b573 
 WI6630b573 
+OP6630b5ab Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6630b5ab     
+OP6630b5ab Line 2
