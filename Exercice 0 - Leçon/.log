@@ -6101,3 +6101,7 @@ OP6630a876 New target speed:	left 150 	right 150
 OP6630a878  --- Start of the program motors.py --- 
 OP6630a878 New target speed:	left 150 	right 150
 OP6630a882  --- Start of the program motors.py --- 
+UD6630a8a4 
+UD6630a8a4 
+OP6630a8b1  --- Start of the program motors.py --- 
+OP6630a8b1 New target speed:	left 150 	right -150
