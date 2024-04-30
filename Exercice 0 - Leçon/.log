@@ -13,3 +13,20 @@ WO6630a829
 WI6630a82c 
 OP6630a831  --- Start of the program motors.py --- 
 OP6630a838 New target speed:	left 70 	right 0
+OP6630a846  --- Start of the program motors.py --- 
+OP6630a846 New target speed:	left 70 	right 92
+OP6630a84a Thymio manipulated: 	x 4 		y -11 		z 16
+OP6630a84a Button pressed: 	button_forward
+OP6630a84a Button pressed: 	button_forward
+OP6630a852  --- Start of the program motors.py --- 
+OP6630a852 New target speed:	left 70 	right 500
+OP6630a854 Thymio manipulated: 	x -8 		y 0 		z 13
+OP6630a856 Thymio manipulated: 	x 4 		y 1 		z 13
+OP6630a85e  --- Start of the program motors.py --- 
+OP6630a85e New target speed:	left 70 	right 0
+OP6630a865  --- Start of the program motors.py --- 
+OP6630a866 Thymio manipulated: 	x 6 		y -4 		z 26
+OP6630a876  --- Start of the program motors.py --- 
+OP6630a876 New target speed:	left 70 	right 70
+OP6630a882  --- Start of the program motors.py --- 
+OP6630a882 Thymio manipulated: 	x -1 		y -6 		z 15
