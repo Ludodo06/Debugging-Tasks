@@ -41,3 +41,25 @@ OP6630a7c6  --- Start of the program leds.py ---
 OP6630a7cd  --- Start of the program leds.py --- 
 OP6630a7cf  --- Start of the program leds.py --- 
 OP6630a7d8  --- Start of the program leds.py --- 
+OP6630a801 Button pressed: 	button_forward
+OP6630a801 Button pressed: 	button_right
+OP6630a802 Button pressed: 	button_right
+OP6630a802 Button pressed: 	button_forward
+OP6630a803 Button pressed: 	button_right
+OP6630a805 Button pressed: 	button_right
+OP6630a805 Button pressed: 	button_backward
+OP6630a805 Button pressed: 	button_backward
+OP6630a806 Button pressed: 	button_forward
+OP6630a806 Button pressed: 	button_forward
+OP6630a80a Thymio manipulated: 	x 1 		y 6 		z 15
+OP6630a80b Thymio manipulated: 	x -14 		y 13 		z -6
+OP6630a80c Thymio manipulated: 	x -13 		y 10 		z -11
+OP6630a80d Thymio manipulated: 	x -12 		y 12 		z -10
+OP6630a80e Thymio manipulated: 	x -12 		y 12 		z -8
+OP6630a80f Thymio manipulated: 	x -11 		y 16 		z 4
+OP6630a813 Wheels manipulated: 	left -12 	right 0
+OP6630a819 Button pressed: 	button_backward
+OP6630a81a Button pressed: 	button_backward
+OP6630a81d Thymio manipulated: 	x -1 		y -13 		z 15
+OP6630a81e Thymio manipulated: 	x -3 		y -20 		z 2
+OP6630a81f Thymio manipulated: 	x -3 		y -20 		z 0
