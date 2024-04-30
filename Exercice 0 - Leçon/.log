@@ -87,3 +87,7 @@ OP6630a880 Thymio manipulated: 	x -6 		y -8 		z 19
 OP6630a880 Thymio manipulated: 	x -5 		y -3 		z 20
 OP6630a89e  --- Start of the program motors.py --- 
 OP6630a89e New target speed:	left 50 	right -50
+OP6630a8c1  --- Start of the program motors.py --- 
+OP6630a8c1 New target speed:	left 100 	right -100
+WO6630a8e8 
+WI6630a8eb 
