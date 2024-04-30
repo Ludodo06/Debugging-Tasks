@@ -4514,3 +4514,38 @@ OP6630abe8 Button pressed: 	button_backward
 OP6630abe9 Button pressed: 	button_forward
 OP6630abe9 New target speed:	left 250    	right 250
 OP6630abe9 Button pressed: 	button_forward
+UD6630ac2f 
+OP6630ac3c  --- Start of the program events.py --- 
+OP6630ac3d Button pressed: 	button_center
+OP6630ac3d New target speed:	left 250    	right 0
+OP6630ac3d Button pressed: 	button_center
+OP6630ac3d Thymio manipulated: 	x 1 		y -1 		z 16
+OP6630ac3f Thymio manipulated: 	x 1 		y -2 		z 13
+OP6630ac40 Thymio manipulated: 	x 1 		y 0 		z 14
+OP6630ac40 New target speed:	left 0    	right 0
+OP6630ac41 Thymio manipulated: 	x 8 		y 3 		z 24
+OP6630ac42 Button pressed: 	button_forward
+OP6630ac42 New target speed:	left 250    	right 250
+OP6630ac42 Button pressed: 	button_forward
+OP6630ac42 Button pressed: 	button_center
+OP6630ac43 Button pressed: 	button_center
+OP6630ac43 Button pressed: 	button_center
+OP6630ac43 Button pressed: 	button_center
+OP6630ac43 New target speed:	left 0    	right 0
+OP6630ac44 Button pressed: 	button_center
+OP6630ac44 New target speed:	left 250    	right 0
+OP6630ac44 Button pressed: 	button_center
+OP6630ac45 Thymio manipulated: 	x 0 		y 0 		z 15
+OP6630ac45 New target speed:	left 0    	right 0
+OP6630ac46 Button pressed: 	button_center
+OP6630ac46 New target speed:	left 250    	right 0
+OP6630ac46 Button pressed: 	button_center
+OP6630ac46 New target speed:	left 0    	right 0
+OP6630ac47 Button pressed: 	button_center
+OP6630ac47 New target speed:	left 250    	right 0
+OP6630ac47 New target speed:	left 0    	right 0
+OP6630ac47 New target speed:	left 250    	right 0
+OP6630ac47 Thymio manipulated: 	x 0 		y 0 		z 16
+OP6630ac48 Thymio manipulated: 	x 1 		y 0 		z 11
+WO6630ac60 
+WI6630ac63 
