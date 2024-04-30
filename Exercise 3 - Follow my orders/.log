@@ -27,3 +27,22 @@ OP6630b1cf Line 2
 OP6630b1f9 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
 OP6630b1f9     
 OP6630b1f9 Line 2
+OP6630b209 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6630b209     
+OP6630b209 Line 2
+PS6630b21a 
+PS6630b21a 
+PS6630b21c 
+PS6630b21c 
+PS6630b21c 
+PS6630b21c 
+PS6630b21d 
+PS6630b21d 
+UD6630b21e 
+UD6630b21e 
+OP6630b23e Warning: in function 'button', redefining variable 'motor_right_target' from outer scope
+OP6630b23e     
+OP6630b23e Line 2
+OP6630b242 Warning: in function 'button', redefining variable 'motor_right_target' from outer scope
+OP6630b242     
+OP6630b242 Line 2
