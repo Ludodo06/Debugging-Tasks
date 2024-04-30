@@ -1,4 +1,4 @@
-duree_vers_avant = 1900
+duree_vers_avant = 1000
 duree_tourne = 1500
 vers_avant = False
 timer_period[0] = 100
@@ -8,7 +8,7 @@ def timer0():
     global leds_top, vers_avant, motor_left_target, motor_right_target
     vers_avant = not vers_avant
     if vers_avant:
-        timer_period[0] = duree_vers_avant
+        timer_period[] = duree_vers_avant
         nf_leds_top(0,32,0) # Vert
         motor_right_target = -200
         motor_left_target = 200
