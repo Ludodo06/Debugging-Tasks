@@ -1,4 +1,4 @@
-speed = 251
+speed = 250
 motor_left_target = speed
 motor_right_target = speed
 avant = 2
