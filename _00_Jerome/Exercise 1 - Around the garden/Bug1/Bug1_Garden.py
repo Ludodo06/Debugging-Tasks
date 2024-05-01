@@ -1,53 +1,33 @@
-speed = 251
-motor_left_target = speed
-motor_right_target = speed
-front = 2
-back = 6
+forward_time = 7000
+turn_time = 1100
+timer_period[0] = 100
+going_forward = False
+
 
 @onevent
-def prox():
-    global prox_horizontal, motor_left_target, motor_right_target
-        
-    nf_leds_top(32,16,0) # Orange
-
-    if prox_horizontal[front] < 2500:
+def timer0():
+    global leds_top, going_forward, motor_left_target, motor_right_target
+    going_forward = not going_forward
+    if going_forward:
+        timer_period[0] = forward_time
         nf_leds_top(0,32,0) # Green
-        motor_left_target = -speed 
-        motor_right_target = -251
+        motor_right_target = 200
+        motor_left_target = 200
+    else:
+        timer_period[0] = turn_time
+        nf_leds_top(32,16,0) # Orange
+        motor_right_target = 200
+        motor_left_target = -200
         
-    elif prox_horizontal[7] < 2500: 
-        nf_leds_top(32,0,0) # Red
-        motor_left_target = 251
-        motor_right_target = speed
         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+  
+  
+  
+  
+  
+  
+  
 
 
 
@@ -62,7 +42,7 @@ def prox():
 
 
 
-print(" --- Start of the program Bug_TheTransporter.py --- ")
+print(" --- Start of the program Bug1_Garden.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
