@@ -101,3 +101,11 @@ OP66322f04 Button pressed: 	button_forward
 OP66322f06 New target speed:	left 0    	right 0
 WO66322f0d 
 WI66322f46 
+WO66322fa2 
+WI66322fa9 
+WO66322faa 
+WI66322fb1 
+WO66322fb1 
+WI66322fb3 
+WO66322fb3 
+WI66322fbb 
