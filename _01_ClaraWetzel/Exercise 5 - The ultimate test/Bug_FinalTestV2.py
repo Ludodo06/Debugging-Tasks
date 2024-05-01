@@ -21,8 +21,8 @@ def prox():
             mode = LINE
             
     if mode == LINE:
-        print('b'  nf_leds_top(0,0,32) # Blue
-        steer = prox_ground_delta[0] - prox_ground_delta[1]          # left: 0, right: 1
+        nf_leds_top(0,0,32) # Blue
+        steer = (prox_ground_delta[0] - prox_ground_delta[1])//20          # left: 0, right: 1
         
         motor_left_target = 200 - steer
         motor_right_target = 200 + steer
