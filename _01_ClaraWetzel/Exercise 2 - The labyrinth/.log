@@ -5,3 +5,21 @@ WI66323417
 OP66323417 Error: invalid syntax
 OP66323417     
 OP66323417 Line 15
+OP663234bd Error: invalid syntax
+OP663234bd     
+OP663234bd Line 15
+OP663234c9  --- Start of the program Bug_TheLabyrinth.py --- 
+OP663234c9 LOGS: Wheels , 300 , 300
+OP663234cc LOGS: Wheels , 150 , -150
+OP663234cd LOGS: Wheels , 300 , 300
+OP663234d0 LOGS: Wheels , 150 , -150
+OP663234d1 LOGS: Wheels , 300 , 300
+OP663234d5 LOGS: Wheels , 300 , 300
+OP663234da LOGS: Wheels , -150 , 150
+OP663234dc LOGS: Wheels , 300 , 300
+OP663234de LOGS: Wheels , -150 , 150
+OP663234e0 LOGS: Wheels , 300 , 300
+OP663234e2 LOGS: Wheels , 150 , -150
+OP663234e4 LOGS: Wheels , 300 , 300
+OP663234e6 LOGS: Wheels , 150 , -150
+OP663234e8 LOGS: Wheels , 300 , 300
