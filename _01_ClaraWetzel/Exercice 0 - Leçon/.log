@@ -16,3 +16,7 @@ OP66322d5e New target speed:	left 500 	right 500
 WO66322d70 
 WI66322d70 
 WI66322d72 
+OP66322d7e Python 3.7.9 (bundled)
+OP66322d7e >>> 
+WO66322db0 
+WI66322db5 
