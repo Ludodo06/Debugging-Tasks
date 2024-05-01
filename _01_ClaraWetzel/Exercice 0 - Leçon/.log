@@ -6,3 +6,10 @@ WI663227f6
 WO66322803 
 WI6632280a 
 WO6632280b 
+OP66322d4c  --- Start of the program motors.py --- 
+OP66322d4c New target speed:	left 100 	right 100
+OP66322d5c  --- Start of the program motors.py --- 
+OP66322d5c New target speed:	left 500 	right 500
+OP66322d5d Thymio manipulated: 	x -4 		y 4 		z 14
+OP66322d5e  --- Start of the program motors.py --- 
+OP66322d5e New target speed:	left 500 	right 500
