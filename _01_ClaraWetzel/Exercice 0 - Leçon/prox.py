@@ -3,7 +3,7 @@ def prox():
     
     # Use print here to show the proximity sensors' values
     # print(...)
-    
+    print(nf_leds_top)
     
     
     # You can also print the ground sensors here

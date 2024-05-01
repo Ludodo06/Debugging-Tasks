@@ -24,3 +24,15 @@ OP66322dc6  --- Start of the program leds.py ---
 WO66322dca 
 WI66322dd2 
 WO66322dd6 
+WI66322dfd 
+WO66322dff 
+WI66322e02 
+WO66322e02 
+WI66322e02 
+WO66322e04 
+WI66322e07 
+WO66322e1d 
+WI66322e24 
+OP66322e2f Error: unknown variable 'nf_leds_top'
+OP66322e2f     
+OP66322e2f Line 6
