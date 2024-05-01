@@ -37,6 +37,7 @@ def prox():
             
 @onevent
 def buttons():
+    print('a')
     global motor_left_target, motor_right_target, mode
     if button_center:
         motor_left_target = 0
