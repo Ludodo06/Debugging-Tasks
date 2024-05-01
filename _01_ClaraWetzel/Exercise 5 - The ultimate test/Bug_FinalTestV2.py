@@ -14,7 +14,7 @@ def prox():
         nf_leds_top(32,0,0) # Red
         steer = (prox_horizontal[0] - prox_horizontal[4])//20        # left: 0, right: 4
         
-        motor_left_target = 200 - steer
+        motor_left_target = 200 -steer
         motor_right_target = 200 - steer
         
         if prox_ground_delta[0] < 1000 or prox_ground_delta[1] < 1000: # left: 0, right: 1
