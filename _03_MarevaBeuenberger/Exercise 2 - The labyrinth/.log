@@ -1,0 +1,108 @@
+WO66389fb6 
+WI66389fd2 
+OP66389fd2 Error: invalid syntax
+OP66389fd2     
+OP66389fd2 Line 15
+OP66389fd5 Error: invalid syntax
+OP66389fd5     
+OP66389fd5 Line 15
+WO66389ff5 
+WI6638a00a 
+WO6638a028 
+WI6638a0b6 
+OP6638a148  --- Start of the program Bug_TheLabyrinth.py --- 
+OP6638a148 LOGS: Wheels , 300 , 300
+OP6638a14a LOGS: Acc , -7 , 4 , 23
+OP6638a14b LOGS: Wheels , 150 , -150
+OP6638a14c LOGS: Acc , 4 , 0 , 21
+OP6638a14c LOGS: Wheels , 300 , 300
+OP6638a14d LOGS: Acc , -7 , 0 , 23
+OP6638a14e LOGS: Acc , -5 , 0 , 22
+OP6638a14f LOGS: Wheels , 150 , -150
+OP6638a150 LOGS: Acc , 4 , 0 , 21
+OP6638a151 LOGS: Wheels , 300 , 300
+OP6638a151 LOGS: Acc , -7 , -2 , 23
+OP6638a152 LOGS: Acc , -8 , 0 , 24
+OP6638a153 LOGS: Acc , 8 , -2 , 22
+OP6638a153 LOGS: Wheels , -150 , 150
+OP6638a153 LOGS: Acc , 5 , 0 , 22
+OP6638a155 LOGS: Wheels , 300 , 300
+OP6638a155 LOGS: Acc , -7 , 1 , 23
+OP6638a156 LOGS: Acc , 5 , 0 , 23
+OP6638a157 LOGS: Acc , 7 , 1 , 22
+OP6638a159 LOGS: Acc , 10 , 0 , 22
+OP6638a15a LOGS: Wheels , -150 , 150
+OP6638a15a LOGS: Acc , 5 , -2 , 21
+OP6638a15b LOGS: Wheels , 300 , 300
+OP6638a15c LOGS: Acc , -6 , 1 , 23
+OP6638a15c LOGS: Acc , 5 , 1 , 23
+OP6638a15e LOGS: Wheels , -150 , 150
+OP6638a15e LOGS: Acc , 5 , 2 , 21
+OP6638a15f LOGS: Wheels , 300 , 300
+OP6638a160 LOGS: Acc , 5 , 0 , 24
+OP6638a161 LOGS: Acc , 8 , -1 , 21
+OP6638a162 LOGS: Wheels , 150 , -150
+OP6638a162 LOGS: Acc , 4 , 0 , 22
+OP6638a164 LOGS: Acc , 5 , -2 , 22
+OP6638a165 LOGS: Acc , -5 , 0 , 23
+OP6638a166 LOGS: Wheels , 150 , -150
+OP6638a166 LOGS: Acc , 4 , 0 , 22
+OP6638a167 LOGS: Wheels , 300 , 300
+OP6638a168 LOGS: Acc , 9 , -1 , 23
+OP6638a169 LOGS: Acc , 4 , -2 , 22
+OP6638a16a LOGS: Wheels , 150 , -150
+OP6638a16a LOGS: Acc , 4 , 0 , 22
+OP6638a1fe  --- Start of the program Bug_TheLabyrinth.py --- 
+OP6638a1fe LOGS: Wheels , 300 , 300
+OP6638a1ff LOGS: Acc , 5 , 0 , 22
+OP6638a200 LOGS: Acc , 4 , 2 , 22
+OP6638a201 LOGS: Wheels , 150 , -150
+OP6638a201 LOGS: Acc , 5 , 0 , 23
+OP6638a202 LOGS: Wheels , 300 , 300
+OP6638a203 LOGS: Acc , 5 , 1 , 22
+OP6638a205 LOGS: Acc , 5 , 0 , 23
+OP6638a205 LOGS: Wheels , 150 , -150
+OP6638a205 LOGS: Acc , 4 , -1 , 22
+OP6638a207 LOGS: Wheels , 300 , 300
+OP6638a207 LOGS: Acc , 4 , 1 , 22
+OP6638a209 LOGS: Acc , 7 , -2 , 22
+OP6638a209 LOGS: Wheels , -150 , 150
+OP6638a20a LOGS: Acc , 4 , -1 , 22
+OP6638a20a LOGS: Wheels , 300 , 300
+OP6638a20b LOGS: Acc , 6 , -2 , 20
+OP6638a20d LOGS: Acc , 6 , -1 , 21
+OP6638a20e LOGS: Acc , 7 , -2 , 24
+OP6638a210 LOGS: Acc , 5 , -1 , 22
+OP6638a211 LOGS: Wheels , 300 , 300
+OP6638a212 LOGS: Acc , 6 , 0 , 23
+OP6638a213 LOGS: Acc , 4 , -5 , 24
+OP6638a214 LOGS: Wheels , -150 , 150
+OP6638a214 LOGS: Acc , 4 , 1 , 23
+OP6638a215 LOGS: Wheels , 300 , 300
+OP6638a216 LOGS: Acc , 4 , 1 , 24
+OP6638a218 LOGS: Wheels , 150 , -150
+OP6638a219 LOGS: Wheels , 300 , 300
+OP6638a21a LOGS: Acc , 6 , 1 , 23
+OP6638a21b LOGS: Acc , 5 , 2 , 23
+OP6638a21c LOGS: Wheels , -150 , 150
+OP6638a21d LOGS: Wheels , 300 , 300
+OP6638a21e LOGS: Acc , 5 , 0 , 22
+OP6638a21f LOGS: Acc , 6 , -1 , 21
+OP6638a220 LOGS: Wheels , 150 , -150
+OP6638a221 LOGS: Wheels , 300 , 300
+OP6638a222 LOGS: Acc , 4 , -3 , 24
+OP6638a224 LOGS: Wheels , -150 , 150
+OP6638a224 LOGS: Acc , 4 , 0 , 22
+OP6638a226 LOGS: Acc , 7 , -1 , 23
+OP6638a227 LOGS: Acc , 5 , -1 , 23
+OP6638a228 LOGS: Wheels , -150 , 150
+OP6638a228 LOGS: Acc , 4 , -1 , 22
+OP6638a229 LOGS: Wheels , 300 , 300
+OP6638a229 LOGS: Acc , 7 , 1 , 21
+OP6638a22b LOGS: Acc , 11 , -5 , 21
+WO6638a259 
+WI6638a25a 
+WO6638a25b 
+WI6638a292 
+WO6638a294 
+WI6638a299 

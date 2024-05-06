@@ -1,2 +1,135 @@
 WI6632273a 
 WI6632273a 
+OP6638a4c5 LOGS: Acc , 1 , -1 , 24
+WO6638a4c7 
+WI6638a4c9 
+WO6638a4ca 
+OP6638a4d0 LOGS: Acc , 1 , 0 , 24
+OP6638a4d2 LOGS: Acc , 2 , -1 , 24
+WI6638a4d5 
+WO6638a4d5 
+OP6638a4d5 LOGS: Acc , 1 , -1 , 24
+OP6638a4d9 LOGS: Acc , 1 , 0 , 24
+OP6638a4e4 LOGS: Acc , 2 , 1 , 24
+WI6638a4e5 
+OP6638a4e5 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6638a4e9 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6638a524 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6638a526 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6638a555 Error: invalid syntax
+OP6638a555     
+OP6638a555 Line 9
+OP6638a557 Error: invalid syntax
+OP6638a557     
+OP6638a557 Line 9
+WO6638a575 
+WI6638a59d 
+WO6638a5a5 
+WI6638a5af 
+OP6638a5b6  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a5b6 LOGS: Wheels , 251 , 251
+OP6638a5b6 LOGS: Wheels , -251 , -251
+OP6638a5b7 LOGS: Acc , 5 , -2 , 22
+OP6638a5b8 LOGS: Acc , -4 , -3 , 22
+OP6638a5b9 LOGS: Acc , 7 , 1 , 22
+OP6638a5ba LOGS: Acc , 4 , 0 , 22
+OP6638a5bb LOGS: Acc , 6 , 0 , 21
+OP6638a5d6 LOGS: Wheels , 251 , 251
+OP6638a5d6 LOGS: Wheels , -251 , -251
+OP6638a5d6 LOGS: Acc , 4 , -1 , 21
+OP6638a5d9  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a5d9 LOGS: Wheels , 251 , 251
+OP6638a5d9 LOGS: Wheels , -251 , -251
+OP6638a5d9 LOGS: Acc , -4 , -2 , 22
+OP6638a697  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a697 LOGS: Acc , 5 , -2 , 22
+OP6638a698  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a698 LOGS: Wheels , 251 , 251
+OP6638a699 LOGS: Acc , 5 , 2 , 22
+OP6638a69a LOGS: Acc , 7 , 1 , 22
+OP6638a69b LOGS: Acc , 4 , 1 , 23
+OP6638a69d LOGS: Acc , 9 , -1 , 21
+OP6638a69f  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a69f LOGS: Wheels , 251 , 251
+OP6638a69f LOGS: Acc , 4 , 2 , 23
+OP6638a6a0 LOGS: Wheels , -251 , -251
+OP6638a6a0 LOGS: Acc , 9 , 4 , 22
+OP6638a6a2 LOGS: Acc , 4 , 0 , 21
+OP6638a6a3 LOGS: Acc , 6 , 0 , 21
+OP6638a6d9  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a6d9 LOGS: Wheels , 251 , 251
+OP6638a6d9 LOGS: Acc , -4 , 2 , 23
+OP6638a6da LOGS: Wheels , -251 , -251
+OP6638a6da LOGS: Acc , 10 , -1 , 22
+OP6638a6db LOGS: Acc , 4 , -1 , 23
+OP6638a6dc LOGS: Acc , 6 , 2 , 22
+OP6638a6de LOGS: Acc , -5 , 2 , 22
+OP6638a6e5  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a6e5 LOGS: Wheels , 251 , 251
+OP6638a6e5 LOGS: Acc , -7 , 3 , 23
+OP6638a6e6 LOGS: Wheels , -251 , -251
+OP6638a6e6 LOGS: Acc , 5 , -3 , 24
+OP6638a6e8 LOGS: Acc , 5 , 0 , 21
+OP6638a6e9 LOGS: Acc , 5 , 2 , 23
+OP6638a700  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a700 LOGS: Wheels , 251 , 251
+OP6638a700 LOGS: Acc , 4 , 0 , 21
+OP6638a701 LOGS: Wheels , -251 , 251
+OP6638a701 LOGS: Acc , 5 , 1 , 21
+OP6638a702 LOGS: Acc , 6 , -2 , 21
+OP6638a703 LOGS: Acc , 6 , 2 , 21
+OP6638a718 LOGS: Wheels , 251 , 251
+OP6638a718 LOGS: Wheels , -251 , -251
+OP6638a719 LOGS: Acc , -6 , -2 , 24
+OP6638a71b LOGS: Acc , 7 , 1 , 22
+OP6638a71c LOGS: Acc , 5 , -1 , 22
+OP6638a725  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a725 LOGS: Wheels , 251 , 251
+OP6638a726 LOGS: Acc , -8 , 3 , 23
+OP6638a726 LOGS: Wheels , -251 , -251
+OP6638a728 LOGS: Acc , 5 , -1 , 22
+OP6638a729 LOGS: Acc , 10 , -2 , 23
+OP6638a72a LOGS: Acc , -5 , -1 , 23
+OP6638a779  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a779 LOGS: Wheels , 251 , 251
+OP6638a779 LOGS: Wheels , -251 , 251
+OP6638a779 LOGS: Wheels , -251 , -251
+OP6638a779 LOGS: Acc , 4 , 0 , 22
+OP6638a77b LOGS: Acc , 4 , 0 , 23
+OP6638a781  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a781 LOGS: Wheels , -251 , -251
+OP6638a782 LOGS: Acc , 4 , 0 , 23
+OP6638a783 LOGS: Acc , -5 , -2 , 23
+OP6638a784 LOGS: Acc , 4 , 4 , 23
+OP6638a786 LOGS: Acc , 8 , 3 , 22
+OP6638a787 LOGS: Acc , 4 , -5 , 21
+OP6638a788 LOGS: Acc , 5 , -2 , 23
+OP6638a789 LOGS: Acc , 5 , -4 , 21
+OP6638a78a LOGS: Acc , 6 , 0 , 23
+OP6638a78b LOGS: Acc , 5 , 1 , 22
+OP6638a78c LOGS: Acc , 5 , -1 , 23
+OP6638a78e LOGS: Acc , 5 , 1 , 22
+OP6638a78f LOGS: Acc , 5 , 1 , 21
+OP6638a790 LOGS: Acc , 4 , -3 , 23
+OP6638a792 LOGS: Acc , 7 , 1 , 22
+OP6638a793 LOGS: Acc , 5 , 1 , 22
+OP6638a794 LOGS: Acc , 5 , 1 , 22
+OP6638a7fa  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a7fa LOGS: Wheels , -251 , -251
+OP6638a7fa LOGS: Acc , 5 , 3 , 22
+OP6638a7fc LOGS: Acc , 10 , -5 , 22
+OP6638a7fe LOGS: Acc , 4 , -12 , 13
+OP6638a7ff LOGS: Acc , 4 , 1 , 21
+OP6638a800 LOGS: Acc , 6 , 1 , 22
+OP6638a801 LOGS: Acc , 4 , 1 , 23
+OP6638a81c  --- Start of the program Bug_TheTransporter.py --- 
+OP6638a81c LOGS: Wheels , 251 , 251
+OP6638a81c LOGS: Acc , 6 , -1 , 22
+OP6638a81d LOGS: Acc , 5 , -4 , 22
+OP6638a81e LOGS: Wheels , -251 , -251
+OP6638a81e LOGS: Acc , -4 , 0 , 23
+OP6638a81f LOGS: Acc , 5 , -2 , 22
+OP6638a820 LOGS: Wheels , -251 , -251
+OP6638a821 LOGS: Acc , 5 , 0 , 22
+OP6638a822 LOGS: Acc , 4 , -2 , 23
+WO6638a858 

@@ -7,6 +7,9 @@ def buttons():                                     # Triggers everytime a button
         motor_left_target = 250                    # Then go forward with both wheels
         motor_right_target = 250
         
+    
+    
+        
         
 @onevent
 def prox():                                        # Triggers everytime there's an obstacle

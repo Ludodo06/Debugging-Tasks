@@ -1,0 +1,120 @@
+OP66389b4c Thymio manipulated: 	x 2 		y 0 		z 24
+OP66389b50 Thymio manipulated: 	x 2 		y 0 		z 24
+WO66389b50 
+OP66389b52 Thymio manipulated: 	x 2 		y 0 		z 24
+WI66389b53 
+WO66389b54 
+OP66389b55 Thymio manipulated: 	x 2 		y 0 		z 24
+WI66389b59 
+WO66389b59 
+OP66389b5d Thymio manipulated: 	x 2 		y -1 		z 24
+OP66389b61 Thymio manipulated: 	x -4 		y 0 		z 25
+OP66389b64 Thymio manipulated: 	x 4 		y 1 		z 11
+OP66389b68 Thymio manipulated: 	x 3 		y -1 		z 24
+OP66389b70 Thymio manipulated: 	x 2 		y -2 		z 24
+OP66389b7f Thymio manipulated: 	x 1 		y 0 		z 24
+OP66389b86 Thymio manipulated: 	x 2 		y 0 		z 24
+WI66389b89 
+OP66389b8a  --- Start of the program Bug1_Garden.py --- 
+OP66389b8a LOGS: Acc , 5 , 0 , 22
+OP66389b8c LOGS: Acc , 12 , -1 , 22
+OP66389b8d LOGS: Acc , 4 , 2 , 23
+OP66389b8e LOGS: Acc , 8 , 2 , 22
+OP66389b8e LOGS: Wheels , -200 , 200
+OP66389b8e LOGS: Acc , 5 , -1 , 23
+OP66389b90 LOGS: Acc , 9 , 0 , 21
+OP66389b91 LOGS: Acc , 6 , -2 , 21
+OP66389b92 LOGS: Acc , 5 , -1 , 21
+OP66389b93 LOGS: Acc , 4 , 0 , 23
+OP66389b94 LOGS: Acc , 5 , 1 , 23
+OP66389b95 LOGS: Acc , -5 , -1 , 23
+OP66389b96 LOGS: Acc , 6 , -1 , 23
+OP66389b97 LOGS: Acc , 8 , 1 , 22
+OP66389b98 LOGS: Wheels , -200 , 200
+OP66389b99 LOGS: Acc , 4 , 2 , 22
+OP66389b99 LOGS: Wheels , 200 , 200
+OP66389b9a LOGS: Acc , 8 , -1 , 21
+OP66389b9b LOGS: Acc , 4 , -2 , 22
+OP66389b9c LOGS: Acc , 5 , 0 , 23
+OP66389b9d LOGS: Acc , 6 , 2 , 24
+OP66389b9d LOGS: Wheels , -200 , 200
+OP66389b9e LOGS: Acc , 7 , 1 , 22
+OP66389b9e LOGS: Wheels , 200 , 200
+OP66389b9f LOGS: Acc , 5 , -1 , 20
+OP66389ba0 LOGS: Acc , 4 , 0 , 23
+OP66389ba1 LOGS: Acc , -4 , 0 , 21
+OP66389ba2 LOGS: Wheels , -200 , 200
+OP66389ba3 LOGS: Wheels , 200 , 200
+OP66389ba4 LOGS: Acc , 5 , -3 , 22
+OP66389ba5 LOGS: Acc , 5 , -1 , 22
+OP66389ba6 LOGS: Acc , 8 , 1 , 21
+OP66389ba7 LOGS: Acc , 10 , 0 , 23
+OP66389ba7 LOGS: Wheels , -200 , 200
+OP66389ba9 LOGS: Wheels , 200 , 200
+OP66389ba9 LOGS: Acc , 5 , -2 , 22
+OP66389baa LOGS: Acc , 5 , 1 , 23
+OP66389c22 LOGS: Wheels , 200 , 200
+OP66389c22 LOGS: Acc , -4 , -1 , 23
+OP66389c23 LOGS: Acc , 7 , -1 , 21
+OP66389c25 LOGS: Acc , 8 , -1 , 21
+OP66389c26 LOGS: Acc , -7 , 1 , 23
+OP66389c27 LOGS: Acc , 7 , -1 , 22
+OP66389c28 LOGS: Acc , 4 , 1 , 22
+OP66389c29 LOGS: Wheels , -200 , 200
+OP66389c2a LOGS: Acc , 5 , 0 , 22
+OP66389c2c LOGS: Acc , 4 , 0 , 23
+OP66389c2e LOGS: Acc , 5 , -1 , 21
+OP66389c2f LOGS: Acc , 4 , 0 , 21
+OP66389c30 LOGS: Wheels , 200 , 200
+OP66389c30 LOGS: Acc , 4 , 0 , 22
+OP66389c31 LOGS: Acc , 4 , 1 , 22
+OP66389c32 LOGS: Acc , 4 , -1 , 22
+OP66389c33 LOGS: Acc , -4 , 0 , 23
+OP66389c8b  --- Start of the program Bug1_Garden.py --- 
+OP66389c8b LOGS: Wheels , 200 , 200
+OP66389c8c LOGS: Acc , 7 , -1 , 21
+OP66389c8d LOGS: Acc , 5 , 0 , 23
+OP66389c95  --- Start of the program Bug1_Garden.py --- 
+OP66389c95 LOGS: Wheels , 200 , 200
+OP66389c96 LOGS: Acc , 5 , -1 , 23
+OP66389c98 LOGS: Acc , 4 , -1 , 22
+OP66389c99 LOGS: Acc , 5 , 0 , 22
+OP66389c9b LOGS: Acc , 4 , -1 , 22
+OP66389c9c LOGS: Acc , 4 , 0 , 22
+OP66389c9d LOGS: Acc , 6 , 2 , 23
+OP66389c9d LOGS: Wheels , -200 , 200
+OP66389c9e LOGS: Acc , 5 , -1 , 22
+OP66389c9e LOGS: Wheels , 200 , 200
+OP66389c9f LOGS: Acc , 7 , 0 , 22
+OP66389ca0 LOGS: Acc , 5 , 0 , 22
+OP66389ca1 LOGS: Acc , 6 , 2 , 22
+OP66389ca2 LOGS: Acc , 10 , -1 , 23
+OP66389ca4 LOGS: Acc , 5 , 0 , 22
+OP66389ca5 LOGS: Acc , -5 , 0 , 23
+OP66389ca6 LOGS: Acc , 8 , 0 , 22
+OP66389ca6 LOGS: Wheels , -200 , 200
+OP66389ca7 LOGS: Acc , 6 , -2 , 22
+OP66389ca7 LOGS: Wheels , 200 , 200
+OP66389ca8 LOGS: Acc , 5 , -3 , 23
+OP66389caa LOGS: Acc , 6 , 0 , 22
+OP66389cab LOGS: Acc , 5 , 0 , 23
+OP66389cac LOGS: Acc , 4 , -2 , 22
+OP66389cad LOGS: Acc , 7 , 0 , 22
+OP66389caf LOGS: Acc , 6 , -2 , 22
+OP66389cb0 LOGS: Wheels , -200 , 200
+OP66389cb0 LOGS: Acc , 4 , 0 , 21
+OP66389cb1 LOGS: Wheels , 200 , 200
+OP66389cb2 LOGS: Acc , 5 , 0 , 22
+OP66389cb3 LOGS: Acc , 7 , 1 , 23
+OP66389cb4 LOGS: Acc , 6 , -1 , 23
+OP66389cb5 LOGS: Acc , 4 , 0 , 22
+OP66389cb7 LOGS: Acc , 5 , 0 , 21
+OP66389cb8 LOGS: Acc , 8 , -3 , 21
+OP66389cb9 LOGS: Wheels , -200 , 200
+OP66389cb9 LOGS: Acc , 4 , -1 , 22
+OP66389cba LOGS: Wheels , 200 , 200
+OP66389cba LOGS: Acc , 7 , 0 , 22
+WO66389cd5 
+WI66389cd5 
+WO66389cd6 
+WI66389d00 

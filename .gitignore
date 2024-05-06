@@ -9,6 +9,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore mp4
+*.mp4
+
+# Ignore tmp
+*.tmp
+
+# Ignore currently working on (word & excel)
+~$*.docx
+~$*.xlsx
+
 # Distribution / packaging
 .Python
 build/

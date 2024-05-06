@@ -1,0 +1,193 @@
+WO6638a29f 
+WI6638a2bb 
+OP6638a2bb Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6638a2bb     
+OP6638a2bb Line 1
+OP6638a2bc  --- Start of the program Bug_MyOrders.py --- 
+OP6638a2bd Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6638a2bd     
+OP6638a2bd Line 1
+OP6638a2be  --- Start of the program Bug_MyOrders.py --- 
+OP6638a2c1 LOGS: Acc , 1 , -2 , 24
+OP6638a2c5 LOGS: Acc , 2 , 0 , 24
+OP6638a2cb LOGS: Acc , 2 , 0 , 24
+OP6638a2d6 LOGS: Acc , 1 , -1 , 24
+OP6638a2d9 LOGS: Acc , 1 , -1 , 24
+OP6638a2e1 LOGS: Acc , 3 , 0 , 24
+OP6638a2e9 LOGS: Acc , 3 , 0 , 24
+OP6638a2eb LOGS: Acc , 2 , 0 , 24
+OP6638a2f3 LOGS: Acc , 2 , 2 , 24
+OP6638a305 LOGS: Acc , 2 , 1 , 24
+OP6638a31a LOGS: Acc , 1 , 0 , 24
+OP6638a320 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6638a320     
+OP6638a320 Line 1
+OP6638a321  --- Start of the program Bug_MyOrders.py --- 
+OP6638a326 LOGS: Acc , 2 , 0 , 24
+OP6638a33b LOGS: Acc , 2 , 0 , 24
+OP6638a345 LOGS: Acc , 4 , 0 , 24
+OP6638a347 LOGS: Acc , 2 , 0 , 24
+OP6638a34b LOGS: Acc , 3 , 0 , 24
+OP6638a352 LOGS: Acc , 2 , -1 , 24
+OP6638a356 LOGS: Acc , 2 , 1 , 24
+OP6638a35d  --- Start of the program Bug_MyOrders.py --- 
+OP6638a35e LOGS: Acc , 1 , -1 , 24
+OP6638a362 LOGS: Acc , 2 , 1 , 24
+OP6638a362  --- Start of the program Bug_MyOrders.py --- 
+OP6638a364 LOGS: Acc , 2 , 0 , 24
+OP6638a367 LOGS: Acc , 1 , 0 , 24
+OP6638a368 LOGS: Acc , 11 , 7 , 24
+OP6638a368 LOGS: forward , pressed
+OP6638a368 LOGS: forward , released
+OP6638a368 LOGS: Wheels , -255 , -255
+OP6638a368 LOGS: forward , pressed
+OP6638a368 LOGS: forward , released
+OP6638a368 LOGS: Acc , 8 , -1 , 22
+OP6638a36a LOGS: Acc , 8 , 2 , 20
+OP6638a36b LOGS: Acc , 4 , 0 , 21
+OP6638a36c LOGS: center , pressed
+OP6638a36c LOGS: Wheels , 0 , 0
+OP6638a36c LOGS: center , released
+OP6638a36d LOGS: backward , pressed
+OP6638a36d LOGS: backward , released
+OP6638a36e LOGS: Acc , 1 , 0 , 24
+OP6638a36e LOGS: forward , pressed
+OP6638a36e LOGS: Wheels , -255 , -255
+OP6638a36e LOGS: forward , released
+OP6638a36e LOGS: forward , pressed
+OP6638a36e LOGS: forward , released
+OP6638a36e LOGS: Acc , 5 , 1 , 21
+OP6638a36f LOGS: center , pressed
+OP6638a36f LOGS: Wheels , 0 , 0
+OP6638a36f LOGS: center , released
+OP6638a370 LOGS: Acc , 2 , -1 , 24
+OP6638a37a LOGS: Acc , 2 , 1 , 24
+OP6638a380 LOGS: forward , pressed
+OP6638a380 LOGS: Wheels , -255 , -255
+OP6638a380 LOGS: forward , released
+OP6638a380 LOGS: forward , pressed
+OP6638a380 LOGS: forward , released
+OP6638a381 LOGS: Acc , 5 , 1 , 22
+OP6638a381 LOGS: center , pressed
+OP6638a381 LOGS: Wheels , 0 , 0
+OP6638a381 LOGS: center , released
+OP6638a390 LOGS: Acc , 1 , 0 , 24
+OP6638a394 LOGS: Acc , 2 , -1 , 24
+OP6638a398 LOGS: Acc , -2 , -2 , 24
+OP6638a39a LOGS: Acc , 2 , -1 , 24
+OP6638a39e LOGS: Acc , 3 , -1 , 24
+OP6638a39f LOGS: Acc , 1 , 0 , 24
+OP6638a3a3 LOGS: Acc , 2 , 0 , 24
+OP6638a3b0 LOGS: Acc , 2 , 0 , 24
+OP6638a3b1  --- Start of the program Bug_MyOrders.py --- 
+OP6638a3b3 LOGS: forward , pressed
+OP6638a3b3 LOGS: Wheels , -255 , -255
+OP6638a3b3 LOGS: forward , released
+OP6638a3b3 LOGS: forward , pressed
+OP6638a3b3 LOGS: forward , released
+OP6638a3b4 LOGS: Acc , 5 , 0 , 22
+OP6638a3b5 LOGS: Acc , 6 , 3 , 23
+OP6638a3b5 LOGS: center , pressed
+OP6638a3b5 LOGS: Wheels , 0 , 0
+OP6638a3b5 LOGS: center , released
+OP6638a3b6 LOGS: Acc , 3 , 5 , 27
+OP6638a3b6 LOGS: backward , pressed
+OP6638a3b6 LOGS: backward , released
+OP6638a3b6 LOGS: right , pressed
+OP6638a3b6 LOGS: Wheels , 100 , -100
+OP6638a3b6 LOGS: right , released
+OP6638a3b7 LOGS: Acc , 4 , -1 , 22
+OP6638a3b9 LOGS: Acc , 4 , -1 , 23
+OP6638a3ba LOGS: center , pressed
+OP6638a3ba LOGS: Wheels , 0 , 0
+OP6638a3ba LOGS: Acc , 1 , 0 , 24
+OP6638a3c3 LOGS: Acc , 2 , 0 , 24
+OP6638a3d8 LOGS: Acc , 3 , 0 , 24
+OP6638a3da LOGS: Acc , 1 , -1 , 24
+OP6638a3de LOGS: Acc , 3 , 0 , 24
+OP6638a3e5 LOGS: Acc , 3 , 0 , 24
+OP6638a3e9 LOGS: Acc , 3 , -1 , 24
+OP6638a3eb LOGS: Acc , 2 , 0 , 24
+OP6638a3f0 LOGS: Acc , 1 , 0 , 24
+OP6638a3f7 LOGS: Acc , 1 , -1 , 24
+OP6638a3fa LOGS: Acc , 1 , 1 , 24
+OP6638a3fb  --- Start of the program Bug_MyOrders.py --- 
+OP6638a3fd LOGS: Acc , -2 , 1 , 25
+OP6638a3fd LOGS: forward , pressed
+OP6638a3fe LOGS: forward , released
+OP6638a3fe LOGS: Wheels , -255 , -255
+OP6638a3fe LOGS: forward , pressed
+OP6638a3fe LOGS: forward , released
+OP6638a3fe LOGS: Acc , 6 , 2 , 21
+OP6638a3ff LOGS: Acc , 8 , 0 , 23
+OP6638a400 LOGS: center , pressed
+OP6638a400 LOGS: Wheels , 0 , 0
+OP6638a400 LOGS: center , released
+OP6638a400 LOGS: backward , pressed
+OP6638a400 LOGS: Wheels , 255 , 255
+OP6638a401 LOGS: backward , released
+OP6638a401 LOGS: backward , pressed
+OP6638a401 LOGS: backward , released
+OP6638a401 LOGS: Acc , 4 , 0 , 22
+OP6638a403 LOGS: Acc , 4 , 1 , 24
+OP6638a403 LOGS: Wheels , 0 , 0
+OP6638a403 LOGS: center , released
+OP6638a405 LOGS: Acc , 4 , 0 , 24
+OP6638a406 LOGS: Acc , 1 , 0 , 24
+OP6638a409 LOGS: Acc , 3 , -2 , 24
+OP6638a40c LOGS: Acc , 2 , 0 , 24
+OP6638a415 LOGS: Acc , 1 , -1 , 24
+OP6638a416 LOGS: Acc , 2 , 0 , 24
+OP6638a419 LOGS: Acc , 3 , -1 , 24
+OP6638a41c LOGS: Acc , 3 , 0 , 24
+OP6638a428 LOGS: Acc , -3 , -2 , 24
+OP6638a428 LOGS: forward , pressed
+OP6638a428 LOGS: forward , released
+OP6638a428 LOGS: forward , pressed
+OP6638a428 LOGS: forward , released
+OP6638a428 LOGS: Acc , 5 , 0 , 22
+OP6638a429 LOGS: Acc , 9 , -1 , 22
+OP6638a42a LOGS: center , pressed
+OP6638a42a LOGS: Wheels , 0 , 0
+OP6638a42a LOGS: center , released
+OP6638a42b LOGS: backward , released
+OP6638a42b LOGS: Wheels , -255 , -255
+OP6638a42b LOGS: Acc , 7 , -2 , 22
+OP6638a42c LOGS: center , pressed
+OP6638a42c LOGS: Wheels , 0 , 0
+OP6638a42c LOGS: center , released
+OP6638a42d LOGS: Acc , 1 , 0 , 24
+OP6638a432 LOGS: Acc , 3 , -2 , 24
+OP6638a438 LOGS: Acc , 2 , 0 , 24
+OP6638a439 LOGS: Acc , 1 , 0 , 24
+OP6638a43a LOGS: Acc , 3 , 0 , 24
+OP6638a43d LOGS: Acc , 2 , -1 , 24
+OP6638a442 LOGS: Acc , 1 , -1 , 24
+OP6638a443 LOGS: Acc , 2 , 0 , 24
+OP6638a44d LOGS: Acc , 1 , -1 , 24
+WO6638a44d 
+WI6638a44e 
+WO6638a44e 
+OP6638a462 LOGS: Acc , -3 , -3 , 24
+OP6638a463 LOGS: Acc , 10 , 6 , 11
+OP6638a464 LOGS: Acc , 13 , -6 , 10
+OP6638a465 LOGS: Acc , 11 , -7 , 12
+OP6638a466 LOGS: Acc , 11 , -6 , 16
+OP6638a467 LOGS: Acc , 4 , -3 , 26
+OP6638a46e LOGS: Acc , 1 , -1 , 24
+OP6638a47b LOGS: Acc , 2 , -1 , 24
+OP6638a487 LOGS: Acc , 3 , -1 , 24
+OP6638a48e LOGS: Acc , 1 , 0 , 24
+OP6638a498 LOGS: Acc , 2 , -1 , 24
+OP6638a49b LOGS: Acc , 3 , 0 , 24
+OP6638a4a2 LOGS: Acc , 2 , 0 , 24
+OP6638a4a3 LOGS: Acc , 3 , 0 , 24
+OP6638a4a4 LOGS: Acc , 2 , 0 , 24
+OP6638a4a8 LOGS: Acc , 2 , 0 , 24
+OP6638a4aa LOGS: Acc , 2 , 0 , 24
+OP6638a4ad LOGS: Acc , 3 , 0 , 24
+OP6638a4b5 LOGS: Acc , 1 , -1 , 24
+WI6638a4bd 
+OP6638a4be LOGS: Acc , 3 , 0 , 24
+WO6638a4be 
+WI6638a4c4 

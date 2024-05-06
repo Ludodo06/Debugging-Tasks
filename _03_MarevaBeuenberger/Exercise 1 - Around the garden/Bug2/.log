@@ -1,1 +1,123 @@
 WO66322737 
+WO66389d11 
+WI66389d11 
+WO66389d11 
+WI66389d13 
+WO66389d13 
+WI66389d18 
+WO66389d18 
+WI66389d2f 
+OP66389d2f  --- Start of the program Bug2_Garden.py --- 
+OP66389d2f LOGS: Wheels , 250 , 250
+OP66389d30 LOGS: Acc , 4 , 0 , 21
+OP66389d31 LOGS: Acc , 4 , 3 , 22
+OP66389d32 LOGS: Acc , 7 , 0 , 22
+OP66389d34 LOGS: Acc , 7 , -4 , 22
+OP66389d36 LOGS: Acc , 6 , 2 , 21
+OP66389d37 LOGS: Acc , 6 , -4 , 21
+OP66389d37 LOGS: Wheels , 200 , -200
+OP66389d38 LOGS: Acc , 4 , 1 , 22
+OP66389d38 LOGS: Wheels , 250 , 250
+OP66389d39 LOGS: Acc , -7 , 1 , 23
+OP66389d3a LOGS: Acc , 8 , -3 , 22
+OP66389d3c LOGS: Acc , 4 , 1 , 22
+OP66389d3e LOGS: Acc , -4 , 0 , 23
+OP66389d3f LOGS: Acc , -4 , 1 , 23
+OP66389d40 LOGS: Wheels , 200 , -200
+OP66389d41 LOGS: Wheels , 250 , 250
+OP66389d42 LOGS: Acc , 9 , -2 , 21
+OP66389d43 LOGS: Acc , 6 , -2 , 23
+OP66389d44 LOGS: Acc , 6 , -2 , 22
+OP66389d45 LOGS: Acc , 4 , -3 , 23
+OP66389d46 LOGS: Acc , 5 , -1 , 23
+OP66389d47 LOGS: Acc , 6 , -1 , 21
+OP66389d48 LOGS: Acc , 6 , 1 , 22
+OP66389d49 LOGS: Wheels , 200 , -200
+OP66389d49 LOGS: Acc , 10 , 0 , 22
+OP66389d4a LOGS: Wheels , 250 , 250
+OP66389d7d  --- Start of the program Bug2_Garden.py --- 
+OP66389d7d LOGS: Wheels , 250 , -250
+OP66389d80 LOGS: Acc , 4 , 0 , 22
+OP66389d81 LOGS: Acc , 6 , -1 , 22
+OP66389d83 LOGS: Acc , 5 , -3 , 21
+OP66389d90  --- Start of the program Bug2_Garden.py --- 
+OP66389d91 LOGS: Wheels , 250 , 250
+OP66389d91 LOGS: Acc , 9 , -2 , 21
+OP66389d92 LOGS: Acc , 5 , -2 , 21
+OP66389d93 LOGS: Acc , -4 , 2 , 22
+OP66389d94 LOGS: Acc , 6 , 1 , 22
+OP66389d96 LOGS: Acc , 12 , -2 , 21
+OP66389d97 LOGS: Acc , -5 , 4 , 23
+OP66389d98 LOGS: Acc , -5 , -1 , 23
+OP66389d98 LOGS: Wheels , 200 , 200
+OP66389d9a LOGS: Wheels , 250 , 250
+OP66389d9a LOGS: Acc , 5 , 1 , 23
+OP66389d9b LOGS: Acc , -4 , 1 , 24
+OP66389d9d LOGS: Acc , 8 , 0 , 21
+OP66389d9d LOGS: Acc , 6 , 1 , 22
+OP66389dd4  --- Start of the program Bug2_Garden.py --- 
+OP66389dd4 LOGS: Wheels , 250 , 250
+OP66389dd6 LOGS: Acc , 13 , 2 , 22
+OP66389dd7 LOGS: Acc , 10 , 2 , 22
+OP66389dd9 LOGS: Acc , -9 , 1 , 23
+OP66389dda LOGS: Acc , 4 , 0 , 22
+OP66389ddb LOGS: Acc , 6 , -1 , 23
+OP66389ddc LOGS: Wheels , -200 , -200
+OP66389ddd LOGS: Acc , 7 , 0 , 23
+OP66389ddd LOGS: Acc , -5 , 2 , 23
+OP66389ddf LOGS: Acc , 7 , -1 , 22
+OP66389de0 LOGS: Acc , -5 , -1 , 23
+WO66389df4 
+WI66389e1d 
+OP66389e25  --- Start of the program Bug2_Garden.py --- 
+OP66389e25 LOGS: Wheels , 250 , 250
+OP66389e25 LOGS: Acc , 9 , 1 , 22
+OP66389e26 LOGS: Acc , 4 , 0 , 21
+OP66389e28 LOGS: Acc , -5 , 1 , 22
+OP66389e29 LOGS: Acc , 5 , 1 , 23
+OP66389e2a LOGS: Acc , 4 , 0 , 24
+OP66389e2b LOGS: Acc , -6 , -1 , 23
+OP66389e2c LOGS: Acc , -4 , -1 , 23
+OP66389e2d LOGS: Wheels , 200 , -200
+OP66389e2d LOGS: Acc , -5 , -2 , 23
+OP66389e2e LOGS: Wheels , 250 , 250
+OP66389e2e LOGS: Acc , 8 , -2 , 21
+OP66389e2f LOGS: Acc , 5 , 0 , 21
+OP66389e30 LOGS: Acc , 4 , -1 , 23
+OP66389e31  --- Start of the program Bug2_Garden.py --- 
+OP66389e32 LOGS: Wheels , 250 , 250
+OP66389e32 LOGS: Acc , 8 , 1 , 24
+OP66389ef7 LOGS: Wheels , 250 , 250
+OP66389ef7 LOGS: Acc , 5 , -2 , 23
+OP66389ef8 LOGS: Acc , -7 , -2 , 21
+OP66389ef9 LOGS: Acc , -5 , 2 , 23
+OP66389efb LOGS: Acc , -11 , 2 , 23
+OP66389efc LOGS: Acc , 5 , 0 , 21
+OP66389efd LOGS: Acc , 10 , 2 , 22
+OP66389efe LOGS: Acc , 10 , -1 , 22
+OP66389eff LOGS: Wheels , -200 , 200
+OP66389eff LOGS: Acc , 4 , 2 , 23
+OP66389f00 LOGS: Wheels , 250 , 250
+OP66389f00 LOGS: Acc , -4 , 1 , 23
+OP66389f01 LOGS: Acc , 14 , -2 , 21
+OP66389f02 LOGS: Acc , 5 , 2 , 23
+OP66389f03 LOGS: Acc , 6 , -3 , 21
+OP66389f04 LOGS: Acc , -13 , 1 , 24
+OP66389f06 LOGS: Acc , 5 , 1 , 22
+OP66389f07 LOGS: Acc , 5 , -1 , 21
+OP66389f08 LOGS: Wheels , -200 , 200
+OP66389f08 LOGS: Acc , 6 , 0 , 22
+OP66389f09 LOGS: Wheels , 250 , 250
+OP66389f09 LOGS: Acc , 9 , -2 , 22
+OP66389f0a LOGS: Acc , -6 , 1 , 23
+OP66389f0b LOGS: Acc , -7 , 4 , 24
+OP66389f0c LOGS: Acc , 5 , -3 , 21
+OP66389f0f LOGS: Acc , -4 , -1 , 24
+WO66389f1a 
+WI66389f1b 
+WO66389f1b 
+WI66389f8c 
+WO66389f8c 
+WI66389f8c 
+WO66389f8f 
+WI66389f97 
