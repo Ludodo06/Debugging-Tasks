@@ -1,24 +1,60 @@
-forward_time = 7800
-turn_time = 1100
-timer_period[0] = 100
-going_forward = False
+# Constants
+WALLS = 0
+LINE = 1
+STOP = 2
 
+# Start
+mode = WALLS
 
 @onevent
-def timer0():
-    global leds_top, going_forward, motor_left_target, motor_right_target
-    going_forward = not going_forward
-    if going_forward:
-        timer_period[0] = forward_time
-        nf_leds_top(0,32,0) # Green
-        motor_right_target = 250
-        motor_left_target = 250
-    else:
-        timer_period[0] = turn_time
-        nf_leds_top(32,16,0) # Orange
-        motor_right_target = 200
-        motor_left_target = -200
+def prox():
+    global mode, motor_left_target, motor_right_target
+    
+    if mode == WALLS:
+        nf_leds_top(32,0,0) # Red
+        steer = (prox_horizontal[0] - prox_horizontal[4])//20        # left: 0, right: 4
         
+        motor_left_target = 200 - steer
+        motor_right_target = 200 + steer
+        
+        if prox_ground_delta[0] < 1000 or prox_ground_delta[1] < 1000: # left: 0, right: 1
+            mode = LINE
+            
+    if mode == LINE:
+        nf_leds_top(0,0,32) # Blue
+        steer = prox_ground_delta[0] - prox_ground_delta[1]          # left: 0, right: 1
+        
+        motor_left_target = 200 - steer
+        motor_right_target = 200 + steer
+    
+    if mode == STOP:
+        nf_leds_top(0,32,0) # Green
+        motor_left_target = 0
+        motor_right_target = 0
+            
+@onevent
+def buttons():
+    global motor_left_target, motor_right_target, mode
+    if button_center:
+        motor_left_target = 0
+        motor_right_target = 0
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -43,7 +79,7 @@ def timer0():
 
 
 
-print(" --- Start of the program Bug2_Garden.py --- ")
+print(" --- Start of the program Bug_FinalTestV2.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True

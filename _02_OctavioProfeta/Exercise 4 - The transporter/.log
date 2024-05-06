@@ -1,2 +1,51 @@
 WI6632273a 
 WI6632273a 
+WO6633a647 
+WI6633a655 
+OP6633a65b Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP6633a67c  --- Start of the program Bug_TheTransporter.py --- 
+OP6633a67c LOGS: Wheels , 251 , 251
+OP6633a67c LOGS: Wheels , -251 , -251
+WO6633a689 
+WI6633a68e 
+OP6633a697  --- Start of the program Bug_TheTransporter.py --- 
+OP6633a697 LOGS: Wheels , -251 , -251
+OP6633a699 LOGS: Wheels , 251 , 251
+OP6633a69a LOGS: Wheels , -251 , -251
+OP6633a69b LOGS: Wheels , 251 , 251
+OP6633a69c LOGS: Wheels , -251 , -251
+OP6633a69c LOGS: Wheels , 251 , 251
+OP6633a69f LOGS: Wheels , -251 , -251
+OP6633a6a1 LOGS: Wheels , -251 , -251
+OP6633a6a2 LOGS: Wheels , 251 , 251
+OP6633a6a2 LOGS: Wheels , -251 , -251
+OP6633a6a2 LOGS: Wheels , 251 , 251
+OP6633a6a3 LOGS: Wheels , -251 , -251
+OP6633a6a4 LOGS: Wheels , 251 , 251
+OP6633a6ad LOGS: Wheels , -251 , -251
+OP6633a6af LOGS: Wheels , 251 , 251
+OP6633a6af LOGS: Wheels , -251 , -251
+OP6633a6b5 LOGS: Acc , 0 , -7 , 21
+OP6633a6e4 LOGS: Wheels , 251 , 251
+OP6633a6e4 LOGS: Wheels , -251 , -251
+OP6633a6e5  --- Start of the program Bug_TheTransporter.py --- 
+OP6633a6e5 LOGS: Wheels , 251 , 251
+OP6633a6e5 LOGS: Wheels , -251 , -251
+OP6633a71f  --- Start of the program Bug_TheTransporter.py --- 
+OP6633a71f LOGS: Wheels , 251 , 251
+OP6633a721 LOGS: Wheels , -251 , -251
+OP6633a722 LOGS: Wheels , 251 , 251
+OP6633a724 LOGS: Acc , -1 , 9 , 27
+OP6633a725 LOGS: Acc , 7 , 0 , 17
+OP6633a726 LOGS: Acc , -8 , -1 , 21
+OP6633a72c LOGS: Wheels , -251 , -251
+OP6633a72e LOGS: Acc , 4 , -3 , 21
+OP6633a732 LOGS: Wheels , 251 , 251
+OP6633a739 LOGS: Wheels , -251 , -251
+OP6633a73d LOGS: Acc , -3 , 7 , 19
+OP6633a73e LOGS: Acc , 2 , -7 , 18
+OP6633a73f LOGS: Wheels , 251 , 251
+WO6633a745 
+WI6633a746 
+WO6633a746 
+WI6633a8c0 

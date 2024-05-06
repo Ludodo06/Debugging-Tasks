@@ -1,4 +1,4 @@
-forward_time = 7800
+forward_time = 4000
 turn_time = 1100
 timer_period[0] = 100
 going_forward = False
@@ -11,24 +11,23 @@ def timer0():
     if going_forward:
         timer_period[0] = forward_time
         nf_leds_top(0,32,0) # Green
-        motor_right_target = 250
-        motor_left_target = 250
+        motor_right_target = 200
+        motor_left_target = 200
     else:
         timer_period[0] = turn_time
         nf_leds_top(32,16,0) # Orange
         motor_right_target = 200
         motor_left_target = -200
         
-
-
-
-
-
-
-
-
-
-
+        
+        
+  
+  
+  
+  
+  
+  
+  
 
 
 
@@ -43,7 +42,7 @@ def timer0():
 
 
 
-print(" --- Start of the program Bug2_Garden.py --- ")
+print(" --- Start of the program Bug1_Garden.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True

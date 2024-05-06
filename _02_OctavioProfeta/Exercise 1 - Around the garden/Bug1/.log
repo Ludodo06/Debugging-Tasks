@@ -1,0 +1,35 @@
+WO66339eba 
+WI66339ec2 
+WO66339ec7 
+WI66339f76 
+WO66339f77 
+WI66339f77 
+OP66339fd2  --- Start of the program Bug1_Garden.py --- 
+OP66339fd2 LOGS: Wheels , 200 , 200
+OP66339fd6 LOGS: Wheels , -200 , 200
+OP66339fd7 LOGS: Wheels , 200 , 200
+OP66339fdb LOGS: Wheels , -200 , 200
+OP66339fdc LOGS: Wheels , 200 , 200
+OP6633a00f  --- Start of the program Bug1_Garden.py --- 
+OP6633a00f LOGS: Wheels , 500 , 500
+OP6633a010 LOGS: Acc , 1 , -7 , 13
+OP6633a013 LOGS: Acc , 1 , 8 , 14
+OP6633a013 LOGS: Wheels , -200 , 200
+OP6633a014 LOGS: Wheels , 500 , 500
+OP6633a016 LOGS: Acc , 1 , -10 , 16
+OP6633a017 LOGS: Acc , 0 , 7 , 26
+OP6633a018 LOGS: Wheels , -200 , 200
+OP6633a019 LOGS: Wheels , 500 , 500
+OP6633a01a LOGS: Acc , 1 , -10 , 10
+OP6633a01b LOGS: Acc , 1 , -7 , 9
+OP6633a01d LOGS: Wheels , -200 , 200
+OP6633a01e LOGS: Wheels , 500 , 500
+OP6633a01f LOGS: Acc , 2 , -8 , 20
+OP6633a021 LOGS: Acc , -1 , -7 , 10
+OP6633a022 LOGS: Wheels , -200 , 200
+WO6633a034 
+WI6633a035 
+WO6633a035 
+WI6633a069 
+WO6633a072 
+WI6633a079 

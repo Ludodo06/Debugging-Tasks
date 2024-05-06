@@ -1,35 +1,49 @@
-# Make Thymio move (chose a value between -500 and 500)
-motor_left_target = -500
-motor_right_target = 500
-print(motor_left_target)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@onevent
+def buttons():                                     # Triggers everytime a button is pressed
+    
+    global motor_left_target, motor_right_target   # Usefull to modify global variables 
+    
+    if button_forward:                             # If the button is pressed
+        motor_left_target = 250                    # Then go forward with both wheels
+        motor_right_target = 250
+        
+        
+@onevent
+def prox():                                        # Triggers everytime there's an obstacle
+    
+    global motor_left_target, motor_right_target   # Usefull to modify global variables
+    
+    if prox_horizontal[2] > 2000:                  # If an obstacle is detected in front
+        motor_left_target = 0                      # Then stop the wheels
+        motor_right_target = 0
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #
@@ -39,7 +53,7 @@ print(motor_left_target)
 
 
 
-print(" --- Start of the program motors.py --- ")
+print(" --- Start of the program events.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True
@@ -65,7 +79,7 @@ def acc():
         # Update and print the new target
         left_last = motor_left_target
         right_last = motor_right_target
-        print("New target speed:\tleft", left_last, "\tright", right_last)
+        print("New target speed:\tleft", left_last, "   \tright", right_last)
         can_print_mot = False
         can_print_acc = False
         timer_period[1] = 400

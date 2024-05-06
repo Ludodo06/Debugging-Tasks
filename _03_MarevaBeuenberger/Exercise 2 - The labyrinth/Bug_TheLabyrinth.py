@@ -1,39 +1,109 @@
-forward_time = 7800
-turn_time = 1100
-timer_period[0] = 100
-going_forward = False
-
-
 @onevent
 def timer0():
-    global leds_top, going_forward, motor_left_target, motor_right_target
-    going_forward = not going_forward
-    if going_forward:
-        timer_period[0] = forward_time
-        nf_leds_top(0,32,0) # Green
-        motor_right_target = 250
-        motor_left_target = 250
-    else:
-        timer_period[0] = turn_time
-        nf_leds_top(32,16,0) # Orange
-        motor_right_target = 200
-        motor_left_target = -200
-        
+    global current_step
+    
+    if current_step == 0: go_forward()
+    if current_step == 1: pivot_right()
+    if current_step == 2: go_forward()
+    if current_step == 3: pivot_right()
+    if current_step == 4: go_forward()
+    if current_step == 5: pivot_left()
+    if current_step == 6: go_forward()
+    if current_step == 7: go_forward()
+    if current_step == 8: pivot_left()
+    if current_step == 9: go_forward()
+    if current_step = 10: pivot_left()
+    if current_step == 11: go_forward()
+    if current_step == 12: pivot_right()
+    if current_step == 13: go_forward()
+    if current_step == 14: pivot_right()
+    if current_step == 15: go_forward()
+    if current_step == 16: pivot_right()
+    if current_step == 17: go_forward()
+    if current_step == 18: pivot_left()
+    if current_step == 19: go_forward()
+    if current_step == 20: pivot_left()
+    if current_step == 21: go_forward()
+    if current_step == 22: stop()
+    
+    
+    
+    
+    
+    
+# ---------------------------- #  
+# ---------------------------- #  
+# ---------------------------- #  
+# ---------------------------- #    
+# DO NOT MODIFY THE CODE BELOW #
+    current_step += 1
 
+timer_period[0] = 100
+current_step = 0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+def go_forward():
+    global motor_left_target, motor_right_target, timer_period
+    timer_period[0] = 2500
+    nf_leds_top(0,32,0)
+    motor_left_target = 300
+    motor_right_target = 300
+    
+def pivot_left():
+    global motor_left_target, motor_right_target, timer_period
+    timer_period[0] = 1500
+    nf_leds_top(32,16,0)
+    motor_left_target = -150
+    motor_right_target = 150
+    
+def pivot_right():
+    global motor_left_target, motor_right_target, timer_period
+    timer_period[0] = 1500
+    nf_leds_top(32,16,0)
+    motor_left_target = 150
+    motor_right_target = -150
+    
+def stop():
+    global motor_left_target, motor_right_target
+    nf_leds_top(0,0,0)
+    motor_left_target = 0
+    motor_right_target = 0
+    
+# DO NOT MODIFY THE CODE ABOVE #
+# ---------------------------- #  
+# ---------------------------- #  
+# ---------------------------- #  
+# ---------------------------- #  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #
@@ -43,7 +113,7 @@ def timer0():
 
 
 
-print(" --- Start of the program Bug2_Garden.py --- ")
+print(" --- Start of the program Bug_TheLabyrinth.py --- ")
         
 # To avoid flood, can print once every second if manipulated
 can_print_acc = True

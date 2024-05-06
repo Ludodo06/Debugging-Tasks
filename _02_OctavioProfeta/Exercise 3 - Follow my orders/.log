@@ -1,0 +1,176 @@
+WO6633a35c 
+OP6633a388 LOGS: Acc , 0 , -2 , 27
+OP6633a389 LOGS: Acc , -1 , 8 , 11
+OP6633a38a LOGS: Acc , 0 , 16 , 13
+OP6633a38b LOGS: Acc , -2 , 15 , 13
+WI6633a3a1 
+WO6633a3d4 
+WI6633a3da 
+OP6633a3e1 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6633a3e1     
+OP6633a3e1 Line 1
+OP6633a3e1  --- Start of the program Bug_MyOrders.py --- 
+OP6633a3eb Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6633a3eb     
+OP6633a3eb Line 1
+OP6633a3eb  --- Start of the program Bug_MyOrders.py --- 
+OP6633a3f2 LOGS: forward , pressed
+OP6633a3f2 LOGS: Wheels , -255 , 0
+OP6633a3f3 LOGS: forward , released
+OP6633a3f5 LOGS: Acc , 0 , -2 , 15
+OP6633a3f8 LOGS: Acc , 1 , 0 , 24
+OP6633a3fa LOGS: Acc , 0 , -1 , 16
+OP6633a3fb LOGS: Acc , 1 , 0 , 24
+OP6633a3fc LOGS: center , pressed
+OP6633a3fc LOGS: center , released
+OP6633a3fc LOGS: Wheels , 0 , 0
+OP6633a442 LOGS: forward , pressed
+OP6633a442 LOGS: forward , released
+OP6633a442 LOGS: Acc , 0 , -2 , 15
+OP6633a446 LOGS: Acc , 0 , 0 , 16
+OP6633a448 LOGS: forward , pressed
+OP6633a448 LOGS: forward , released
+OP6633a448 LOGS: Acc , 0 , 1 , 16
+OP6633a448 LOGS: forward , pressed
+OP6633a448 LOGS: forward , released
+OP6633a449 LOGS: forward , pressed
+OP6633a449 LOGS: forward , released
+OP6633a44a LOGS: Acc , 0 , -1 , 15
+OP6633a44a LOGS: center , pressed
+OP6633a44a LOGS: right , pressed
+OP6633a44a LOGS: right , released
+OP6633a44a LOGS: Wheels , 0 , 0
+OP6633a44a LOGS: center , released
+OP6633a44c LOGS: Acc , 2 , 3 , 14
+OP6633a44e LOGS: Acc , -5 , 10 , 16
+OP6633a450 LOGS: Acc , 4 , 16 , 10
+OP6633a451 LOGS: Acc , 0 , 19 , 7
+OP6633a452 LOGS: Acc , 0 , 20 , 4
+OP6633a453 LOGS: Acc , 0 , 20 , 5
+OP6633a454 LOGS: Acc , 0 , 19 , 5
+OP6633a455 LOGS: Acc , 0 , 19 , 4
+OP6633a456 LOGS: Acc , 0 , 19 , 5
+OP6633a457 LOGS: Acc , 0 , 19 , 5
+OP6633a458 LOGS: Acc , -1 , 21 , 5
+OP6633a459 LOGS: forward , pressed
+OP6633a45a LOGS: forward , released
+OP6633a45a LOGS: Wheels , -255 , 0
+OP6633a45a LOGS: forward , pressed
+OP6633a45a LOGS: forward , released
+OP6633a45a LOGS: Acc , -2 , 0 , 16
+OP6633a45b LOGS: center , pressed
+OP6633a45b LOGS: Wheels , 0 , 0
+OP6633a45b LOGS: center , released
+OP6633a45b LOGS: center , pressed
+OP6633a45b LOGS: center , released
+OP6633a45c LOGS: Acc , 1 , 0 , 15
+OP6633a470 LOGS: right , pressed
+OP6633a470 LOGS: Wheels , 100 , 0
+OP6633a470 LOGS: right , released
+OP6633a475 LOGS: left , pressed
+OP6633a475 LOGS: left , released
+OP6633a476 LOGS: Wheels , -100 , 0
+OP6633a479 LOGS: center , pressed
+OP6633a479 LOGS: center , released
+OP6633a479 LOGS: Wheels , 0 , 0
+OP6633a47a LOGS: backward , pressed
+OP6633a47a LOGS: backward , released
+OP6633a47b LOGS: backward , pressed
+OP6633a47b LOGS: backward , released
+OP6633a47f LOGS: left , pressed
+OP6633a47f LOGS: left , released
+OP6633a47f LOGS: Wheels , -100 , 0
+OP6633a480 LOGS: right , pressed
+OP6633a480 LOGS: Wheels , 100 , 0
+OP6633a480 LOGS: right , released
+OP6633a482 LOGS: left , pressed
+OP6633a482 LOGS: Wheels , -100 , 0
+OP6633a482 LOGS: left , released
+OP6633a48b LOGS: center , pressed
+OP6633a48b LOGS: center , released
+OP6633a48b LOGS: Wheels , 0 , 0
+OP6633a49e LOGS: Acc , 0 , 3 , 15
+OP6633a49f LOGS: forward , pressed
+OP6633a49f LOGS: Wheels , -255 , 0
+OP6633a49f LOGS: forward , released
+OP6633a4a0 LOGS: Acc , 0 , 0 , 16
+OP6633a4a1 LOGS: Acc , 2 , 0 , 24
+OP6633a4a1 LOGS: right , pressed
+OP6633a4a1 LOGS: right , released
+OP6633a4a1 LOGS: Wheels , 100 , 0
+OP6633a4a5 LOGS: right , pressed
+OP6633a4a5 LOGS: right , released
+OP6633a4a6 LOGS: left , pressed
+OP6633a4a6 LOGS: Wheels , -100 , 0
+OP6633a4a6 LOGS: left , released
+OP6633a4a8 LOGS: right , pressed
+OP6633a4a8 LOGS: right , released
+OP6633a4a8 LOGS: Wheels , 100 , 0
+OP6633a4aa LOGS: left , pressed
+OP6633a4aa LOGS: left , released
+OP6633a4aa LOGS: Wheels , -100 , 0
+OP6633a4ab LOGS: center , pressed
+OP6633a4ab LOGS: center , released
+OP6633a4ed  --- Start of the program Bug_MyOrders.py --- 
+OP6633a4f1 LOGS: right , pressed
+OP6633a4f1 LOGS: Wheels , 100 , -100
+OP6633a4f1 LOGS: right , released
+OP6633a4f7 LOGS: left , pressed
+OP6633a4f7 LOGS: left , released
+OP6633a4f7 LOGS: Wheels , -100 , 100
+OP6633a4fa LOGS: center , pressed
+OP6633a4fa LOGS: center , released
+OP6633a4fa LOGS: Wheels , 0 , 0
+OP6633a4ff LOGS: forward , pressed
+OP6633a4ff LOGS: Wheels , -255 , -255
+OP6633a4ff LOGS: forward , released
+OP6633a501 LOGS: center , pressed
+OP6633a501 LOGS: center , released
+OP6633a501 LOGS: Wheels , 0 , 0
+OP6633a511  --- Start of the program Bug_MyOrders.py --- 
+OP6633a513 LOGS: forward , pressed
+OP6633a513 LOGS: forward , released
+OP6633a513 LOGS: Wheels , 255 , 255
+OP6633a516 LOGS: backward , pressed
+OP6633a516 LOGS: backward , released
+OP6633a516 LOGS: Wheels , -255 , -255
+OP6633a517 LOGS: Acc , 4 , -6 , 28
+OP6633a519 LOGS: center , pressed
+OP6633a519 LOGS: center , released
+OP6633a519 LOGS: Wheels , 0 , 0
+OP6633a51a LOGS: left , pressed
+OP6633a51a LOGS: left , released
+OP6633a51a LOGS: Wheels , -100 , 100
+OP6633a51c LOGS: center , pressed
+OP6633a51c LOGS: center , released
+OP6633a51c LOGS: Wheels , 0 , 0
+OP6633a51c LOGS: right , pressed
+OP6633a51c LOGS: right , released
+OP6633a51c LOGS: Wheels , 100 , -100
+OP6633a51d LOGS: center , pressed
+OP6633a51d LOGS: center , released
+OP6633a51d LOGS: Wheels , 0 , 0
+OP6633a51e LOGS: forward , pressed
+OP6633a51e LOGS: Wheels , 255 , 255
+OP6633a51e LOGS: forward , released
+OP6633a520 LOGS: center , pressed
+OP6633a521 LOGS: Wheels , 0 , 0
+OP6633a521 LOGS: center , released
+WO6633a525 
+WI6633a526 
+WO6633a526 
+WI6633a532 
+WO6633a570 
+WI6633a5dd 
+WO6633a5de 
+WI6633a5e1 
+WO6633a5e1 
+WI6633a5f4 
+WO6633a5f4 
+WI6633a5fd 
+WO6633a5fe 
+WI6633a605 
+WO6633a8c8 
+WI6633a8ce 
+WO6633a8d5 
+WI6633a8e3 

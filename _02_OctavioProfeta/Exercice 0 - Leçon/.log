@@ -1,0 +1,157 @@
+WO66339cbb 
+WI66339cc7 
+WO66339cc8 
+WI66339cc8 
+WO66339cc8 
+WI66339cc9 
+UD66339ce3 
+UD66339ce3 
+OP66339cf6  --- Start of the program motors.py --- 
+OP66339cf6 New target speed:	left 500 	right 500
+OP66339d03  --- Start of the program motors.py --- 
+OP66339d0b  --- Start of the program motors.py --- 
+OP66339d0b New target speed:	left -500 	right 500
+OP66339d0c Thymio manipulated: 	x -2 		y -7 		z 10
+OP66339d0d Thymio manipulated: 	x -2 		y 8 		z 16
+WO66339d0f 
+WI66339d1c 
+OP66339d3b -500
+OP66339d3b  --- Start of the program motors.py --- 
+OP66339d3b New target speed:	left -500 	right 500
+OP66339d3c Thymio manipulated: 	x 0 		y -8 		z 4
+OP66339d3e Thymio manipulated: 	x 0 		y 8 		z 13
+OP66339d3f Thymio manipulated: 	x 0 		y -10 		z 7
+OP66339d43 Thymio manipulated: 	x -5 		y 0 		z -7
+OP66339d44 Thymio manipulated: 	x -12 		y 6 		z -9
+OP66339d45 Thymio manipulated: 	x 5 		y -5 		z 15
+OP66339d47 -500
+OP66339d47  --- Start of the program motors.py --- 
+OP66339d47 New target speed:	left -500 	right 500
+OP66339d48 Thymio manipulated: 	x 2 		y -7 		z 19
+WO66339d4e 
+WI66339d5c 
+WO66339d5d 
+WI66339d60 
+WO66339d62 
+WI66339d65 
+OP66339d6f  --- Start of the program leds.py --- 
+OP66339d75  --- Start of the program leds.py --- 
+OP66339d7d  --- Start of the program leds.py --- 
+WO66339d82 
+WI66339d8f 
+WO66339d92 
+WI66339da4 
+WO66339daa 
+WI66339dad 
+WO66339dc0 
+WI66339dc3 
+WO66339dd9 
+WI66339dde 
+WO66339dee 
+WI66339def 
+OP66339df6  --- Start of the program prox.py --- 
+OP66339df6 0
+OP66339df6 0
+OP66339df6 0
+OP66339df6 0
+OP66339df6 0
+OP66339df6 0
+OP66339df6 0
+OP66339df6 0
+OP66339df7 0
+OP66339df7 0
+OP66339df7 0
+OP66339df7 0
+OP66339df7 0
+OP66339df7 0
+OP66339df7 0
+OP66339df7 0
+OP66339df7 0
+OP66339df8 3064
+OP66339df8 4165
+OP66339df8 4182
+OP66339df8 4194
+OP66339df8 4193
+OP66339df8 4195
+OP66339df8 4189
+OP66339df8 4184
+OP66339df8 4179
+OP66339df8 2987
+OP66339df9 3051
+OP66339df9 3007
+OP66339df9 2936
+OP66339df9 2966
+OP66339df9 3076
+OP66339df9 3156
+OP66339df9 3443
+OP66339df9 4083
+OP66339df9 4194
+OP66339df9 4174
+OP66339dfa 4180
+OP66339dfa 4178
+OP66339dfa 4183
+OP66339dfa 4178
+OP66339dfa 4181
+OP66339dfa 4175
+OP66339dfa 4185
+OP66339dfa 4186
+OP66339dfb 4185
+OP66339dfb 3143
+OP66339dfb 1959
+OP66339dfb 1295
+OP66339dfb 0
+OP66339dfb 0
+OP66339dfb 0
+OP66339dfb 0
+OP66339dfb 0
+OP66339dfb 1721
+OP66339dfc 2382
+OP66339dfc 4136
+OP66339dfc 4164
+OP66339dfc 4177
+OP66339dfc 4116
+OP66339dfc 0
+OP66339dfc 0
+OP66339dfc 0
+OP66339dfc 0
+OP66339dfc 0
+OP66339dfd 0
+OP66339dfd 0
+OP66339dfd 0
+OP66339dfd 0
+OP66339dfd 0
+OP66339dfd 0
+OP66339dfd 0
+OP66339dfd 0
+OP66339dfe 0
+OP66339dfe 0
+WO66339dff 
+WI66339e0f 
+WO66339e14 
+WI66339e17 
+OP66339e28  --- Start of the program events.py --- 
+OP66339e2a Button pressed: 	button_forward
+OP66339e2a Button pressed: 	button_forward
+OP66339e2a New target speed:	left 250    	right 250
+OP66339e2f Thymio manipulated: 	x 0 		y -8 		z 9
+OP66339e30 New target speed:	left 0    	right 0
+OP66339e35 Thymio manipulated: 	x -2 		y 0 		z 13
+OP66339e36 Button pressed: 	button_forward
+OP66339e36 Button pressed: 	button_forward
+OP66339e36 New target speed:	left 250    	right 250
+OP66339e37 New target speed:	left 0    	right 0
+OP66339e3d Thymio manipulated: 	x 2 		y 1 		z 15
+WO66339e4e 
+WI66339e6c 
+WO66339e6e 
+WI66339e6e 
+WO66339e71 
+WI66339e76 
+WO66339e77 
+WI66339e7e 
+WO66339e80 
+WI66339e88 
+WO66339e8b 
+WI66339ea2 
+WO66339ea4 
+WI66339eb8 
