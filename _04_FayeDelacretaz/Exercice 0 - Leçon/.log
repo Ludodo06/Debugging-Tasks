@@ -10,3 +10,23 @@ OP6639ea97     @onevent
 OP6639ea97 NameError: name 'onevent' is not defined
 OP6639ea97 >>> 
 RN6639ea97 
+OP6639eab7 Python 3.7.9 (bundled)
+OP6639eab7 >>> 
+OP6639eaba 100
+OP6639eaba  --- Start of the program motors.py --- 
+OP6639eaba New target speed:	left 100 	right 100
+OP6639eabc Thymio manipulated: 	x 0 		y 8 		z 19
+OP6639eacc 100
+OP6639eacc  --- Start of the program motors.py --- 
+OP6639eacc New target speed:	left 100 	right -100
+OP6639ead2 100
+OP6639ead2  --- Start of the program motors.py --- 
+OP6639ead2 New target speed:	left 100 	right -100
+OP6639ead9 100
+OP6639eade 100
+OP6639eade  --- Start of the program motors.py --- 
+OP6639eade New target speed:	left 100 	right 0
+WO6639eae1 
+WI6639eae8 
+WO6639eaeb 
+WI6639eaee 
