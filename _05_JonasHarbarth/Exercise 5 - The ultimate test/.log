@@ -222,3 +222,12 @@ OP663a222b  --- Start of the program Bug_FinalTestV2.py ---
 CP663a2275 
 PS663a227a 
 PS663a227a 
+OP663a2298  --- Start of the program Bug_FinalTestV2.py --- 
+OP663a22b9 LOGS: forward , pressed
+OP663a22b9 LOGS: forward , released
+OP663a22c0 LOGS: backward , pressed
+OP663a22c0 LOGS: backward , released
+OP663a22c1 LOGS: right , pressed
+OP663a22c1 LOGS: right , released
+OP663a22c1 LOGS: right , pressed
+OP663a22c1 LOGS: right , released
