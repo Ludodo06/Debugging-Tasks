@@ -11,3 +11,11 @@ OP6639ee24 Thymio manipulated: 	x 22 		y -5 		z -25
 OP6639ee25 Thymio manipulated: 	x -2 		y -2 		z 9
 OP6639ee4f Thymio manipulated: 	x 0 		y 6 		z 16
 WI6639ee69 
+OP6639eed1 Thymio manipulated: 	x -2 		y 2 		z 24
+OP6639eed2 Thymio manipulated: 	x 14 		y -1 		z 9
+OP6639eed4 Thymio manipulated: 	x -13 		y -8 		z 12
+OP6639eed7  --- Start of the program Bug1_Garden.py --- 
+OP6639eed8 LOGS: Wheels , 200 , 200
+OP6639eedc LOGS: Wheels , -200 , 200
+OP6639eedd LOGS: Wheels , 200 , 200
+OP6639eee2 LOGS: Wheels , 200 , 200
