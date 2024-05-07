@@ -6,3 +6,15 @@ OP663a10d6 LOGS: Wheels , -200 , 200
 OP663a10d7 LOGS: Wheels , 200 , 200
 OP663a1191  --- Start of the program Bug1_Garden.py --- 
 OP663a1191 LOGS: Wheels , 200 , 200
+OP663a1195 LOGS: Wheels , -200 , 200
+OP663a1196 LOGS: Wheels , 200 , 200
+OP663a1197 LOGS: Acc , 4 , -9 , 26
+OP663a1198 LOGS: Acc , 5 , -17 , 9
+OP663a1198 LOGS: center , pressed
+OP663a1199 LOGS: center , released
+OP663a1199 LOGS: Acc , 4 , -1 , 16
+OP663a119a LOGS: center , released
+OP663a119a LOGS: Acc , 5 , -8 , 11
+OP663a119b LOGS: Acc , 7 , -13 , 14
+OP663a119b LOGS: Wheels , 200 , 200
+OP663a119c LOGS: Acc , -11 , -21 , 8
