@@ -57,3 +57,31 @@ OP663a166a LOGS: center , pressed
 OP663a166a LOGS: Wheels , 0 , 0
 OP663a166a LOGS: center , released
 OP663a166b LOGS: Acc , 0 , 0 , 12
+OP663a170c Error: unknown variable 'button_backwards'
+OP663a170c     
+OP663a170c Line 20
+OP663a1717  --- Start of the program Bug_MyOrders.py --- 
+OP663a171b LOGS: forward , pressed
+OP663a171b LOGS: forward , released
+OP663a171b LOGS: Wheels , 255 , 255
+OP663a171c LOGS: center , pressed
+OP663a171c LOGS: Wheels , 0 , 0
+OP663a171c LOGS: center , released
+OP663a171d LOGS: backward , pressed
+OP663a171d LOGS: Wheels , -255 , -255
+OP663a171d LOGS: backward , released
+OP663a1720 LOGS: Acc , 0 , -10 , 20
+OP663a1720 LOGS: center , pressed
+OP663a1720 LOGS: Wheels , 0 , 0
+OP663a1720 LOGS: center , released
+OP663a1722 LOGS: right , pressed
+OP663a1722 LOGS: Wheels , 100 , -100
+OP663a1722 LOGS: right , released
+OP663a1724 LOGS: center , pressed
+OP663a1724 LOGS: Wheels , 0 , 0
+OP663a1724 LOGS: center , released
+OP663a1724 LOGS: left , pressed
+OP663a1724 LOGS: left , released
+OP663a1727 LOGS: center , pressed
+OP663a1727 LOGS: center , released
+OP663a1727 LOGS: Wheels , 0 , 0
