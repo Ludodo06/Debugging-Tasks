@@ -26,6 +26,9 @@ def prox():
         
         motor_left_target = 200 - steer
         motor_right_target = 200 + steer
+        
+        if button_center:
+            
     
     if mode == STOP:
         nf_leds_top(0,32,0) # Green
