@@ -4,11 +4,11 @@ def prox():
     # Use print here to show the proximity sensors' values
     # print(...)
     
-    print(prox_horizontal[0])
+   #print(prox_horizontal[0])
     
     # You can also print the ground sensors here
     # print(...)
-    
+    print(prox_ground_delta[0])
     
     
     pass
