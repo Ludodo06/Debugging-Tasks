@@ -98,3 +98,15 @@ OP663a20a9 NameError: name 'onevent' is not defined
 OP663a20a9 >>> 
 RN663a20a9 
 OP663a20ac  --- Start of the program Bug_FinalTestV2.py --- 
+OP663a20dd %Run Bug_FinalTestV2.py
+OP663a20dd Traceback (most recent call last):
+OP663a20dd   
+OP663a20dd File "C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_05_JonasHarbarth\Exercise 5 - The ultimate test\Bug_FinalTestV2.py", line 9, in <module>
+OP663a20dd     @onevent
+OP663a20dd NameError: name 'onevent' is not defined
+OP663a20dd >>> 
+RN663a20dd 
+WO663a20e2 
+WI663a20e4 
+OP663a20e5  --- Start of the program Bug_FinalTestV2.py --- 
+OP663a20f1  --- Start of the program Bug_FinalTestV2.py --- 
