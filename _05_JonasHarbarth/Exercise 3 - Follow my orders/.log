@@ -39,3 +39,21 @@ OP663a1640 LOGS: forward , pressed
 OP663a1640 LOGS: Wheels , -255 , 0
 OP663a1640 LOGS: forward , released
 OP663a1641 LOGS: Acc , 0 , 0 , 16
+OP663a1642 LOGS: center , pressed
+OP663a1642 LOGS: center , released
+OP663a1643 LOGS: backward , pressed
+OP663a1643 LOGS: backward , released
+OP663a1643 LOGS: backward , pressed
+OP663a1643 LOGS: backward , released
+OP663a1645 LOGS: backward , pressed
+OP663a1645 LOGS: backward , released
+OP663a1647 LOGS: Acc , 0 , 0 , 12
+OP663a1648 LOGS: Acc , 0 , 4 , 15
+OP663a1668 LOGS: forward , pressed
+OP663a1668 LOGS: forward , released
+OP663a1668 LOGS: Wheels , -255 , 0
+OP663a1669 LOGS: Acc , 1 , 0 , 24
+OP663a166a LOGS: center , pressed
+OP663a166a LOGS: Wheels , 0 , 0
+OP663a166a LOGS: center , released
+OP663a166b LOGS: Acc , 0 , 0 , 12
