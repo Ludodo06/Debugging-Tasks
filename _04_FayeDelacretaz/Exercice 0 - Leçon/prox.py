@@ -10,7 +10,6 @@ def prox():
     # print(...)
     print(prox_ground_delta[0])
     
-    
     pass
 
 
