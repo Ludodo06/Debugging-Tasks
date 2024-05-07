@@ -3,3 +3,20 @@ WI6639f0a9
 WO6639f0ab 
 WI6639f0ae 
 WO6639f0b1 
+WI6639f134 
+OP6639f134 Error: invalid syntax
+OP6639f134     
+OP6639f134 Line 15
+OP6639f148  --- Start of the program Bug_TheLabyrinth.py --- 
+OP6639f148 LOGS: Wheels , 300 , 300
+OP6639f14a LOGS: Wheels , 150 , -150
+OP6639f14c LOGS: Wheels , 300 , 300
+OP6639f14e LOGS: Acc , 1 , -7 , 17
+OP6639f14e LOGS: Wheels , 150 , -150
+OP6639f14f LOGS: Acc , 5 , -4 , 20
+OP6639f150 LOGS: Wheels , 300 , 300
+OP6639f151 LOGS: Acc , 5 , -5 , 16
+OP6639f152 LOGS: Wheels , -150 , 150
+OP6639f154 LOGS: Wheels , 300 , 300
+OP6639f159 LOGS: Wheels , -150 , 150
+OP6639f15b LOGS: Wheels , 300 , 300
