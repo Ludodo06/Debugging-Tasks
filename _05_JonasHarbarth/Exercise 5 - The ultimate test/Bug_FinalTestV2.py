@@ -4,7 +4,7 @@ LINE = 1
 STOP = 2
 
 # Start
-mode = WALLS
+mode = 1
 
 @onevent
 def prox():
