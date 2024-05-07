@@ -4,3 +4,9 @@ WO663a17b1
 WI663a17d0 
 OP663a1822 LOGS: Acc , 2 , -1 , 13
 OP663a182a Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP663a1845  --- Start of the program Bug_TheTransporter.py --- 
+OP663a1845 LOGS: Wheels , 251 , 251
+OP663a1845 LOGS: Wheels , -251 , -251
+OP663a1847 LOGS: center , pressed
+OP663a1847 LOGS: center , released
+OP663a184a LOGS: Acc , 1 , -8 , 21
