@@ -1,0 +1,12 @@
+OP6639ea96 %cd 'C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_04_FayeDelacretaz\Exercice 0 - Leçon'
+OP6639ea96 %Run motors.py
+OP6639ea96 >>> 
+OP6639ea96 100
+OP6639ea96  --- Start of the program motors.py --- 
+OP6639ea97 Traceback (most recent call last):
+OP6639ea97   
+OP6639ea97 File "C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_04_FayeDelacretaz\Exercice 0 - Leçon\motors.py", line 60, in <module>
+OP6639ea97     @onevent
+OP6639ea97 NameError: name 'onevent' is not defined
+OP6639ea97 >>> 
+RN6639ea97 
