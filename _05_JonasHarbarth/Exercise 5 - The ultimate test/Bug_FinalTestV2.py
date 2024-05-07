@@ -19,7 +19,7 @@ def prox():
         
         print(prox_ground_delta[0])
         
-        if prox_ground_delta[0] < 1000 or prox_ground_delta[1] < 1000: # left: 0, right: 1
+        if prox_ground_delta[0] < 500 or prox_ground_delta[1] < 500: # left: 0, right: 1
             mode = LINE
             
     if mode == LINE:
