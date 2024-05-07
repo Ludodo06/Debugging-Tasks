@@ -37,6 +37,7 @@ def prox():
 def buttons():
     global motor_left_target, motor_right_target, mode
     if button_center:
+        mode = STOP
         motor_left_target = 0
         motor_right_target = 0
  
