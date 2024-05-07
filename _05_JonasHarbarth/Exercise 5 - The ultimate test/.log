@@ -51,3 +51,13 @@ UD663a1d97
 UD663a1d97 
 UD663a1d98 
 UD663a1d98 
+OP663a2025 %Run Bug_FinalTestV2.py
+OP663a2026 Traceback (most recent call last):
+OP663a2026   
+OP663a2026 File "C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_05_JonasHarbarth\Exercise 5 - The ultimate test\Bug_FinalTestV2.py", line 9, in <module>
+OP663a2026     @onevent
+OP663a2026 NameError: name 'onevent' is not defined
+OP663a2026 >>> 
+RN663a2026 
+WO663a2033 
+WI663a2035 
