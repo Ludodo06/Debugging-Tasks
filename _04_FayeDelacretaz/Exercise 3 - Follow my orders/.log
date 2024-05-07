@@ -70,3 +70,10 @@ WO6639f2c8
 WI6639f2c8 
 WO6639f2c8 
 WI6639f2d5 
+OP6639f2da LOGS: Acc , 0 , 7 , 16
+OP6639f2fa LOGS: forward , pressed
+OP6639f2fa LOGS: forward , released
+OP6639f2fa LOGS: Wheels , 255 , 255
+OP6639f2fb LOGS: center , pressed
+OP6639f2fb LOGS: Wheels , 0 , 0
+OP6639f2fb LOGS: center , released
