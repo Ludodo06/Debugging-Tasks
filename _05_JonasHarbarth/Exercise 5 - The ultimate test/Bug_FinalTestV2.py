@@ -4,7 +4,7 @@ LINE = 1
 STOP = 2
 
 # Start
-mode = 1
+mode = WALLS
 
 @onevent
 def prox():
@@ -26,7 +26,6 @@ def prox():
         
         motor_left_target = 200 - steer
         motor_right_target = 200 + steer
-       
     
     if mode == STOP:
         nf_leds_top(0,32,0) # Green
