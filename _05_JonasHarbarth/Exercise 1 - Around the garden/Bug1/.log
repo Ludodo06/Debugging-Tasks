@@ -31,3 +31,13 @@ OP663a120d LOGS: Wheels , -200 , 200
 OP663a120f LOGS: Acc , 0 , -8 , 27
 OP663a1210 LOGS: Acc , -7 , -18 , -1
 OP663a1211 LOGS: Acc , -9 , -18 , -5
+OP663a1212 LOGS: Acc , -9 , -18 , -7
+OP663a1212 LOGS: Wheels , 200 , 200
+OP663a1213 LOGS: Acc , -10 , -18 , -4
+OP663a1214 LOGS: Acc , -17 , -6 , -13
+OP663a123d  --- Start of the program Bug1_Garden.py --- 
+OP663a123d LOGS: Wheels , 200 , 200
+OP663a1245 LOGS: Wheels , -200 , 200
+OP663a1246 LOGS: Wheels , 200 , 200
+OP663a124e LOGS: Wheels , -200 , 200
+OP663a124f LOGS: Wheels , 200 , 200
