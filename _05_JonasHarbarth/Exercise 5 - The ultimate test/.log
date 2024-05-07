@@ -231,3 +231,51 @@ OP663a22c1 LOGS: right , pressed
 OP663a22c1 LOGS: right , released
 OP663a22c1 LOGS: right , pressed
 OP663a22c1 LOGS: right , released
+OP663a22c2 LOGS: forward , pressed
+OP663a22c2 LOGS: forward , released
+OP663a22d2  --- Start of the program Bug_FinalTestV2.py --- 
+OP663a22d2 LOGS: Acc , 0 , 20 , 1
+OP663a22d4 LOGS: center , pressed
+OP663a22d4 LOGS: center , released
+OP663a22d5 LOGS: Acc , 0 , 20 , 0
+OP663a22d6 LOGS: Acc , 0 , 20 , 0
+OP663a22d7 LOGS: Acc , 0 , 20 , 0
+OP663a22d8 LOGS: center , pressed
+OP663a22d8 LOGS: Acc , 0 , 20 , 0
+OP663a22d8 LOGS: center , released
+OP663a22d8 LOGS: center , pressed
+OP663a22d8 LOGS: center , released
+OP663a22d9 LOGS: center , pressed
+OP663a22d9 LOGS: center , released
+OP663a22d9 LOGS: Acc , 0 , 20 , 0
+OP663a22d9 LOGS: center , pressed
+OP663a22d9 LOGS: center , released
+OP663a22d9 LOGS: center , pressed
+OP663a22d9 LOGS: center , released
+OP663a22d9 LOGS: center , pressed
+OP663a22d9 LOGS: center , released
+OP663a22d9 LOGS: center , pressed
+OP663a22d9 LOGS: center , released
+OP663a22da LOGS: center , pressed
+OP663a22da LOGS: center , released
+OP663a22da LOGS: Acc , 0 , 20 , 0
+OP663a22db LOGS: Acc , 0 , 20 , 0
+OP663a22dd LOGS: Acc , 0 , 20 , 0
+OP663a22de LOGS: Acc , 0 , 20 , 0
+OP663a22df LOGS: Acc , 0 , 20 , 0
+OP663a22e0 LOGS: Acc , 0 , 0 , 13
+OP663a22e1  --- Start of the program Bug_FinalTestV2.py --- 
+OP663a22e2 LOGS: center , released
+OP663a22e5 LOGS: Acc , -20 , 6 , 12
+OP663a22e6 LOGS: Acc , -11 , 11 , 12
+OP663a22e7 LOGS: Acc , -5 , 4 , 7
+OP663a22ea  --- Start of the program Bug_FinalTestV2.py --- 
+OP663a22f5 LOGS: center , pressed
+OP663a22f5 LOGS: center , released
+OP663a22fa LOGS: Acc , 2 , 9 , 7
+OP663a22fb LOGS: Acc , 0 , 20 , 0
+OP663a22fc LOGS: Acc , 0 , 20 , 0
+OP663a22fd LOGS: Acc , 1 , 20 , 0
+OP663a22fe LOGS: Acc , 0 , 20 , 0
+OP663a22ff LOGS: Acc , 0 , 20 , 0
+OP663a2300 LOGS: Acc , 0 , 20 , 0
