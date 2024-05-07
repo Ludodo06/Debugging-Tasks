@@ -18,9 +18,9 @@ def prox():
         motor_right_target = 200 - steer
         
         print("left", prox_ground_delta[0])
-        print("right", prox_ground_delta[0])
+        print("right", prox_ground_delta[1])
         
-        if prox_ground_delta[0] < 500 or prox_ground_delta[1] < 500: # left: 0, right: 1
+        if prox_ground_delta[0] < 300 or prox_ground_delta[1] < 300: # left: 0, right: 1
             mode = LINE
             
     if mode == LINE:
