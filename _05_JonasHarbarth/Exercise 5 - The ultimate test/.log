@@ -36,3 +36,14 @@ PS663a1cc5
 OP663a1cce  --- Start of the program Bug_FinalTestV2.py --- 
 OP663a1ccf LOGS: center , pressed
 OP663a1ccf LOGS: center , released
+OP663a1cf0  --- Start of the program Bug_FinalTestV2.py --- 
+OP663a1cf1 LOGS: center , pressed
+OP663a1cf1 LOGS: center , released
+OP663a1cf5 LOGS: center , pressed
+OP663a1cf5 LOGS: Acc , -7 , 17 , 1
+OP663a1cf5 LOGS: center , released
+OP663a1cf5 LOGS: center , pressed
+OP663a1cf7 LOGS: Acc , -5 , 19 , 1
+OP663a1cf7 LOGS: Acc , 1 , 18 , -8
+WO663a1d0f 
+WI663a1d12 

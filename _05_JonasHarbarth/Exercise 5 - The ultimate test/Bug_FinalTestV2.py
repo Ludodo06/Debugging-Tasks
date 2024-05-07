@@ -8,7 +8,7 @@ mode = 1
 
 @onevent
 def prox():
-    global mode, motor_left_target, motor_right_target
+    global mode, motor_left_target, motor_right_target, button_center
     
     if mode == WALLS:
         nf_leds_top(32,0,0) # Red
