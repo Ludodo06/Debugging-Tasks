@@ -1133,3 +1133,8 @@ OP6639fa60 LOGS: center , released
 WO6639fa68 
 WI6639fa69 
 WO6639fa69 
+OP6639fb5a LOGS: Acc , -4 , 2 , 30
+OP6639fb5b LOGS: center , pressed
+OP6639fb5b LOGS: forward , pressed
+OP6639fb5b LOGS: Acc , 12 , 10 , 10
+OP6639fb5c LOGS: Acc , 10 , 0 , 14
