@@ -68,3 +68,17 @@ WI663a15ab
 WO663a15ab 
 OP663a15c1 LOGS: Acc , 5 , 0 , 7
 OP663a15c2 LOGS: Acc , 7 , 2 , 15
+OP663a15c4 LOGS: Acc , 1 , -5 , 25
+OP663a15c7 LOGS: Acc , 1 , 2 , 16
+OP663a15c7 LOGS: forward , pressed
+OP663a15c7 LOGS: forward , released
+OP663a15c8 LOGS: forward , pressed
+OP663a15c9 LOGS: backward , pressed
+OP663a15c9 LOGS: backward , released
+OP663a15c9 LOGS: right , pressed
+OP663a15c9 LOGS: right , released
+OP663a15cb LOGS: left , pressed
+OP663a15cb LOGS: left , released
+OP663a15cb LOGS: center , pressed
+OP663a15cc LOGS: center , released
+WI663a15dd 
