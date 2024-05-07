@@ -328,3 +328,22 @@ WO663a0d85
 WI663a0da2 
 WO663a0da4 
 WI663a0da7 
+OP663a0dbd  --- Start of the program leds.py --- 
+OP663a0dcc  --- Start of the program leds.py --- 
+WO663a0dce 
+OP663a0dde Button pressed: 	button_forward
+OP663a0ddf Button pressed: 	button_forward
+OP663a0ddf Button pressed: 	button_right
+OP663a0ddf Button pressed: 	button_center
+OP663a0ddf Button pressed: 	button_center
+OP663a0de0 Button pressed: 	button_left
+OP663a0de0 Button pressed: 	button_left
+OP663a0de0 Button pressed: 	button_backward
+OP663a0de0 Button pressed: 	button_backward
+OP663a0de1 Button pressed: 	button_right
+OP663a0de1 Button pressed: 	button_right
+OP663a0de1 Button pressed: 	button_forward
+OP663a0de2 Button pressed: 	button_right
+OP663a0de2 Button pressed: 	button_right
+OP663a0de3 Button pressed: 	button_center
+OP663a0de3 Button pressed: 	button_center
