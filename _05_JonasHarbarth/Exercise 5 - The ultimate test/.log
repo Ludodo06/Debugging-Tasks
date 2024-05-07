@@ -15,3 +15,16 @@ OP663a1b91 LOGS: center , released
 OP663a1bb9  --- Start of the program Bug_FinalTestV2.py --- 
 OP663a1bbb LOGS: center , pressed
 OP663a1bbb LOGS: center , released
+OP663a1c8b %cd 'C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_05_JonasHarbarth\Exercise 5 - The ultimate test'
+OP663a1c8b %Run Bug_FinalTestV2.py
+OP663a1c8b >>> 
+OP663a1c8d Traceback (most recent call last):
+OP663a1c8d   
+OP663a1c8d File "C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_05_JonasHarbarth\Exercise 5 - The ultimate test\Bug_FinalTestV2.py", line 9, in <module>
+OP663a1c8d     @onevent
+OP663a1c8d NameError: name 'onevent' is not defined
+OP663a1c8d >>> 
+RN663a1c8d 
+OP663a1c98  --- Start of the program Bug_FinalTestV2.py --- 
+OP663a1c99 LOGS: center , pressed
+OP663a1c99 LOGS: center , released
