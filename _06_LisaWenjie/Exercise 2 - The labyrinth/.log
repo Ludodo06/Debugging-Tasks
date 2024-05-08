@@ -10,3 +10,22 @@ OP663b80b0 Line 15
 OP663b80b3 Error: invalid syntax
 OP663b80b3     
 OP663b80b3 Line 15
+OP663b80d3  --- Start of the program Bug_TheLabyrinth.py --- 
+OP663b80d6 LOGS: Wheels , 150 , -150
+OP663b80d7 LOGS: Wheels , 300 , 300
+OP663b80da LOGS: Wheels , 150 , -150
+OP663b80db LOGS: Wheels , 300 , 300
+OP663b80de LOGS: Wheels , -150 , 150
+OP663b80df LOGS: Wheels , 300 , 300
+OP663b80e4 LOGS: Wheels , -150 , 150
+OP663b80e6 LOGS: Wheels , 300 , 300
+OP663b80e7 LOGS: Acc , 0 , -8 , 22
+OP663b80e9 LOGS: Wheels , -150 , 150
+OP663b80ea LOGS: Wheels , 300 , 300
+OP663b80ed LOGS: Wheels , 150 , -150
+OP663b80f1 LOGS: Wheels , 150 , -150
+OP663b80f2 LOGS: Wheels , 300 , 300
+OP663b80f5 LOGS: Wheels , 150 , -150
+OP663b80f6 LOGS: Wheels , 300 , 300
+OP663b80f7 LOGS: Acc , 0 , -7 , 18
+OP663b80f8 LOGS: Acc , 6 , 0 , 22
