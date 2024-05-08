@@ -107,3 +107,15 @@ OP663b83c8 LOGS: right , pressed
 OP663b83c8 LOGS: Wheels , 100 , 0
 OP663b83c9 LOGS: right , released
 OP663b83cb LOGS: Acc , 5 , -3 , 20
+OP663b8409 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP663b8409     
+OP663b8409 Line 1
+OP663b840a  --- Start of the program Bug_MyOrders.py --- 
+OP663b840a LOGS: right , pressed
+OP663b840a LOGS: Wheels , 200 , 0
+OP663b840a LOGS: right , released
+OP663b840b LOGS: Acc , 0 , 1 , 25
+OP663b840d LOGS: Acc , 0 , 0 , 16
+OP663b840f LOGS: Acc , 0 , 0 , 24
+OP663b8411 LOGS: Acc , 1 , 0 , 15
+OP663b8413 LOGS: Acc , 0 , 0 , 24
