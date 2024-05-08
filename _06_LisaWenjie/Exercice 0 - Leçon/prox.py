@@ -8,7 +8,7 @@ def prox():
     
     # You can also print the ground sensors here
     # print(...)
-    print(prox_horizontal
+    print(prox_horizontal[2])
     
     
     pass
