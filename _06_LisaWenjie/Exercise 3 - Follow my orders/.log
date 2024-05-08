@@ -119,3 +119,18 @@ OP663b840d LOGS: Acc , 0 , 0 , 16
 OP663b840f LOGS: Acc , 0 , 0 , 24
 OP663b8411 LOGS: Acc , 1 , 0 , 15
 OP663b8413 LOGS: Acc , 0 , 0 , 24
+OP663b843c Error: invalid syntax
+OP663b843c     
+OP663b843c Line 3
+OP663b8452 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP663b8452     
+OP663b8452 Line 1
+OP663b8452  --- Start of the program Bug_MyOrders.py --- 
+OP663b8452 LOGS: right , pressed
+OP663b8452 LOGS: Wheels , 200 , 0
+OP663b8453 LOGS: right , released
+OP663b8454 LOGS: Acc , 0 , 0 , 24
+OP663b8456 LOGS: Acc , 0 , 0 , 16
+OP663b8461 LOGS: right , pressed
+OP663b8461 LOGS: Wheels , 200 , -100
+OP663b8461 LOGS: right , released

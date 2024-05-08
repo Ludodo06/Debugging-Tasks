@@ -1,6 +1,6 @@
 @onevent
 def buttons():
-    global motor_left_target é
+    global motor_left_target, motor_right_target
     
     if button_forward:
         nf_leds_top(0,32,0)
