@@ -34,3 +34,15 @@ WI663b7d63
 OP663b7d80 Error: unindent does not match any outer indentation level
 OP663b7d80     
 OP663b7d80 Line 11
+OP663b7d86 Error: unindent does not match any outer indentation level
+OP663b7d86     
+OP663b7d86 Line 11
+OP663b7d91  --- Start of the program Bug1_Garden.py --- 
+OP663b7d91 LOGS: Wheels , 500 , 500
+OP663b7d92 LOGS: Acc , 1 , -9 , 11
+OP663b7d93 LOGS: Acc , 0 , -9 , 4
+OP663b7d95 LOGS: Wheels , -200 , 200
+OP663b7d96 LOGS: Wheels , 500 , 500
+OP663b7d97 LOGS: Acc , 4 , -6 , 22
+OP663b7d9a LOGS: Acc , 0 , -7 , 0
+OP663b7d9a LOGS: Wheels , -200 , 200

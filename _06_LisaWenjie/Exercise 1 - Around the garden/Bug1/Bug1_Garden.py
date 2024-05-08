@@ -6,7 +6,7 @@ going_forward = False
 
 @onevent
 def timer0():
-    global leds_top, going_forward, motor_left_target, motor_right_target
+   global leds_top, going_forward, motor_left_target, motor_right_target
    
    going_forward = not going_forward
    
