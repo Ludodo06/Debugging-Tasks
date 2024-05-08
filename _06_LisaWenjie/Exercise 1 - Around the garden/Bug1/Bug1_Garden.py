@@ -14,8 +14,8 @@ def timer0():
    if going_forward:
         timer_period[0] = forward_time
         nf_leds_top(0,32,0) # Green
-        motor_right_target = 200
-        motor_left_target = 200
+        motor_right_target = 500
+        motor_left_target = 500
    
    
    else:

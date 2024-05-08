@@ -25,3 +25,12 @@ OP663b7be9  --- Start of the program Bug1_Garden.py ---
 OP663b7be9 LOGS: Wheels , 200 , 200
 WO663b7c7b 
 WI663b7c7e 
+WO663b7d55 
+WI663b7d61 
+WO663b7d61 
+WI663b7d63 
+WO663b7d63 
+WI663b7d63 
+OP663b7d80 Error: unindent does not match any outer indentation level
+OP663b7d80     
+OP663b7d80 Line 11
