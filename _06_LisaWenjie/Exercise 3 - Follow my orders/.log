@@ -134,3 +134,19 @@ OP663b8456 LOGS: Acc , 0 , 0 , 16
 OP663b8461 LOGS: right , pressed
 OP663b8461 LOGS: Wheels , 200 , -100
 OP663b8461 LOGS: right , released
+OP663b847a  --- Start of the program Bug_MyOrders.py --- 
+OP663b847b LOGS: forward , pressed
+OP663b847b LOGS: Wheels , 255 , 255
+OP663b847b LOGS: forward , released
+OP663b8481  --- Start of the program Bug_MyOrders.py --- 
+OP663b8482 LOGS: left , pressed
+OP663b8482 LOGS: Wheels , -50 , 200
+OP663b8482 LOGS: left , released
+OP663b8495  --- Start of the program Bug_MyOrders.py --- 
+OP663b8495 LOGS: left , pressed
+OP663b8495 LOGS: Wheels , -50 , 50
+OP663b8495 LOGS: left , released
+OP663b84a2  --- Start of the program Bug_MyOrders.py --- 
+OP663b84a5 LOGS: left , pressed
+OP663b84a5 LOGS: left , released
+OP663b84a5 LOGS: Wheels , -100 , 100
