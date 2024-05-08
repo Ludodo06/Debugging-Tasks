@@ -150,3 +150,65 @@ OP663b84a2  --- Start of the program Bug_MyOrders.py ---
 OP663b84a5 LOGS: left , pressed
 OP663b84a5 LOGS: left , released
 OP663b84a5 LOGS: Wheels , -100 , 100
+OP663b84ae  --- Start of the program Bug_MyOrders.py --- 
+OP663b84af LOGS: right , pressed
+OP663b84af LOGS: Wheels , 200 , -200
+OP663b84af LOGS: right , released
+OP663b84b7  --- Start of the program Bug_MyOrders.py --- 
+OP663b84b8 LOGS: backward , pressed
+OP663b84b8 LOGS: Wheels , -255 , -255
+OP663b84c2  --- Start of the program Bug_MyOrders.py --- 
+OP663b84c2 LOGS: center , pressed
+OP663b84c2 LOGS: center , released
+OP663b84c4 LOGS: center , pressed
+OP663b84c5 LOGS: center , released
+OP663b84c8 LOGS: forward , pressed
+OP663b84c9 LOGS: forward , released
+OP663b84c9 LOGS: center , pressed
+OP663b84c9 LOGS: Wheels , 0 , 0
+OP663b84c9 LOGS: center , released
+WO663b84d6 
+WI663b84d6 
+WO663b84d6 
+WI663b84dd 
+OP663b84e1 LOGS: forward , pressed
+OP663b84e1 LOGS: Wheels , 255 , 255
+OP663b84e1 LOGS: forward , released
+OP663b84e2 LOGS: center , pressed
+OP663b84e2 LOGS: Wheels , 0 , 0
+OP663b84e2 LOGS: center , released
+OP663b84e2 LOGS: right , pressed
+OP663b84e2 LOGS: right , released
+OP663b84e2 LOGS: Wheels , 200 , -200
+OP663b84e3 LOGS: center , pressed
+OP663b84e3 LOGS: Wheels , 0 , 0
+OP663b84e3 LOGS: center , released
+OP663b84e3 LOGS: left , pressed
+OP663b84e3 LOGS: Wheels , -100 , 100
+OP663b84e3 LOGS: left , released
+OP663b84e4 LOGS: center , pressed
+OP663b84e4 LOGS: Wheels , 0 , 0
+OP663b84e4 LOGS: center , released
+OP663b84e4 LOGS: backward , released
+OP663b84e4 LOGS: Wheels , -255 , -255
+OP663b84e5 LOGS: center , pressed
+OP663b84e5 LOGS: center , released
+OP663b84e5 LOGS: Wheels , 0 , 0
+OP663b84e7 LOGS: forward , pressed
+OP663b84e7 LOGS: Wheels , 255 , 255
+OP663b84e7 LOGS: forward , released
+OP663b84e8 LOGS: center , pressed
+OP663b84e8 LOGS: Wheels , 0 , 0
+OP663b84e8 LOGS: center , released
+OP663b84e8 LOGS: right , pressed
+OP663b84e9 LOGS: Wheels , 200 , -200
+OP663b84e9 LOGS: right , released
+OP663b84e9 LOGS: center , pressed
+OP663b84e9 LOGS: Wheels , 0 , 0
+OP663b84e9 LOGS: center , released
+OP663b84e9 LOGS: left , pressed
+OP663b84e9 LOGS: Wheels , -100 , 100
+OP663b84e9 LOGS: left , released
+OP663b84ea LOGS: center , pressed
+OP663b84ea LOGS: center , released
+OP663b84ea LOGS: Wheels , 0 , 0
