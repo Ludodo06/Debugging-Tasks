@@ -46,3 +46,13 @@ OP663b7d96 LOGS: Wheels , 500 , 500
 OP663b7d97 LOGS: Acc , 4 , -6 , 22
 OP663b7d9a LOGS: Acc , 0 , -7 , 0
 OP663b7d9a LOGS: Wheels , -200 , 200
+OP663b7df3  --- Start of the program Bug1_Garden.py --- 
+OP663b7df3 LOGS: Wheels , 500 , 500
+OP663b7df4 LOGS: Acc , 0 , -8 , 12
+OP663b7df7 LOGS: Acc , 0 , -7 , 6
+OP663b7df7 LOGS: Wheels , -100 , 100
+OP663b7df8 LOGS: Wheels , 500 , 500
+OP663b7dfa LOGS: Acc , 0 , -7 , 5
+OP663b7dfc LOGS: Wheels , -100 , 100
+OP663b7dfd LOGS: Wheels , 500 , 500
+OP663b7e01 LOGS: Wheels , -100 , 100
