@@ -513,3 +513,10 @@ OP663b6f53 1 4 18
 OP663b6f53 294 253
 WO663b6f5c 
 WI663b6f5d 
+WO663b74a8 
+WI663b74aa 
+WO663b74ad 
+WI663b74ae 
+OP663b74c2  --- Start of the program motors.py --- 
+OP663b74c2 New target speed:	left 150 	right 150
+OP663b74c8 Thymio manipulated: 	x 2 		y -8 		z 21
