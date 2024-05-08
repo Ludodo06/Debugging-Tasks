@@ -1976,3 +1976,14 @@ WO663b77f4
 WI663b780a 
 WO663b780d 
 WI663b7811 
+OP663b789a  --- Start of the program events.py --- 
+OP663b78ae Button pressed: 	button_forward
+OP663b78ae Button pressed: 	button_forward
+OP663b78ae New target speed:	left 250    	right 250
+OP663b78ae Button pressed: 	button_forward
+OP663b78b2 Thymio manipulated: 	x 1 		y -7 		z 13
+OP663b78b3 New target speed:	left 0    	right 0
+OP663b78d2 Button pressed: 	button_forward
+OP663b78d2 Button pressed: 	button_forward
+OP663b78d2 New target speed:	left 250    	right 250
+OP663b78d3 New target speed:	left 0    	right 0
