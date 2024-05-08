@@ -17,8 +17,8 @@ def prox():
         
     elif prox_horizontal[6] > 2500: 
         nf_leds_top(32,0,0) # Red
-        motor_left_target = 0
-        motor_right_target = 0
+        motor_left_target = 200
+        motor_right_target = 200
         
 
 
