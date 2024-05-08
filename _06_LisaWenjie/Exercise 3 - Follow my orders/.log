@@ -62,3 +62,20 @@ OP663b832c LOGS: left , released
 OP663b8331 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
 OP663b8331     
 OP663b8331 Line 1
+OP663b8331  --- Start of the program Bug_MyOrders.py --- 
+OP663b8338 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP663b8338     
+OP663b8338 Line 1
+OP663b8339  --- Start of the program Bug_MyOrders.py --- 
+OP663b833a LOGS: left , pressed
+OP663b833a LOGS: Wheels , -50 , 0
+OP663b833a LOGS: left , released
+OP663b834d Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP663b834d     
+OP663b834d Line 1
+OP663b834e  --- Start of the program Bug_MyOrders.py --- 
+OP663b834e LOGS: forward , pressed
+OP663b834e LOGS: Wheels , -255 , 0
+OP663b834e LOGS: forward , released
+OP663b8350 LOGS: Acc , 0 , 1 , 24
+OP663b8351 LOGS: Acc , 0 , 1 , 24
