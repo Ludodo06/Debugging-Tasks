@@ -522,3 +522,8 @@ OP663b74c2 New target speed:	left 150 	right 150
 OP663b74c8 Thymio manipulated: 	x 2 		y -8 		z 21
 OP663b7507  --- Start of the program motors.py --- 
 OP663b7507 New target speed:	left 150 	right -200
+OP663b7524  --- Start of the program motors.py --- 
+OP663b7524 New target speed:	left -200 	right -200
+WO663b752c 
+WI663b7534 
+WO663b7544 
