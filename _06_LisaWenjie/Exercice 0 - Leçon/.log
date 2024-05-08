@@ -536,3 +536,27 @@ WO663b75c6
 WI663b75cb 
 OP663b7604  --- Start of the program leds.py --- 
 WO663b7619 
+OP663b7627 Thymio manipulated: 	x 0 		y -4 		z 13
+OP663b763e Button pressed: 	button_forward
+OP663b763f Button pressed: 	button_left
+OP663b763f Button pressed: 	button_left
+OP663b763f Button pressed: 	button_center
+OP663b763f Button pressed: 	button_center
+OP663b763f Button pressed: 	button_right
+OP663b763f Button pressed: 	button_right
+OP663b7640 Button pressed: 	button_backward
+OP663b7640 Button pressed: 	button_backward
+OP663b7640 Button pressed: 	button_forward
+OP663b7640 Button pressed: 	button_forward
+OP663b7642 Button pressed: 	button_right
+OP663b7642 Button pressed: 	button_right
+OP663b7643 Button pressed: 	button_center
+OP663b7643 Button pressed: 	button_center
+OP663b7644 Button pressed: 	button_backward
+OP663b7644 Button pressed: 	button_backward
+OP663b7646 Button pressed: 	button_forward
+OP663b7646 Button pressed: 	button_forward
+OP663b764b Button pressed: 	button_forward
+OP663b764b Button pressed: 	button_forward
+OP663b765c Button pressed: 	button_forward
+OP663b765c Button pressed: 	button_forward
