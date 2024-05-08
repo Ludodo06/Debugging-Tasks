@@ -6,3 +6,12 @@ WI663b7efc
 OP663b7efc  --- Start of the program Bug2_Garden.py --- 
 OP663b7efc LOGS: Wheels , 250 , 250
 OP663b7efe LOGS: Acc , 0 , 8 , 23
+OP663b7f02 LOGS: Acc , 0 , -8 , 13
+OP663b7f04 LOGS: Wheels , 200 , -200
+OP663b7f05 LOGS: Wheels , 250 , 250
+OP663b7f29  --- Start of the program Bug2_Garden.py --- 
+OP663b7f29 LOGS: Wheels , 250 , 250
+OP663b7f31 LOGS: Wheels , -200 , 200
+OP663b7f32 LOGS: Wheels , 250 , 250
+OP663b7f33 LOGS: Acc , 3 , -7 , 17
+OP663b7f35 LOGS: Acc , 1 , -7 , 13
