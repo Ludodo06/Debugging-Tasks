@@ -729,3 +729,17 @@ OP663c85ab     @onevent
 OP663c85ab NameError: name 'onevent' is not defined
 OP663c85ab >>> 
 RN663c85ab 
+OP663c85c6  --- Start of the program motors.py --- 
+OP663c85c6 New target speed:	left 100 	right -80
+OP663c85cb Thymio manipulated: 	x 6 		y 0 		z 39
+OP663c85cc Thymio manipulated: 	x -8 		y 0 		z -11
+OP663c85d4 Thymio manipulated: 	x -3 		y -8 		z 25
+OP663c85d5 Thymio manipulated: 	x -15 		y 9 		z -12
+OP663c85d6 Thymio manipulated: 	x -14 		y 12 		z -7
+OP663c85d6 Button pressed: 	button_right
+OP663c85d7 Button pressed: 	button_right
+OP663c85d7 Thymio manipulated: 	x -8 		y 14 		z -12
+OP663c85d8 Thymio manipulated: 	x -14 		y 15 		z -3
+OP663c85d9 Thymio manipulated: 	x -7 		y 6 		z 18
+OP663c85e3 Thymio manipulated: 	x -4 		y -3 		z 23
+WO663c85f9 
