@@ -743,3 +743,11 @@ OP663c85d8 Thymio manipulated: 	x -14 		y 15 		z -3
 OP663c85d9 Thymio manipulated: 	x -7 		y 6 		z 18
 OP663c85e3 Thymio manipulated: 	x -4 		y -3 		z 23
 WO663c85f9 
+WI663c8605 
+OP663c8616  --- Start of the program motors.py --- 
+OP663c8616 New target speed:	left 500 	right -500
+OP663c8618 Thymio manipulated: 	x 1 		y -7 		z 17
+OP663c861c Thymio manipulated: 	x 0 		y -7 		z 17
+OP663c8627  --- Start of the program motors.py --- 
+OP663c8627 New target speed:	left 500 	right 500
+WO663c8630 
