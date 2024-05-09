@@ -11,6 +11,7 @@ def prox():
     
     print(prox_horizontal[1])
     
+    print(prox_ground_delta[1])
     pass
 
 
