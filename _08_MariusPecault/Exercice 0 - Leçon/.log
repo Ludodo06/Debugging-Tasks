@@ -695,3 +695,68 @@ OP663cb23e Button pressed: 	button_forward
 OP663cb23e New target speed:	left 250    	right 250
 OP663cb23e New target speed:	left 0    	right 0
 OP663cb23e Button pressed: 	button_forward
+OP663cb23f Button pressed: 	button_forward
+OP663cb23f New target speed:	left 250    	right 250
+OP663cb23f New target speed:	left 0    	right 0
+OP663cb23f New target speed:	left 250    	right 250
+OP663cb23f New target speed:	left 0    	right 0
+OP663cb23f New target speed:	left 250    	right 250
+OP663cb23f New target speed:	left 0    	right 0
+OP663cb240 New target speed:	left 250    	right 250
+OP663cb240 Button pressed: 	button_forward
+OP663cb240 New target speed:	left 0    	right 0
+OP663cb242 Button pressed: 	button_forward
+OP663cb242 New target speed:	left 250    	right 250
+OP663cb243 Button pressed: 	button_forward
+OP663cb243 New target speed:	left 0    	right 0
+OP663cb243 Button pressed: 	button_forward
+OP663cb243 New target speed:	left 250    	right 250
+OP663cb243 Button pressed: 	button_forward
+OP663cb243 New target speed:	left 0    	right 0
+OP663cb244 Button pressed: 	button_forward
+OP663cb244 New target speed:	left 250    	right 250
+OP663cb244 New target speed:	left 0    	right 0
+OP663cb244 Button pressed: 	button_forward
+OP663cb244 New target speed:	left 250    	right 250
+OP663cb244 New target speed:	left 0    	right 0
+OP663cb244 Button pressed: 	button_forward
+OP663cb244 New target speed:	left 250    	right 250
+OP663cb245 New target speed:	left 0    	right 0
+OP663cb245 Button pressed: 	button_forward
+OP663cb245 New target speed:	left 250    	right 250
+OP663cb245 New target speed:	left 0    	right 0
+OP663cb245 Button pressed: 	button_forward
+OP663cb245 New target speed:	left 250    	right 250
+OP663cb245 Button pressed: 	button_forward
+OP663cb245 New target speed:	left 0    	right 0
+OP663cb24b  --- Start of the program events.py --- 
+OP663cb24b Button pressed: 	button_forward
+OP663cb24b New target speed:	left 250    	right 250
+OP663cb24b Button pressed: 	button_forward
+OP663cb24d Thymio manipulated: 	x 0 		y 7 		z 20
+OP663cb25a  --- Start of the program events.py --- 
+OP663cb25a Button pressed: 	button_forward
+OP663cb25a New target speed:	left 250    	right 250
+OP663cb25a Button pressed: 	button_forward
+OP663cb25c New target speed:	left 0    	right 0
+OP663cb25c  --- Start of the program events.py --- 
+OP663cb260  --- Start of the program events.py --- 
+OP663cb260 Button pressed: 	button_forward
+OP663cb260 New target speed:	left 250    	right 250
+OP663cb260 Button pressed: 	button_forward
+OP663cb260 New target speed:	left 0    	right 0
+OP663cb261 Button pressed: 	button_forward
+OP663cb261 New target speed:	left 250    	right 250
+OP663cb261 Button pressed: 	button_forward
+OP663cb261 New target speed:	left 0    	right 0
+OP663cb262 Thymio manipulated: 	x -10 		y 1 		z 25
+OP663cb26f  --- Start of the program events.py --- 
+OP663cb270 Button pressed: 	button_forward
+OP663cb270 New target speed:	left 250    	right 250
+OP663cb270 Button pressed: 	button_forward
+OP663cb270 New target speed:	left 0    	right 0
+OP663cb27b  --- Start of the program events.py --- 
+OP663cb27b Button pressed: 	button_forward
+OP663cb27c New target speed:	left 250    	right 250
+OP663cb27c Button pressed: 	button_forward
+OP663cb27c New target speed:	left 0    	right 0
