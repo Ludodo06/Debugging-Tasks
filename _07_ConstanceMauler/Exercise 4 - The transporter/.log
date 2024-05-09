@@ -10,3 +10,13 @@ WI663c9454
 OP663c955e Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 WO663c95d7 
 WI663c95ea 
+OP663c977a %cd 'C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_07_ConstanceMauler\Exercise 4 - The transporter'
+OP663c977a %Run Bug_TheTransporter.py
+OP663c977a >>> 
+OP663c977b Traceback (most recent call last):
+OP663c977b   
+OP663c977b File "C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_07_ConstanceMauler\Exercise 4 - The transporter\Bug_TheTransporter.py", line 7, in <module>
+OP663c977b     @onevent
+OP663c977b NameError: name 'onevent' is not defined
+OP663c977b >>> 
+RN663c977b 
