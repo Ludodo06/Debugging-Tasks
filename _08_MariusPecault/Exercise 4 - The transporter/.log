@@ -11,3 +11,11 @@ OP663cbca2 LOGS: Acc , 1 , -7 , 17
 OP663cbca4  --- Start of the program Bug_TheTransporter.py --- 
 OP663cbca4 LOGS: Wheels , 251 , 251
 OP663cbca4 LOGS: Wheels , -251 , -251
+OP663cbcca  --- Start of the program Bug_TheTransporter.py --- 
+OP663cbcca LOGS: Wheels , 251 , 251
+OP663cbcca LOGS: Wheels , -251 , -251
+OP663cbccb LOGS: Acc , 0 , -7 , 19
+OP663cbccd  --- Start of the program Bug_TheTransporter.py --- 
+OP663cbccd LOGS: Wheels , 251 , 251
+OP663cbccd LOGS: Wheels , -251 , -251
+WO663cbced 
