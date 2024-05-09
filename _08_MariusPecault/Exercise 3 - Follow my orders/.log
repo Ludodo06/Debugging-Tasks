@@ -13,3 +13,7 @@ OP663cbb78  --- Start of the program Bug_MyOrders.py ---
 OP663cbb7a LOGS: forward , pressed
 OP663cbb7a LOGS: Wheels , 255 , 0
 OP663cbb7a LOGS: forward , released
+OP663cbb7c LOGS: Acc , 0 , -2 , 13
+OP663cbb7d LOGS: Acc , 0 , -1 , 16
+WO663cbb91 
+WI663cbbb5 
