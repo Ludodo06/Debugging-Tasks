@@ -9,3 +9,28 @@ OP663c8fc9 Line 15
 OP663c8fcc Error: invalid syntax
 OP663c8fcc     
 OP663c8fcc Line 15
+OP663c8fe9  --- Start of the program Bug_TheLabyrinth.py --- 
+OP663c8fe9 LOGS: Wheels , 300 , 300
+OP663c8feb LOGS: Wheels , 150 , -150
+OP663c8fed LOGS: Wheels , 300 , 300
+OP663c8fef LOGS: Wheels , 150 , -150
+OP663c8ff1 LOGS: Wheels , 300 , 300
+OP663c8ff3 LOGS: Wheels , -150 , 150
+OP663c8ff4 LOGS: Acc , 4 , -1 , 22
+OP663c8ff5 LOGS: Wheels , 300 , 300
+OP663c8ffa LOGS: Wheels , -150 , 150
+OP663c8ffb LOGS: Wheels , 300 , 300
+OP663c8ffe LOGS: Wheels , -150 , 150
+OP663c8fff LOGS: Wheels , 300 , 300
+OP663c9002 LOGS: Wheels , 150 , -150
+OP663c9003 LOGS: Wheels , 300 , 300
+OP663c9005 LOGS: Acc , 4 , -1 , 13
+OP663c9006 LOGS: Wheels , 150 , -150
+OP663c9007 LOGS: Wheels , 300 , 300
+OP663c9008 LOGS: Acc , 4 , -3 , 14
+OP663c9009 LOGS: Acc , 16 , -9 , 5
+OP663c900a LOGS: Wheels , 150 , -150
+OP663c900a LOGS: Acc , 17 , -4 , -13
+OP663c900b LOGS: Acc , 16 , -6 , -4
+OP663c900c LOGS: Wheels , 300 , 300
+OP663c900c LOGS: Acc , 20 , -8 , -5
