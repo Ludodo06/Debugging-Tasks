@@ -52,3 +52,12 @@ OP663cc255 LOGS: center , pressed
 OP663cc255 LOGS: center , released
 OP663cc256 LOGS: center , pressed
 OP663cc257 LOGS: center , released
+OP663cc26e  --- Start of the program Bug_FinalTestV2.py --- 
+OP663cc271 LOGS: center , pressed
+OP663cc271 LOGS: center , released
+OP663cc275 LOGS: Acc , -3 , 7 , 34
+OP663cc276 LOGS: Acc , -11 , 15 , -4
+OP663cc277 LOGS: Acc , -20 , 0 , 9
+OP663cc280  --- Start of the program Bug_FinalTestV2.py --- 
+OP663cc292 LOGS: center , pressed
+OP663cc292 LOGS: center , released
