@@ -42,3 +42,29 @@ OP663c8c76 LOGS: Wheels , -200 , 200
 OP663c8c77 LOGS: Wheels , 200 , 200
 WO663c8c88 
 WI663c8c8a 
+OP663c8cab  --- Start of the program Bug1_Garden.py --- 
+OP663c8cac LOGS: Wheels , 500 , 500
+OP663c8cb0 LOGS: Wheels , -200 , 200
+OP663c8cb1 LOGS: Wheels , 500 , 500
+OP663c8cb5 LOGS: Wheels , -200 , 200
+OP663c8cb6 LOGS: Wheels , 500 , 500
+OP663c8cb8 LOGS: Acc , 5 , 2 , 8
+OP663c8cb9 LOGS: Acc , -1 , 8 , 6
+OP663c8cba LOGS: Wheels , -200 , 200
+OP663c8cbb LOGS: Wheels , 500 , 500
+OP663c8cc6  --- Start of the program Bug1_Garden.py --- 
+OP663c8cc6 LOGS: Wheels , 500 , 500
+OP663c8cca LOGS: Wheels , -200 , 200
+OP663c8ccc LOGS: Wheels , 500 , 500
+OP663c8ccd LOGS: Acc , 4 , 1 , 10
+OP663c8cd0 LOGS: Wheels , -200 , 200
+OP663c8cd1 LOGS: Wheels , 500 , 500
+OP663c8cd4 LOGS: Acc , 4 , -2 , 17
+OP663c8cd5 LOGS: Wheels , -200 , 200
+OP663c8cd6 LOGS: Wheels , 500 , 500
+OP663c8cd7 LOGS: Acc , -4 , -2 , 20
+OP663c8cda LOGS: Wheels , -200 , 200
+OP663c8cdb LOGS: Wheels , 500 , 500
+OP663c8cdd LOGS: Acc , 4 , -4 , 9
+OP663c8cdf LOGS: Wheels , -200 , 200
+OP663c8ce0 LOGS: Wheels , 500 , 500
