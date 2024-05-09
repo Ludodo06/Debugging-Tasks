@@ -1,6 +1,6 @@
 forward_time = 4000
 turn_time = 1100
-timer_period[0] = 20
+timer_period[0] = 100
 going_forward = False
 
 
@@ -11,8 +11,8 @@ def timer0():
     if going_forward:
         timer_period[0] = forward_time
         nf_leds_top(0,32,0) # Green
-        motor_right_target = 200
-        motor_left_target = 200
+        motor_right_target = 500
+        motor_left_target = 500
     else:
         timer_period[0] = turn_time
         nf_leds_top(32,16,0) # Orange
