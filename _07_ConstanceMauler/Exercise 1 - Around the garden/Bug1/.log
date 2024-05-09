@@ -5,3 +5,17 @@ WI663c8aa2
 WO663c8aa3 
 WI663c8aa9 
 WO663c8aa9 
+OP663c8ac0 Thymio manipulated: 	x 6 		y 18 		z 16
+OP663c8ac2 Thymio manipulated: 	x 3 		y 18 		z 0
+OP663c8ac3 Thymio manipulated: 	x 2 		y 14 		z 13
+OP663c8ac4 Thymio manipulated: 	x 0 		y 2 		z 25
+WI663c8ac9 
+OP663c8ad9  --- Start of the program Bug1_Garden.py --- 
+OP663c8ad9 LOGS: Wheels , 200 , 200
+OP663c8add LOGS: Wheels , -200 , 200
+OP663c8ade LOGS: Wheels , 200 , 200
+OP663c8ae2 LOGS: Wheels , -200 , 200
+OP663c8ae3 LOGS: Acc , -3 , -8 , 16
+OP663c8ae3 LOGS: Wheels , 200 , 200
+OP663c8ae7 LOGS: Wheels , -200 , 200
+OP663c8ae8 LOGS: Wheels , 200 , 200
