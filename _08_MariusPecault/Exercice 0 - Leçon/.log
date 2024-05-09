@@ -667,3 +667,31 @@ OP663cb1ea 0
 OP663cb1ea 0
 OP663cb1ea 0
 WO663cb1f7 
+WI663cb214 
+WO663cb217 
+WI663cb21b 
+OP663cb230  --- Start of the program events.py --- 
+OP663cb233 Button pressed: 	button_forward
+OP663cb233 New target speed:	left 250    	right 250
+OP663cb233 Button pressed: 	button_forward
+OP663cb235 New target speed:	left 0    	right 0
+OP663cb236 Button pressed: 	button_backward
+OP663cb237 Button pressed: 	button_backward
+OP663cb237 Thymio manipulated: 	x 0 		y -10 		z 25
+OP663cb238 Button pressed: 	button_forward
+OP663cb238 New target speed:	left 250    	right 250
+OP663cb239 Button pressed: 	button_forward
+OP663cb23a New target speed:	left 0    	right 0
+OP663cb23b Button pressed: 	button_forward
+OP663cb23b Wheels manipulated: 	left 99 	right 103
+OP663cb23c New target speed:	left 250    	right 250
+OP663cb23c Button pressed: 	button_forward
+OP663cb23c New target speed:	left 0    	right 0
+OP663cb23d Button pressed: 	button_forward
+OP663cb23d New target speed:	left 250    	right 250
+OP663cb23d Button pressed: 	button_forward
+OP663cb23d New target speed:	left 0    	right 0
+OP663cb23e Button pressed: 	button_forward
+OP663cb23e New target speed:	left 250    	right 250
+OP663cb23e New target speed:	left 0    	right 0
+OP663cb23e Button pressed: 	button_forward
