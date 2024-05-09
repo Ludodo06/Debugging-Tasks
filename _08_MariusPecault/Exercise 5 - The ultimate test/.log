@@ -47,3 +47,8 @@ OP663cc1e0 LOGS: center , pressed
 OP663cc1e0 LOGS: center , released
 WO663cc1fd 
 WI663cc210 
+OP663cc250  --- Start of the program Bug_FinalTestV2.py --- 
+OP663cc255 LOGS: center , pressed
+OP663cc255 LOGS: center , released
+OP663cc256 LOGS: center , pressed
+OP663cc257 LOGS: center , released
