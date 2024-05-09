@@ -59,3 +59,24 @@ WO663cb905
 OP663cb905 LOGS: Wheels , -150 , 150
 OP663cb906 LOGS: Acc , 14 , 13 , 3
 WI663cb906 
+OP663cb946  --- Start of the program Bug_TheLabyrinth.py --- 
+OP663cb946 LOGS: Wheels , 300 , 300
+OP663cb948 LOGS: Wheels , 150 , -150
+OP663cb94a LOGS: Wheels , 300 , 300
+OP663cb94a LOGS: Acc , -7 , -3 , 20
+OP663cb94c LOGS: Wheels , 150 , -150
+OP663cb94e LOGS: Wheels , 300 , 300
+OP663cb950 LOGS: Wheels , -150 , 150
+OP663cb952 LOGS: Wheels , 300 , 300
+OP663cb954 LOGS: Acc , 1 , -8 , 15
+OP663cb957 LOGS: Wheels , -150 , 150
+OP663cb958 LOGS: Wheels , 300 , 300
+OP663cb95c LOGS: Wheels , 300 , 300
+OP663cb95f LOGS: Wheels , -150 , 150
+OP663cb960 LOGS: Wheels , 300 , 300
+OP663cb961 LOGS: Acc , 1 , -9 , 35
+OP663cb962 LOGS: Acc , -14 , -10 , -8
+OP663cb963 LOGS: Wheels , 150 , -150
+OP663cb963 LOGS: Acc , -17 , -11 , 8
+OP663cb964 LOGS: Wheels , 300 , 300
+OP663cb965 LOGS: Acc , -16 , -11 , 0
