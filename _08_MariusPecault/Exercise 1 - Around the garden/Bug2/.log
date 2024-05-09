@@ -2,3 +2,12 @@ WO66322737
 WO663cb64d 
 WI663cb64e 
 WO663cb64f 
+WI663cb652 
+WO663cb652 
+WI663cb653 
+OP663cb664  --- Start of the program Bug2_Garden.py --- 
+OP663cb664 LOGS: Wheels , 250 , 250
+OP663cb664 LOGS: Acc , 2 , -8 , 19
+OP663cb669 LOGS: Acc , 1 , -7 , 18
+OP663cb66c LOGS: Wheels , 200 , -200
+OP663cb66d LOGS: Wheels , 250 , 250
