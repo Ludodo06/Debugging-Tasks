@@ -2,3 +2,12 @@ WI6632273a
 WI6632273a 
 WO663cbc27 
 WI663cbc2f 
+OP663cbc8c Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP663cbc91 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP663cbca0  --- Start of the program Bug_TheTransporter.py --- 
+OP663cbca0 LOGS: Wheels , 251 , 251
+OP663cbca0 LOGS: Wheels , -251 , -251
+OP663cbca2 LOGS: Acc , 1 , -7 , 17
+OP663cbca4  --- Start of the program Bug_TheTransporter.py --- 
+OP663cbca4 LOGS: Wheels , 251 , 251
+OP663cbca4 LOGS: Wheels , -251 , -251
