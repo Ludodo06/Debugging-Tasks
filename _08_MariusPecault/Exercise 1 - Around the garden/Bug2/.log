@@ -11,3 +11,20 @@ OP663cb664 LOGS: Acc , 2 , -8 , 19
 OP663cb669 LOGS: Acc , 1 , -7 , 18
 OP663cb66c LOGS: Wheels , 200 , -200
 OP663cb66d LOGS: Wheels , 250 , 250
+OP663cb6a5  --- Start of the program Bug2_Garden.py --- 
+OP663cb6a5 LOGS: Wheels , 250 , 250
+OP663cb6ab LOGS: Acc , 0 , -7 , 13
+OP663cb6ad LOGS: Wheels , -200 , 200
+OP663cb6ae LOGS: Wheels , 250 , 250
+OP663cb6b6 LOGS: Wheels , -200 , 200
+OP663cb6b7 LOGS: Wheels , 250 , 250
+OP663cb6bf LOGS: Acc , 0 , -7 , 13
+OP663cb6bf LOGS: Wheels , -200 , 200
+OP663cb6c0 LOGS: Wheels , 250 , 250
+OP663cb6c1 LOGS: Acc , 2 , -7 , 20
+OP663cb6c3 LOGS: Acc , 1 , -7 , 18
+OP663cb6c6 LOGS: Acc , 1 , -7 , 18
+OP663cb6c8 LOGS: Wheels , -200 , 200
+OP663cb6c9 LOGS: Wheels , 250 , 250
+OP663cb6ca LOGS: Acc , 2 , -7 , 15
+OP663cb6cc LOGS: Acc , 0 , 7 , 20
