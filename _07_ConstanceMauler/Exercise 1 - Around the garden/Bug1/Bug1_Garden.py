@@ -1,6 +1,6 @@
 forward_time = 4000
 turn_time = 1100
-timer_period[0] = 100
+timer_period[0] = 20
 going_forward = False
 
 

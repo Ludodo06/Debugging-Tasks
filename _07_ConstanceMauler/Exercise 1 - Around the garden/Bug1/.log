@@ -23,3 +23,14 @@ OP663c8c00  --- Start of the program Bug1_Garden.py ---
 OP663c8c00 LOGS: Wheels , 200 , 200
 OP663c8c04 LOGS: Wheels , -200 , 200
 OP663c8c06 LOGS: Wheels , 200 , 200
+OP663c8c33  --- Start of the program Bug1_Garden.py --- 
+OP663c8c35 LOGS: Wheels , 200 , 200
+OP663c8c39 LOGS: Wheels , -200 , 200
+OP663c8c3a LOGS: Wheels , 200 , 200
+OP663c8c52  --- Start of the program Bug1_Garden.py --- 
+OP663c8c54 LOGS: Wheels , 200 , 200
+OP663c8c54 LOGS: Acc , -9 , 0 , 14
+OP663c8c58 LOGS: Wheels , -200 , 200
+OP663c8c59 LOGS: Wheels , 200 , 200
+OP663c8c5d LOGS: Wheels , -200 , 200
+OP663c8c5e LOGS: Wheels , 200 , 200
