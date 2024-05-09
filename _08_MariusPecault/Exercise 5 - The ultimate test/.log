@@ -62,3 +62,31 @@ OP663cc280  --- Start of the program Bug_FinalTestV2.py ---
 OP663cc292 LOGS: center , pressed
 OP663cc292 LOGS: center , released
 OP663cc2be  --- Start of the program Bug_FinalTestV2.py --- 
+OP663cc2f0 LOGS: center , pressed
+OP663cc2f0 LOGS: center , released
+OP663cc2f0 LOGS: Acc , 2 , -2 , 14
+OP663cc2f1 LOGS: Acc , 0 , -6 , -13
+OP663cc2f2 LOGS: Acc , -13 , -5 , -14
+OP663cc2f3 LOGS: Acc , -9 , -9 , -13
+OP663cc2f4 LOGS: Acc , -11 , -11 , -13
+OP663cc2f5 LOGS: Acc , -10 , -10 , -13
+OP663cc2f6 LOGS: Acc , -12 , -12 , -12
+OP663cc2f7 LOGS: Acc , -9 , -12 , -13
+OP663cc2f8 LOGS: Acc , -7 , -9 , -16
+OP663cc2f9 LOGS: Acc , -9 , -9 , -16
+OP663cc2fa LOGS: Acc , -10 , -10 , -13
+OP663cc2fb LOGS: Acc , 9 , -20 , 0
+OP663cc2fd LOGS: Acc , 7 , -18 , 8
+OP663cc2fe LOGS: Acc , 1 , -13 , 13
+OP663cc2ff LOGS: Acc , -7 , -11 , 3
+OP663cc300 LOGS: Acc , -4 , -15 , -13
+OP663cc301 LOGS: Acc , -15 , 0 , 24
+OP663cc314 LOGS: Acc , 5 , -4 , 24
+OP663cc315 LOGS: Acc , -14 , -4 , -12
+OP663cc316 LOGS: Acc , -16 , -7 , -10
+OP663cc318 LOGS: Acc , -17 , -8 , -10
+OP663cc319 LOGS: Acc , -17 , -9 , -11
+OP663cc31a LOGS: Acc , -12 , -9 , -10
+OP663cc31b LOGS: Acc , -11 , -10 , 3
+OP663cc31f  --- Start of the program Bug_FinalTestV2.py --- 
+OP663cc320  --- Start of the program Bug_FinalTestV2.py --- 
