@@ -1,3 +1,7 @@
 WI6632273a 
 WI6632273a 
 WO663c93b4 
+WI663c93c8 
+OP663c93c8 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP663c93cb Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP663c93da Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
