@@ -30,3 +30,26 @@ OP663c8e4e LOGS: Wheels , -200 , 200
 OP663c8e4f LOGS: Wheels , 250 , 250
 OP663c8e57 LOGS: Wheels , -200 , 200
 OP663c8e58 LOGS: Wheels , 250 , 250
+OP663c8e5c LOGS: Acc , -4 , -19 , 12
+OP663c8e60 LOGS: Wheels , -200 , 200
+OP663c8e61 LOGS: Wheels , 250 , 250
+OP663c8e65 LOGS: Acc , 1 , 11 , 15
+OP663c8e6f %cd 'C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_07_ConstanceMauler\Exercise 1 - Around the garden\Bug2'
+OP663c8e6f %Run Bug2_Garden.py
+OP663c8e6f >>> 
+OP663c8e70 Traceback (most recent call last):
+OP663c8e70   
+OP663c8e70 File "C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_07_ConstanceMauler\Exercise 1 - Around the garden\Bug2\Bug2_Garden.py", line 3, in <module>
+OP663c8e70     timer_period[0] = 100
+OP663c8e70 NameError: name 'timer_period' is not defined
+OP663c8e70 >>> 
+RN663c8e70 
+OP663c8e72  --- Start of the program Bug2_Garden.py --- 
+OP663c8e72 LOGS: Wheels , 250 , 250
+OP663c8e7b LOGS: Wheels , 250 , 250
+OP663c8e83 LOGS: Wheels , -200 , 200
+OP663c8e84 LOGS: Wheels , 250 , 250
+OP663c8e8c LOGS: Wheels , -200 , 200
+OP663c8e8d LOGS: Wheels , 250 , 250
+OP663c8e95 LOGS: Wheels , -200 , 200
+OP663c8e96 LOGS: Wheels , 250 , 250
