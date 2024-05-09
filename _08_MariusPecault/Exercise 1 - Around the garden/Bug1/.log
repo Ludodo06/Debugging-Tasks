@@ -54,3 +54,16 @@ OP663cb538 LOGS: Wheels , 200 , 200
 OP663cb53a  --- Start of the program Bug1_Garden.py --- 
 OP663cb53a LOGS: Wheels , -200 , 200
 OP663cb53b LOGS: Wheels , 200 , 200
+OP663cb56a Error: unknown variable 'oing_forward'
+OP663cb56a     
+OP663cb56a Line 9
+UD663cb570 
+UD663cb570 
+UD663cb571 
+UD663cb571 
+UD663cb571 
+UD663cb571 
+OP663cb583  --- Start of the program Bug1_Garden.py --- 
+OP663cb583 LOGS: Wheels , 200 , 200
+OP663cb58b LOGS: Wheels , -200 , 200
+OP663cb58c LOGS: Wheels , 200 , 200

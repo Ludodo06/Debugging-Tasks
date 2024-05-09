@@ -1,7 +1,7 @@
-forward_time = 4000
+forward_time = 8000
 turn_time = 1100
 timer_period[0] = 100
-going_forward = True
+going_forward = False
 
 
 @onevent
