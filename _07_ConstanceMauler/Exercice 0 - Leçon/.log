@@ -718,3 +718,14 @@ WO663c8330
 WI663c8552 
 WO663c8554 
 WI663c855c 
+OP663c85a9 %cd 'C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_07_ConstanceMauler\Exercice 0 - Leçon'
+OP663c85a9 %Run motors.py
+OP663c85a9 >>> 
+OP663c85aa  --- Start of the program motors.py --- 
+OP663c85ab Traceback (most recent call last):
+OP663c85ab   
+OP663c85ab File "C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_07_ConstanceMauler\Exercice 0 - Leçon\motors.py", line 58, in <module>
+OP663c85ab     @onevent
+OP663c85ab NameError: name 'onevent' is not defined
+OP663c85ab >>> 
+RN663c85ab 
