@@ -17,3 +17,38 @@ OP663cbb7c LOGS: Acc , 0 , -2 , 13
 OP663cbb7d LOGS: Acc , 0 , -1 , 16
 WO663cbb91 
 WI663cbbb5 
+OP663cbbc2  --- Start of the program Bug_MyOrders.py --- 
+OP663cbbc2 LOGS: Acc , 5 , 3 , 26
+OP663cbbc4 LOGS: forward , pressed
+OP663cbbc4 LOGS: Wheels , 255 , 255
+OP663cbbc4 LOGS: forward , released
+OP663cbbc7 LOGS: center , pressed
+OP663cbbc7 LOGS: Wheels , 0 , 0
+OP663cbbc7 LOGS: center , released
+OP663cbbc9 LOGS: right , pressed
+OP663cbbc9 LOGS: Wheels , 100 , -100
+OP663cbbc9 LOGS: right , released
+OP663cbbcd LOGS: center , pressed
+OP663cbbcd LOGS: Wheels , 0 , 0
+OP663cbbcd LOGS: center , released
+OP663cbbce LOGS: Acc , 5 , 5 , 11
+OP663cbbcf LOGS: backward , pressed
+OP663cbbcf LOGS: backward , released
+OP663cbbd0 LOGS: center , pressed
+OP663cbbd0 LOGS: Wheels , 0 , 0
+OP663cbbd0 LOGS: center , released
+OP663cbbd1 LOGS: left , pressed
+OP663cbbd1 LOGS: Wheels , -100 , 100
+OP663cbbd1 LOGS: left , released
+OP663cbbd4 LOGS: left , pressed
+OP663cbbd4 LOGS: left , released
+OP663cbbd5 LOGS: center , pressed
+OP663cbbd5 LOGS: Wheels , 0 , 0
+OP663cbbd5 LOGS: center , released
+OP663cbbd6 LOGS: Acc , 0 , 14 , 16
+WO663cbbdd 
+OP663cbbec LOGS: Acc , 1 , -16 , 11
+OP663cbbed LOGS: Acc , -1 , -21 , 7
+OP663cbbee LOGS: Acc , 16 , -11 , 7
+OP663cbbf0 LOGS: Acc , 1 , 0 , 14
+OP663cbbf7 LOGS: Acc , 2 , -6 , 16
