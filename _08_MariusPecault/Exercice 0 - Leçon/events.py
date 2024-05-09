@@ -13,7 +13,7 @@ def prox():                                        # Triggers everytime there's 
     
     global motor_left_target, motor_right_target   # Usefull to modify global variables
     
-    if prox_horizontal[2] > 35000:                  # If an obstacle is detected in front
+    if prox_horizontal[2] > 3500:                  # If an obstacle is detected in front
         motor_left_target = 0                      # Then stop the wheels
         motor_right_target = 0
         
