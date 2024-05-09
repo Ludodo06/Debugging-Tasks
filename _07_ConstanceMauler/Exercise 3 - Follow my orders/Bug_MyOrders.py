@@ -4,7 +4,7 @@ def buttons():
     global motor_right_target
     
     
-    if button_forward:
+    if button_backward:
         nf_leds_top(0,32,0)
         motor_left_target = 255
         motor_right_target = 255
