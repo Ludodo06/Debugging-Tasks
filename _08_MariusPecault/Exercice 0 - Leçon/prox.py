@@ -2,7 +2,7 @@
 def prox():
     
     # Use print here to show the proximity sensors' values
-    print(proxà)
+    print(prox_horizontal[2])
     
     
     
