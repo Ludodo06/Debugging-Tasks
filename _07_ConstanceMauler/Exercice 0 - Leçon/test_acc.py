@@ -6,7 +6,7 @@ def acc():
 go = False
 @onevent
 def button_forward():
-    global motor_right_target, motor_left_target
+    global motor_right_target, motor_left_target,go
     
     if button_forward:
         go = not go
