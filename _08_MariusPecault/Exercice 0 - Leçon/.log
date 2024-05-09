@@ -505,3 +505,25 @@ OP663caf86 0 -2 17
 OP663caf86 1011 1016
 OP663caf86 1 0 22
 OP663caf86 1011 1016
+OP663cb0c6 Python 3.7.9 (bundled)
+OP663cb0c6 >>> 
+WO663cb0cb 
+WI663cb0d0 
+OP663cb0e1 %cd 'C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_08_MariusPecault\Exercice 0 - Leçon'
+OP663cb0e1 %Run motors.py
+OP663cb0e1 >>> 
+OP663cb0e1  --- Start of the program motors.py --- 
+OP663cb0e1 Traceback (most recent call last):
+OP663cb0e1   
+OP663cb0e1 File "C:\UserData\Ludovic\Serieux\Scolaire\8.EPFL\Master\Semestre 4\Projet de semestre\First step\Stage 2\Debuggin-Tasks\_08_MariusPecault\Exercice 0 - Leçon\motors.py", line 59, in <module>
+OP663cb0e1     @onevent
+OP663cb0e1 NameError: name 'onevent' is not defined
+OP663cb0e1 >>> 
+RN663cb0e1 
+OP663cb0ee  --- Start of the program motors.py --- 
+OP663cb0ee New target speed:	left 500 	right 500
+OP663cb0ee Thymio manipulated: 	x 2 		y -11 		z 14
+OP663cb0f0 Thymio manipulated: 	x -10 		y 13 		z 0
+OP663cb0fc  --- Start of the program motors.py --- 
+OP663cb0fd Thymio manipulated: 	x 3 		y -8 		z 17
+OP663cb0ff Thymio manipulated: 	x 0 		y -8 		z 12
