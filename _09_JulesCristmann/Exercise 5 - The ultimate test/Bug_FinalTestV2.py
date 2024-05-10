@@ -42,7 +42,7 @@ def prox():
 @onevent
 def buttons():
     global motor_left_target, motor_right_target, mode
-    if button_left:
+    if button_right:
         mode == STOP
  
 
