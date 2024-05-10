@@ -881,3 +881,15 @@ OP663dde16 0 1
 OP663dde17 0 1
 OP663dde17 0 1
 WO663dde27 
+WI663ddf2b 
+WO663ddf2f 
+WI663ddf32 
+OP663ddf35  --- Start of the program events.py --- 
+OP663ddf35 New target speed:	left 250    	right 250
+OP663ddf35 Button pressed: 	button_forward
+OP663ddf35 Button pressed: 	button_forward
+OP663ddf35 Button pressed: 	button_forward
+OP663ddf36 New target speed:	left 0    	right 0
+WO663ddf3f 
+WI663ddf44 
+OP663ddf4a  --- Start of the program leds.py --- 
