@@ -8,12 +8,12 @@ def buttons():
         motor_right_target = 255
         
     if button_left:
-        nf_leds_top(32,16,0)
+        nf_leds_top(32,16,0) #orange 
         motor_left_target = -100
         motor_right_target = 100
         
     if button_right:
-        nf_leds_top(32,16,0)
+        nf_leds_top(32,16,0) #orange 
         motor_left_target = 100
         motor_right_target = -100
         
@@ -23,7 +23,7 @@ def buttons():
         motor_right_target = -255
         
     if button_center:
-        nf_leds_top(0,0,0)
+        nf_leds_top(0,0,0) 
         motor_left_target = 0
         motor_right_target = 0
 
