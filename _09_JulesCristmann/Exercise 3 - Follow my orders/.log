@@ -15,3 +15,35 @@ OP663de712
 OP663de712 Line 1
 OP663de712  --- Start of the program Bug_MyOrders.py --- 
 OP663de72b  --- Start of the program Bug_MyOrders.py --- 
+OP663de734 LOGS: forward , pressed
+OP663de734 LOGS: forward , released
+OP663de734 LOGS: Wheels , 255 , 255
+OP663de734 LOGS: forward , pressed
+OP663de736 LOGS: forward , released
+OP663de736 LOGS: Acc , 2 , -7 , 15
+OP663de738 LOGS: forward , pressed
+OP663de738 LOGS: forward , released
+OP663de739 LOGS: center , pressed
+OP663de739 LOGS: Wheels , 0 , 0
+OP663de739 LOGS: center , released
+OP663de746 LOGS: forward , pressed
+OP663de746 LOGS: Wheels , 255 , 255
+OP663de746 LOGS: forward , released
+OP663de749 LOGS: left , pressed
+OP663de749 LOGS: Wheels , -100 , 100
+OP663de749 LOGS: left , released
+OP663de74c LOGS: backward , pressed
+OP663de74c LOGS: backward , released
+OP663de74c LOGS: Wheels , -255 , -255
+OP663de74e LOGS: right , pressed
+OP663de74e LOGS: right , released
+OP663de74e LOGS: Wheels , 100 , -100
+OP663de751 LOGS: forward , pressed
+OP663de751 LOGS: forward , released
+OP663de751 LOGS: Wheels , 255 , 255
+OP663de752 LOGS: center , pressed
+OP663de752 LOGS: Wheels , 0 , 0
+OP663de752 LOGS: center , released
+OP663de757 LOGS: Acc , -1 , -11 , 29
+OP663de758 LOGS: Acc , -6 , 10 , 16
+OP663de759 LOGS: Acc , 1 , 0 , 13
