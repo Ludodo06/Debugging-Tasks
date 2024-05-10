@@ -47,3 +47,57 @@ OP663de752 LOGS: center , released
 OP663de757 LOGS: Acc , -1 , -11 , 29
 OP663de758 LOGS: Acc , -6 , 10 , 16
 OP663de759 LOGS: Acc , 1 , 0 , 13
+OP663de784 LOGS: forward , pressed
+OP663de784 LOGS: forward , released
+OP663de784 LOGS: Wheels , 255 , 255
+OP663de786 LOGS: center , pressed
+OP663de786 LOGS: Wheels , 0 , 0
+OP663de786 LOGS: center , released
+OP663de787 LOGS: left , pressed
+OP663de787 LOGS: left , released
+OP663de787 LOGS: Wheels , -100 , 100
+OP663de789 LOGS: center , pressed
+OP663de789 LOGS: Wheels , 0 , 0
+OP663de789 LOGS: center , released
+OP663de789 LOGS: backward , pressed
+OP663de789 LOGS: backward , released
+OP663de789 LOGS: Wheels , -255 , -255
+OP663de78b LOGS: center , pressed
+OP663de78b LOGS: Wheels , 0 , 0
+OP663de78b LOGS: center , released
+OP663de78b LOGS: right , pressed
+OP663de78b LOGS: Wheels , 100 , -100
+OP663de78b LOGS: right , released
+OP663de78d LOGS: center , pressed
+OP663de78d LOGS: Wheels , 0 , 0
+OP663de78d LOGS: center , released
+OP663de78e LOGS: forward , pressed
+OP663de78e LOGS: Wheels , 255 , 255
+OP663de78e LOGS: forward , released
+OP663de790 LOGS: Acc , 5 , -3 , 22
+OP663de793 LOGS: forward , pressed
+OP663de794 LOGS: forward , released
+OP663de796 LOGS: Acc , -5 , 8 , 19
+OP663de799 LOGS: forward , pressed
+OP663de799 LOGS: forward , released
+OP663de79c LOGS: Acc , 4 , -5 , 15
+OP663de79c LOGS: right , pressed
+OP663de79c LOGS: Wheels , 100 , -100
+OP663de79c LOGS: right , released
+OP663de79c LOGS: right , pressed
+OP663de79d LOGS: Acc , 9 , 2 , 18
+OP663de79d LOGS: right , released
+OP663de79f LOGS: center , pressed
+OP663de7a4  --- Start of the program Bug_MyOrders.py --- 
+OP663de7a4 LOGS: forward , pressed
+OP663de7a4 LOGS: forward , released
+OP663de7a4 LOGS: Wheels , 255 , 255
+OP663de7a5 LOGS: center , pressed
+OP663de7a5 LOGS: Wheels , 0 , 0
+OP663de7a5 LOGS: center , released
+OP663de7a5 LOGS: backward , pressed
+OP663de7a5 LOGS: Wheels , -255 , -255
+OP663de7a5 LOGS: backward , released
+OP663de7a7 LOGS: center , pressed
+OP663de7a7 LOGS: Wheels , 0 , 0
+OP663de7a7 LOGS: center , released
