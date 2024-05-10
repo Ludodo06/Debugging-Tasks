@@ -19,12 +19,12 @@ def prox():
         motor_left_target = 200 + steer
         motor_right_target = 200 - steer
         
-        if prox_ground_delta[0] > 1000 or prox_ground_delta[1] > 1000: # left: 0, right: 1
+        if prox_ground_delta[0] < 100 or prox_ground_delta[1] < 100: # left: 0, right: 1
             mode = LINE
             
     if mode == LINE:
         nf_leds_top(0,0,32) # Blue
-        steer = prox_ground_delta[0] - prox_ground_delta[1]          # left: 0, right: 1
+        steer = (prox_ground_delta[0] - prox_ground_delta[1] )//20         # left: 0, right: 1
         
         motor_left_target = 200 - steer
         motor_right_target = 200 + steer
