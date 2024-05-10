@@ -12,10 +12,10 @@ def prox():
     
     if mode == WALLS:
         nf_leds_top(32,0,0) # Red
+        steer = 0 
         if prox_horizontal[0] or prox_horizontal[4] > 3500 :
             steer = (prox_horizontal[0] - prox_horizontal[4])//20        # left: 0, right: 4
-        else :
-            steer = 0
+        
         
         motor_left_target = 200 + steer
         motor_right_target = 200 - steer
