@@ -3,3 +3,15 @@ OP663de676 LOGS: Acc , 1 , 10 , 15
 WI663de67f 
 UD663de689 
 UD663de689 
+OP663de707 LOGS: Acc , -2 , -1 , 24
+OP663de709 LOGS: Acc , 0 , 8 , 14
+OP663de70a LOGS: Acc , -8 , 5 , 24
+OP663de70b LOGS: Acc , -6 , 8 , 14
+OP663de70c LOGS: Acc , -10 , 2 , 15
+OP663de70e LOGS: forward , pressed
+OP663de70f LOGS: forward , released
+OP663de712 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP663de712     
+OP663de712 Line 1
+OP663de712  --- Start of the program Bug_MyOrders.py --- 
+OP663de72b  --- Start of the program Bug_MyOrders.py --- 
