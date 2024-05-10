@@ -322,3 +322,7 @@ OP663ddc5a  --- Start of the program motors.py ---
 OP663ddc5a Button pressed: 	button_backward
 WO663ddc82 
 WI663ddc86 
+OP663ddcae  --- Start of the program motors.py --- 
+OP663ddcae New target speed:	left 100 	right -100
+OP663ddcbd  --- Start of the program motors.py --- 
+WO663ddcc2 
