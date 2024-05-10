@@ -83,3 +83,16 @@ OP663de618 LOGS: Acc , 20 , 0 , -2
 OP663de619 LOGS: Acc , 19 , 9 , -2
 OP663de61c LOGS: center , pressed
 OP663de61c LOGS: center , released
+OP663de639 LOGS: forward , pressed
+OP663de639 LOGS: forward , released
+OP663de63a LOGS: backward , pressed
+OP663de63a LOGS: backward , released
+OP663de63b LOGS: right , pressed
+OP663de63b LOGS: right , released
+OP663de63d LOGS: left , pressed
+OP663de63d LOGS: left , released
+OP663de63e LOGS: center , pressed
+OP663de63e LOGS: center , released
+WI663de648 
+WO663de651 
+WI663de65e 
