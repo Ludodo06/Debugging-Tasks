@@ -19,7 +19,7 @@ def prox():
         motor_left_target = 200 + steer
         motor_right_target = 200 - steer
         
-        if prox_ground_delta[0] < 100 or prox_ground_delta[1] < 100: # left: 0, right: 1
+        if prox_ground_delta[0] <  or prox_ground_delta[1] < 100: # left: 0, right: 1
             mode = LINE
             
     if mode == LINE:
@@ -28,6 +28,8 @@ def prox():
         
         motor_left_target = 200 + steer
         motor_right_target = 200 - steer
+        
+        print(prox_ground_delta[0])
     
     if mode == STOP:
         nf_leds_top(0,32,0) # Green
