@@ -1411,3 +1411,7 @@ WO6644bd6e
 WI6644bdcb 
 WO6644bdcc 
 WI6644bdcf 
+OP6644be23  --- Start of the program events.py --- 
+OP6644be27 Thymio manipulated: 	x -9 		y 16 		z 14
+OP6644be28 Thymio manipulated: 	x 0 		y -10 		z 14
+OP6644be2a Thymio manipulated: 	x 0 		y 0 		z 15
