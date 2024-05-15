@@ -89,3 +89,27 @@ OP6644cc8e LOGS: center , pressed
 OP6644cc8f LOGS: Wheels , 0 , 0
 OP6644cc8f LOGS: center , released
 OP6644cc92 LOGS: Acc , -2 , 0 , 14
+OP6644cc9d LOGS: backward , pressed
+OP6644cc9d LOGS: Wheels , -200 , 0
+OP6644cc9d LOGS: backward , released
+OP6644cc9e LOGS: Acc , 0 , 0 , 16
+OP6644cc9f LOGS: Acc , 1 , -1 , 14
+OP6644cca1 LOGS: Acc , 0 , -1 , 15
+OP6644cca2 LOGS: Acc , 0 , -2 , 16
+OP6644cca3 LOGS: center , pressed
+OP6644cca3 LOGS: Wheels , 0 , 0
+OP6644cca3 LOGS: center , released
+OP6644cca7 LOGS: Acc , 2 , -4 , 25
+OP6644ccac Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6644ccac     
+OP6644ccac Line 1
+OP6644ccad  --- Start of the program Bug_MyOrders.py --- 
+OP6644ccae LOGS: forward , pressed
+OP6644ccae LOGS: Wheels , 255 , 0
+OP6644ccae LOGS: forward , released
+OP6644ccaf LOGS: Acc , 1 , -3 , 16
+OP6644ccaf LOGS: center , pressed
+OP6644ccaf LOGS: Wheels , 0 , 0
+OP6644ccb0 LOGS: center , released
+OP6644ccb1 LOGS: Acc , 6 , 4 , 14
+WO6644ccd0 
