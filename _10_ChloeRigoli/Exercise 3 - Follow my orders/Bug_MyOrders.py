@@ -19,8 +19,8 @@ def buttons():
         
     if button_backward:
         nf_leds_top(32,0,0)
-        motor_left_target = -255
-        motor_right_target = -255
+        motor_left_target = 255
+        motor_right_target = 
         
     if button_center:
         nf_leds_top(0,0,0)
