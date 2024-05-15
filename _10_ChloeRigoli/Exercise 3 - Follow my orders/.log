@@ -132,3 +132,16 @@ OP6644cd92 LOGS: Acc , 0 , -1 , 14
 OP6644cd93 LOGS: center , pressed
 OP6644cd93 LOGS: Wheels , 0 , 0
 OP6644cd94 LOGS: center , released
+OP6644cd98 LOGS: forward , pressed
+OP6644cd99 LOGS: Wheels , 255 , 0
+OP6644cd99 LOGS: forward , released
+OP6644cd99 LOGS: Acc , 0 , 6 , 15
+OP6644cd9a LOGS: Acc , 0 , 0 , 24
+OP6644cd9a LOGS: center , pressed
+OP6644cd9a LOGS: Wheels , 0 , 0
+OP6644cd9b LOGS: center , released
+OP6644cd9c LOGS: Acc , 0 , 1 , 16
+OP6644cdb2 Error: invalid syntax
+OP6644cdb2     
+OP6644cdb2 Line 3
+OP6644cdd0  --- Start of the program Bug_MyOrders.py --- 
