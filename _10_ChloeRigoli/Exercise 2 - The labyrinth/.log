@@ -65,3 +65,14 @@ OP6644c9f9 LOGS: Acc , 16 , 3 , -9
 OP6644c9f9 LOGS: Wheels , 300 , 300
 OP6644c9fa LOGS: Acc , 21 , 6 , -7
 OP6644c9fb LOGS: Acc , 16 , 4 , -4
+OP6644ca46  --- Start of the program Bug_TheLabyrinth.py --- 
+OP6644ca46 LOGS: Wheels , 300 , 300
+OP6644ca48 LOGS: Wheels , 150 , -150
+OP6644ca4a LOGS: Wheels , 300 , 300
+OP6644ca4c LOGS: Wheels , 150 , -150
+OP6644ca4e LOGS: Wheels , 300 , 300
+OP6644ca50 LOGS: Wheels , -150 , 150
+OP6644ca52 LOGS: Wheels , 300 , 300
+OP6644ca54 LOGS: Acc , 0 , 7 , 21
+OP6644ca57 LOGS: Wheels , -150 , 150
+OP6644ca59 LOGS: Wheels , 300 , 300
