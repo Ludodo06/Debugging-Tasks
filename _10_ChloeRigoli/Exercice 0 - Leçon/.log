@@ -408,3 +408,10 @@ OP6644ba13 Thymio manipulated: 	x 3 		y -8 		z 17
 WO6644ba22 
 OP6644ba26 Python 3.7.9 (bundled)
 OP6644ba26 >>> 
+OP6644ba3f  --- Start of the program motors.py --- 
+OP6644ba3f New target speed:	left 300 	right -200
+OP6644ba5b Thymio manipulated: 	x 2 		y -7 		z 12
+OP6644ba6b Thymio manipulated: 	x -4 		y -1 		z 21
+OP6644ba6c Thymio manipulated: 	x 10 		y 20 		z 1
+OP6644ba73 Thymio manipulated: 	x -2 		y -7 		z 16
+OP6644ba75 Thymio manipulated: 	x 1 		y -7 		z 15
