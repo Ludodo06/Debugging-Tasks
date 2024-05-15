@@ -12,7 +12,7 @@ def timer0():
     if current_step == 7: go_forward()
     if current_step == 8: pivot_left()
     if current_step == 9: go_forward()
-    if current_step = 10: pi()
+    if current_step = 10: pivot()
     if current_step == 11: go_forward()
     if current_step == 12: pivot_right()
     if current_step == 13: go_forward()
