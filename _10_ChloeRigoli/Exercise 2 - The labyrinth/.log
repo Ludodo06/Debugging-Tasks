@@ -39,3 +39,29 @@ OP6644c9d2  --- Start of the program Bug_TheLabyrinth.py ---
 OP6644c9d3 LOGS: Wheels , 300 , 300
 OP6644c9d5 LOGS: Wheels , 150 , -150
 OP6644c9d7 LOGS: Wheels , 300 , 300
+OP6644c9d9 LOGS: Wheels , 150 , -150
+OP6644c9db LOGS: Wheels , 300 , 300
+OP6644c9dd LOGS: Wheels , -150 , 150
+OP6644c9df LOGS: Wheels , 300 , 300
+OP6644c9e3 LOGS: Acc , 1 , -7 , 17
+OP6644c9e4 LOGS: Wheels , -150 , 150
+OP6644c9e5 LOGS: Wheels , 300 , 300
+OP6644c9e7 LOGS: Acc , 4 , -4 , 17
+OP6644c9e8 LOGS: Wheels , -150 , 150
+OP6644c9e9 LOGS: Wheels , 300 , 300
+OP6644c9ea LOGS: Acc , 4 , 3 , 19
+OP6644c9ec LOGS: Wheels , 150 , -150
+OP6644c9ed LOGS: Wheels , 300 , 300
+OP6644c9ee LOGS: Acc , 8 , 0 , 18
+OP6644c9f0 LOGS: Wheels , 150 , -150
+OP6644c9f1 LOGS: Wheels , 300 , 300
+OP6644c9f4 LOGS: Wheels , 150 , -150
+OP6644c9f5 LOGS: Wheels , 300 , 300
+OP6644c9f6 LOGS: Acc , 5 , 0 , 21
+OP6644c9f7 LOGS: Acc , 22 , 1 , -9
+OP6644c9f8 LOGS: Wheels , -150 , 150
+OP6644c9f8 LOGS: Acc , 18 , -2 , -10
+OP6644c9f9 LOGS: Acc , 16 , 3 , -9
+OP6644c9f9 LOGS: Wheels , 300 , 300
+OP6644c9fa LOGS: Acc , 21 , 6 , -7
+OP6644c9fb LOGS: Acc , 16 , 4 , -4
