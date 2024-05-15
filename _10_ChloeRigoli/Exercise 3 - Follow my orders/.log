@@ -29,3 +29,22 @@ OP6644cb8f LOGS: center , pressed
 OP6644cb8f LOGS: Wheels , 0 , 0
 OP6644cb8f LOGS: center , released
 OP6644cb91 LOGS: Acc , 6 , -3 , 16
+OP6644cba5 LOGS: left , pressed
+OP6644cba6 LOGS: Wheels , -100 , 0
+OP6644cba6 LOGS: left , released
+OP6644cba7 LOGS: center , pressed
+OP6644cba7 LOGS: Wheels , 0 , 0
+OP6644cba7 LOGS: center , released
+OP6644cbb0 LOGS: left , pressed
+OP6644cbb0 LOGS: Wheels , -100 , 0
+OP6644cbb0 LOGS: left , released
+OP6644cbb9 LOGS: right , pressed
+OP6644cbb9 LOGS: Wheels , 100 , 0
+OP6644cbb9 LOGS: right , released
+OP6644cbc1 LOGS: Acc , 0 , 0 , 24
+OP6644cbc5 LOGS: center , pressed
+OP6644cbc5 LOGS: Wheels , 0 , 0
+OP6644cbc5 LOGS: center , released
+OP6644cbcb LOGS: backward , pressed
+OP6644cbcb LOGS: backward , released
+OP6644cbcc LOGS: backward , pressed
