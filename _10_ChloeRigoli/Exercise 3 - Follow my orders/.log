@@ -1,1 +1,31 @@
 WO6644cb55 
+WI6644cb73 
+OP6644cb74 Warning: in function 'buttons', redefining variable 'motor_right_target' from outer scope
+OP6644cb74     
+OP6644cb74 Line 1
+OP6644cb77 LOGS: forward , pressed
+OP6644cb77 LOGS: Wheels , -255 , 0
+OP6644cb77 LOGS: forward , released
+OP6644cb78 LOGS: Acc , 2 , -1 , 16
+OP6644cb79 LOGS: Acc , 1 , -1 , 16
+OP6644cb7a LOGS: Acc , 1 , -3 , 14
+OP6644cb7b LOGS: center , pressed
+OP6644cb7b LOGS: Wheels , 0 , 0
+OP6644cb7b LOGS: center , released
+OP6644cb81 LOGS: backward , pressed
+OP6644cb81 LOGS: backward , released
+OP6644cb82 LOGS: backward , pressed
+OP6644cb82 LOGS: backward , released
+OP6644cb83 LOGS: left , pressed
+OP6644cb83 LOGS: Wheels , -100 , 0
+OP6644cb83 LOGS: left , released
+OP6644cb88 LOGS: center , pressed
+OP6644cb88 LOGS: Wheels , 0 , 0
+OP6644cb88 LOGS: center , released
+OP6644cb8a LOGS: right , pressed
+OP6644cb8a LOGS: Wheels , 100 , 0
+OP6644cb8b LOGS: right , released
+OP6644cb8f LOGS: center , pressed
+OP6644cb8f LOGS: Wheels , 0 , 0
+OP6644cb8f LOGS: center , released
+OP6644cb91 LOGS: Acc , 6 , -3 , 16
