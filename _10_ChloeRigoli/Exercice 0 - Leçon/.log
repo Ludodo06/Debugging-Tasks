@@ -402,3 +402,9 @@ WO6644b8e2
 WI6644b9cb 
 WO6644b9cd 
 WI6644b9cf 
+OP6644ba0d  --- Start of the program motors.py --- 
+OP6644ba0d New target speed:	left 300 	right 150
+OP6644ba13 Thymio manipulated: 	x 3 		y -8 		z 17
+WO6644ba22 
+OP6644ba26 Python 3.7.9 (bundled)
+OP6644ba26 >>> 
