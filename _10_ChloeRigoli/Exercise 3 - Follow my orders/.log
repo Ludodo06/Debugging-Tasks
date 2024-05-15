@@ -145,3 +145,53 @@ OP6644cdb2 Error: invalid syntax
 OP6644cdb2     
 OP6644cdb2 Line 3
 OP6644cdd0  --- Start of the program Bug_MyOrders.py --- 
+OP6644cde0  --- Start of the program Bug_MyOrders.py --- 
+OP6644cde1 LOGS: forward , pressed
+OP6644cde1 LOGS: Wheels , 255 , 255
+OP6644cde1 LOGS: forward , released
+OP6644cde3 LOGS: center , pressed
+OP6644cde3 LOGS: Wheels , 0 , 0
+OP6644cde3 LOGS: center , released
+OP6644cde4 LOGS: backward , pressed
+OP6644cde4 LOGS: Wheels , -200 , -200
+OP6644cde4 LOGS: backward , released
+OP6644cde7 LOGS: center , pressed
+OP6644cde7 LOGS: Wheels , 0 , 0
+OP6644cde7 LOGS: center , released
+OP6644cdec LOGS: center , pressed
+OP6644cdec LOGS: center , released
+OP6644cdf2 LOGS: left , pressed
+OP6644cdf2 LOGS: left , released
+OP6644cdf8 LOGS: center , pressed
+OP6644cdf8 LOGS: Wheels , 0 , 0
+OP6644cdf8 LOGS: center , released
+OP6644cdf9 LOGS: right , pressed
+OP6644cdf9 LOGS: Wheels , 100 , -100
+OP6644cdf9 LOGS: right , released
+OP6644cdff LOGS: center , pressed
+OP6644cdff LOGS: Wheels , 0 , 0
+OP6644cdff LOGS: center , released
+OP6644ce01 LOGS: forward , pressed
+OP6644ce01 LOGS: Wheels , 255 , 255
+OP6644ce01 LOGS: forward , released
+OP6644ce02 LOGS: center , pressed
+OP6644ce02 LOGS: Wheels , 0 , 0
+OP6644ce02 LOGS: center , released
+OP6644ce02 LOGS: forward , pressed
+OP6644ce02 LOGS: Wheels , 255 , 255
+OP6644ce02 LOGS: forward , released
+OP6644ce03 LOGS: right , pressed
+OP6644ce03 LOGS: Wheels , 100 , -100
+OP6644ce03 LOGS: right , released
+OP6644ce03 LOGS: left , pressed
+OP6644ce03 LOGS: Wheels , -100 , 100
+OP6644ce03 LOGS: left , released
+OP6644ce04 LOGS: backward , pressed
+OP6644ce04 LOGS: Wheels , -200 , -200
+OP6644ce04 LOGS: backward , released
+OP6644ce04 LOGS: center , pressed
+OP6644ce04 LOGS: Wheels , 0 , 0
+OP6644ce04 LOGS: center , released
+WO6644ce0b 
+WI6644ce0c 
+WO6644ce0c 
