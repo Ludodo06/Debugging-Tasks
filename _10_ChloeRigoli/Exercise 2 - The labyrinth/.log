@@ -140,3 +140,30 @@ OP6644cb14 LOGS: Acc , 10 , 13 , -10
 OP6644cb15 LOGS: Acc , 12 , 13 , -8
 OP6644cb16 LOGS: Acc , 15 , 19 , -5
 OP6644cb17 LOGS: Acc , 1 , 7 , 15
+OP6644cb24 LOGS: forward , pressed
+OP6644cb24 LOGS: forward , released
+OP6644cb27 LOGS: backward , pressed
+OP6644cb27 LOGS: backward , released
+OP6644cb28 LOGS: Acc , 0 , 1 , 14
+OP6644cb29 LOGS: right , pressed
+OP6644cb29 LOGS: right , released
+OP6644cb2d LOGS: Acc , 0 , 0 , 16
+OP6644cb2f LOGS: left , pressed
+OP6644cb2f LOGS: left , released
+OP6644cb32 LOGS: center , pressed
+OP6644cb32 LOGS: center , released
+OP6644cb36 LOGS: forward , released
+OP6644cb37 LOGS: center , pressed
+OP6644cb37 LOGS: center , released
+OP6644cb38 LOGS: backward , pressed
+OP6644cb38 LOGS: backward , released
+OP6644cb3a LOGS: right , pressed
+OP6644cb3a LOGS: right , released
+OP6644cb3c LOGS: left , pressed
+OP6644cb3c LOGS: left , released
+OP6644cb3d LOGS: center , pressed
+OP6644cb3d LOGS: center , released
+OP6644cb41 LOGS: Acc , 0 , -2 , 15
+WI6644cb44 
+WO6644cb46 
+WI6644cb4d 
