@@ -1415,3 +1415,70 @@ OP6644be23  --- Start of the program events.py ---
 OP6644be27 Thymio manipulated: 	x -9 		y 16 		z 14
 OP6644be28 Thymio manipulated: 	x 0 		y -10 		z 14
 OP6644be2a Thymio manipulated: 	x 0 		y 0 		z 15
+OP6644be2f Button pressed: 	button_forward
+OP6644be2f Button pressed: 	button_forward
+OP6644be2f New target speed:	left 250    	right 250
+OP6644be31 New target speed:	left 0    	right 0
+OP6644be37 Button pressed: 	button_backward
+OP6644be37 Button pressed: 	button_backward
+OP6644be37 Button pressed: 	button_backward
+OP6644be38 Button pressed: 	button_left
+OP6644be38 Button pressed: 	button_left
+OP6644be38 Button pressed: 	button_center
+OP6644be38 Button pressed: 	button_center
+OP6644be38 Button pressed: 	button_right
+OP6644be38 Button pressed: 	button_right
+OP6644be3b Button pressed: 	button_forward
+OP6644be3b New target speed:	left 250    	right 250
+OP6644be3b Button pressed: 	button_forward
+OP6644be3d Button pressed: 	button_right
+OP6644be3d Thymio manipulated: 	x -1 		y -9 		z 7
+OP6644be3d Button pressed: 	button_right
+OP6644be3d Button pressed: 	button_backward
+OP6644be3e Button pressed: 	button_backward
+OP6644be3e Button pressed: 	button_center
+OP6644be3e Button pressed: 	button_center
+OP6644be3e Button pressed: 	button_left
+OP6644be3e Button pressed: 	button_left
+OP6644be3f Button pressed: 	button_center
+OP6644be3f Button pressed: 	button_center
+OP6644be40 Button pressed: 	button_backward
+OP6644be40 Button pressed: 	button_backward
+OP6644be40 Button pressed: 	button_right
+OP6644be40 Thymio manipulated: 	x -4 		y -2 		z 19
+OP6644be40 Button pressed: 	button_right
+OP6644be41 Thymio manipulated: 	x -4 		y -2 		z 16
+OP6644be42 Thymio manipulated: 	x -1 		y -7 		z 10
+OP6644be43 Button pressed: 	button_forward
+OP6644be43 Button pressed: 	button_forward
+OP6644be44 Thymio manipulated: 	x 0 		y -10 		z 16
+OP6644be44 Button pressed: 	button_forward
+OP6644be44 Button pressed: 	button_forward
+OP6644be44 Button pressed: 	button_forward
+OP6644be44 Button pressed: 	button_forward
+OP6644be44 Button pressed: 	button_forward
+OP6644be44 Button pressed: 	button_forward
+OP6644be44 Button pressed: 	button_forward
+OP6644be44 Button pressed: 	button_forward
+OP6644be45 Button pressed: 	button_forward
+OP6644be45 Button pressed: 	button_forward
+OP6644be45 Thymio manipulated: 	x 0 		y -8 		z 11
+OP6644be45 Button pressed: 	button_forward
+OP6644be45 Button pressed: 	button_forward
+OP6644be45 Button pressed: 	button_forward
+OP6644be45 Button pressed: 	button_forward
+OP6644be46 Thymio manipulated: 	x 0 		y -7 		z 14
+OP6644be47 Thymio manipulated: 	x 0 		y 7 		z 17
+OP6644be49 Thymio manipulated: 	x -3 		y -7 		z 12
+OP6644be4a Thymio manipulated: 	x -4 		y -4 		z 17
+OP6644be4b Thymio manipulated: 	x -2 		y -8 		z 15
+OP6644be4c Thymio manipulated: 	x 0 		y -8 		z 23
+OP6644be4f New target speed:	left 0    	right 0
+OP6644be60 Button pressed: 	button_backward
+OP6644be60 Button pressed: 	button_backward
+OP6644be65 Button pressed: 	button_left
+OP6644be65 Button pressed: 	button_left
+OP6644be67 Button pressed: 	button_right
+OP6644be67 Button pressed: 	button_right
+OP6644be67 Button pressed: 	button_right
+OP6644be67 Button pressed: 	button_right
