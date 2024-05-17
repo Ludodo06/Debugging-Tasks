@@ -870,3 +870,5 @@ OP6646fcdd Button pressed: 	button_forward
 OP6646fcdf Thymio manipulated: 	x -2 		y 7 		z 16
 OP6646fce1 New target speed:	left 0    	right 0
 WO6646fce6 
+WI6646fee1 
+WO6646fee1 
