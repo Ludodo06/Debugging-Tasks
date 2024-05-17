@@ -5,3 +5,5 @@ WI66470a1f
 WO66470a1f 
 WI66470a23 
 WO66470a23 
+WI66470a7f 
+OP66470a80 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
