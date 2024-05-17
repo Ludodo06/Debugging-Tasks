@@ -852,3 +852,11 @@ WO6646fb83
 WI6646fbed 
 WO6646fbf4 
 WI6646fbf9 
+OP6646fc2c  --- Start of the program events.py --- 
+OP6646fc38 Button pressed: 	button_forward
+OP6646fc38 New target speed:	left 250    	right 250
+OP6646fc38 Button pressed: 	button_forward
+OP6646fc3a New target speed:	left 0    	right 0
+OP6646fc5a Button pressed: 	button_forward
+OP6646fc5a New target speed:	left 250    	right 250
+OP6646fc5a Button pressed: 	button_forward
