@@ -10,3 +10,13 @@ OP664706d2 Line 15
 OP664706e0 Error: invalid syntax
 OP664706e0     
 OP664706e0 Line 15
+OP66470758  --- Start of the program Bug_TheLabyrinth.py --- 
+OP66470758 LOGS: Wheels , 300 , 300
+OP6647075b LOGS: Wheels , 150 , -150
+OP6647075c LOGS: Wheels , 300 , 300
+OP6647075f LOGS: Wheels , 150 , -150
+OP66470760 LOGS: Wheels , 300 , 300
+OP66470763 LOGS: Wheels , -150 , 150
+OP66470764 LOGS: Wheels , 300 , 300
+OP66470769 LOGS: Wheels , -150 , 150
+OP6647076b LOGS: Wheels , 300 , 300
