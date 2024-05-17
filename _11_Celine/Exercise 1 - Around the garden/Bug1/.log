@@ -18,3 +18,9 @@ WO664700cf
 WI664700ea 
 WO664700f1 
 WI664700f4 
+OP6647010d  --- Start of the program Bug1_Garden.py --- 
+OP6647010d LOGS: Wheels , 400 , 400
+OP66470110 LOGS: Acc , 4 , 0 , 22
+OP66470111 LOGS: Wheels , -400 , 400
+OP66470112 LOGS: Acc , 0 , -7 , 12
+OP66470112 LOGS: Wheels , 400 , 400
