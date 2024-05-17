@@ -24,3 +24,10 @@ OP66470110 LOGS: Acc , 4 , 0 , 22
 OP66470111 LOGS: Wheels , -400 , 400
 OP66470112 LOGS: Acc , 0 , -7 , 12
 OP66470112 LOGS: Wheels , 400 , 400
+OP66470164  --- Start of the program Bug1_Garden.py --- 
+OP66470165 LOGS: Wheels , 400 , 400
+OP66470168 LOGS: Acc , 4 , 2 , 25
+OP66470169 LOGS: Wheels , -200 , 200
+OP6647016a LOGS: Wheels , 400 , 400
+OP6647016e LOGS: Wheels , -200 , 200
+OP6647016f LOGS: Wheels , 400 , 400
