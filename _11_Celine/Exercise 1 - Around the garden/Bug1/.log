@@ -31,3 +31,23 @@ OP66470169 LOGS: Wheels , -200 , 200
 OP6647016a LOGS: Wheels , 400 , 400
 OP6647016e LOGS: Wheels , -200 , 200
 OP6647016f LOGS: Wheels , 400 , 400
+OP66470188  --- Start of the program Bug1_Garden.py --- 
+OP66470189 LOGS: Wheels , 500 , 500
+OP6647018a LOGS: Acc , 1 , -8 , 15
+OP6647018b LOGS: Acc , 4 , 0 , 14
+OP6647018d LOGS: Wheels , -200 , 200
+OP6647018e LOGS: Wheels , 500 , 500
+OP66470191 LOGS: Acc , 3 , -9 , 17
+OP66470192 LOGS: Wheels , -200 , 200
+OP66470193 LOGS: Wheels , 500 , 500
+OP66470194 LOGS: Acc , 0 , -7 , 13
+OP66470196 LOGS: Acc , 2 , -10 , 1
+OP66470197 LOGS: Wheels , -200 , 200
+OP66470198 LOGS: Wheels , 500 , 500
+OP664701b9  --- Start of the program Bug1_Garden.py --- 
+OP664701b9 LOGS: Wheels , 500 , 500
+OP664701bb LOGS: Acc , 2 , 8 , 14
+OP664701bc LOGS: Acc , 0 , -9 , -1
+OP664701bd LOGS: Wheels , -200 , 200
+OP664701be LOGS: Wheels , 500 , 500
+OP664701bf LOGS: Acc , 1 , -7 , 12
