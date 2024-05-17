@@ -4,8 +4,8 @@ def buttons():                                     # Triggers everytime a button
     global motor_left_target, motor_right_target, leds_top   # Usefull to modify global variables 
     
     if button_forward:                             # If the button is pressed
-        motor_left_target = 250                    # Then go forward with both wheels
-        motor_right_target = 250
+        motor_left_target = -250                    # Then go forward with both wheels
+        motor_right_target = -250
         
     
         
