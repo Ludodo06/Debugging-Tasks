@@ -27,3 +27,50 @@ OP664708be LOGS: center , pressed
 OP664708be LOGS: Wheels , 0 , 0
 OP664708be LOGS: center , released
 OP664708c6 LOGS: Acc , 0 , 1 , 24
+OP664708e8 LOGS: right , pressed
+OP664708e8 LOGS: Wheels , 100 , 0
+OP664708ed LOGS: center , pressed
+OP664708ed LOGS: Wheels , 0 , 0
+OP664708ed LOGS: center , released
+OP664708f3 LOGS: left , pressed
+OP664708f3 LOGS: Wheels , -100 , 0
+OP664708f3 LOGS: left , released
+OP664708f5 LOGS: center , pressed
+OP664708f5 LOGS: Wheels , 0 , 0
+OP664708f5 LOGS: center , released
+OP664708f7 LOGS: left , pressed
+OP664708f7 LOGS: Wheels , -100 , 0
+OP664708f7 LOGS: left , released
+OP664708f8 LOGS: right , pressed
+OP664708f8 LOGS: Wheels , 100 , 0
+OP664708f8 LOGS: right , released
+OP664708fa LOGS: center , pressed
+OP664708fa LOGS: Wheels , 0 , 0
+OP664708fa LOGS: center , released
+OP664708fd LOGS: right , pressed
+OP664708fd LOGS: Wheels , 100 , 0
+OP664708fd LOGS: right , released
+OP66470902 LOGS: left , pressed
+OP66470902 LOGS: Wheels , -100 , 0
+OP66470902 LOGS: left , released
+OP66470903 LOGS: right , pressed
+OP66470903 LOGS: Wheels , 100 , 0
+OP66470903 LOGS: right , released
+OP66470904 LOGS: left , pressed
+OP66470904 LOGS: Wheels , -100 , 0
+OP66470904 LOGS: left , released
+OP6647090c LOGS: center , pressed
+OP6647090c LOGS: Wheels , 0 , 0
+OP6647090d LOGS: center , released
+OP66470913 LOGS: Acc , -1 , -4 , 24
+OP66470915 LOGS: left , pressed
+OP66470915 LOGS: Wheels , -100 , 0
+OP66470915 LOGS: left , released
+OP6647091a LOGS: center , pressed
+OP6647091a LOGS: Wheels , 0 , 0
+OP6647091b LOGS: center , released
+OP66470921 LOGS: Acc , -1 , 0 , 26
+OP66470922 LOGS: backward , pressed
+OP66470922 LOGS: backward , released
+OP66470923 LOGS: backward , pressed
+OP66470923 LOGS: backward , released
