@@ -5,10 +5,8 @@ def prox():
     # print(...)
     
     
-    
     # You can also print the ground sensors here
     # print(...)
-    
     
     
     pass
